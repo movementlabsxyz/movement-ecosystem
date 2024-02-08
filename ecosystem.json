@@ -1,0 +1,24 @@
+{
+    "Movement": {
+        "description": "A description of my ecosystem",
+        "url": "https://movementlabs.com",
+        "slug": "movement-labs",
+        "keywords": [
+            "movement",
+            "labs",
+            "ecosystem",
+            "blockchain",
+            "layer 1",
+            "layer 2"
+        ],
+        "category": "DeFi",
+        "subcategories": [
+            "Other"
+        ],
+        "languages": ["Solidity", "Sui", "Aptos"],
+        "tags": [
+            "Hiring Now",
+            "Mainnet"
+        ]
+    }
+}
