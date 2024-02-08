@@ -41,7 +41,7 @@ An example of a good pull request would be:
 ```
 - logo and background image addition to /logo and /background. The images should be named after the project's slug and have a .png extension.
 
-Where the Object key is the name of the project formatted and cased according to how it should be displayed across the website and the value is an object with the following properties:
+Object key is the name of the project formatted and cased according to how it should be displayed across the website and the value is an object with the following properties:
 - url: The official website of the project
 - discord: The official discord server of the project
 - slug: The preferred name of the project in lowercase, and hyphenated if necessary.
