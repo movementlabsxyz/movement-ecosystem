@@ -19,7 +19,7 @@ An example of a good pull request would be:
         "description": "A description of my ecosystem",
         "url": "https://movementlabs.com",
         "github": "https://github.com/movementlabsxyz",
-        "discord": "https://discord.gg/movementlabs",
+        "discord": "https://discord.gg/movementlabsxyz",
         "telegram": "https://t.me/movementlabsxyz",
         "twitter": "https://x.com/movementlabsxyz",
         "contact": "https://t.me/Torab_Torabi",
