@@ -44,7 +44,7 @@ An example of a good pull request would be:
     }
 }
 ```
-- logo and background image addition to /logo and /background. The images should be named after the project's slug and have a .png extension.
+- logo and banner image addition to /logo and /banner. The images should be named after the project's slug and have a .png extension.
 
 Object key is the name of the project formatted and cased according to how it should be displayed across the website and the value is an object with the following properties (? indicates optional):
 - description: A brief description of the project
@@ -55,7 +55,7 @@ Object key is the name of the project formatted and cased according to how it sh
 - twitter?: X account of the project
 - contact?: Direct contact link to a representative of the project
 - slug: The preferred name of the project in lowercase, and hyphenated if necessary.
-  - IMPORTANT: This is the name that will be used to reference the project when generating a URL for the project's page, and retrieving the project's logo and background image.
+  - IMPORTANT: This is the name that will be used to reference the project when generating a URL for the project's page, and retrieving the project's logo and banner image.
 - keywords?: An array of keywords that describe the project. This will be used to help users find the project. Maximum of 5 keywords.
 - category: The category of the project. This will be used to help users find the project.
   - Available categories: "DeFi", "NFT", "Gaming", "Infrastructure", "Wallet", "Analytics", "Social", "Other"
