@@ -12,7 +12,7 @@ Refrain from adding any sensitive or speculative information to the repository.
 
 An example of a good pull request would be:
 
-- ecosystem.json modification
+- ecosystem.json modification. It should be added to the end of the json file.
 ```json
 {
     "Movement": {
@@ -41,12 +41,17 @@ An example of a good pull request would be:
 ```
 - logo and background image addition to /logo and /background. The images should be named after the project's slug and have a .png extension.
 
-Object key is the name of the project formatted and cased according to how it should be displayed across the website and the value is an object with the following properties:
-- url: The official website of the project
-- discord: The official discord server of the project
+Object key is the name of the project formatted and cased according to how it should be displayed across the website and the value is an object with the following properties (? indicates optional):
+- description: A brief description of the project
+- url: The website of the project
+- github?: The github repository of the project
+- discord?: The discord server of the project
+- telegram?: The telegram group of the project
+- twitter?: X account of the project
+- contact?: Direct contact link to a representative of the project
 - slug: The preferred name of the project in lowercase, and hyphenated if necessary.
   - IMPORTANT: This is the name that will be used to reference the project when generating a URL for the project's page, and retrieving the project's logo and background image.
-- keywords: An array of keywords that describe the project. This will be used to help users find the project. Maximum of 5 keywords.
+- keywords?: An array of keywords that describe the project. This will be used to help users find the project. Maximum of 5 keywords.
 - category: The category of the project. This will be used to help users find the project.
   - Available categories: "DeFi", "NFT", "Gaming", "Infrastructure", "Wallet", "Analytics", "Social", "Other"
 - subcategories: An array of subcategories that describe the project. They must match your specified category. This will be used to help users find the project.
@@ -59,7 +64,7 @@ Object key is the name of the project formatted and cased according to how it sh
   - Social: "DAO", "Community", "Content Creator", "Marketing", "Education", "Hackathon", "Other"
   - Investors: "VC", "Angel", "Incubator", "Accelerator", "Other"
   - Other:
-- language: The main or closest language to the project's smart contracts or supported languages.
+- language?: The main or closest language to the project's smart contracts or supported languages.
   - Available languages: "Solidity", "Rust", "Sui", "Aptos"
-- tags: An array of tags that describe the project. Tags are not selectable.
+- tags?: An array of tags that describe the project. Tags are not selectable.
   - Available tags: "Hiring Now", "Bounty", "Mainnet", "Testnet", "Devnet"
