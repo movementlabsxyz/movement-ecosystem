@@ -18,6 +18,11 @@ An example of a good pull request would be:
     "Movement": {
         "description": "A description of my ecosystem",
         "url": "https://movementlabs.com",
+        "github": "https://github.com/movementlabsxyz",
+        "discord": "https://discord.gg/movementlabs",
+        "telegram": "https://t.me/movementlabsxyz",
+        "twitter": "https://x.com/movementlabsxyz",
+        "contact": "https://t.me/Torab_Torabi",
         "slug": "movement-labs",
         "keywords": [
             "movement",
@@ -64,7 +69,7 @@ Object key is the name of the project formatted and cased according to how it sh
   - Social: "DAO", "Community", "Content Creator", "Marketing", "Education", "Hackathon", "Other"
   - Investors: "VC", "Angel", "Incubator", "Accelerator", "Other"
   - Other:
-- language?: The main or closest language to the project's smart contracts or supported languages.
+- languages?: The main or closest languages to the project's smart contracts or supported languages.
   - Available languages: "Solidity", "Rust", "Sui", "Aptos"
 - tags?: An array of tags that describe the project. Tags are not selectable.
   - Available tags: "Hiring Now", "Bounty", "Mainnet", "Testnet", "Devnet"
