@@ -86,5 +86,111 @@
             "Testnet",
             "Devnet"
         ]
+    },
+    "Interest Protocol": {
+        "description": "Swap, lend, borrow and farm.",
+        "url": "https://www.interestprotocol.com/",
+        "github": "https://github.com/interestprotocol",
+        "discord": "https://discord.gg/interestprotocol",
+        "telegram": "https://t.me/interestprotocol",
+        "twitter": "https://x.com/interestprotocol",
+        "slug": "interest-protocol",
+        "keywords": [
+        ],
+        "category": "DeFi",
+        "subcategories": [
+            "DEX", "Perpetuals"
+        ],
+        "languages": [
+            "Sui"
+        ],
+        "tags": [
+            "Testnet",
+            "Devnet"
+        ]
+    },
+    "Gilder": {
+        "description": "The ultimate Web3 community platform for Gamers, Anime Fans, and more. Forums, Chat, Reputation Builder, Team Gaming Tools.",
+        "url": "https://gilder.io/",
+        "github": "https://github.com/gildersui",
+        "discord": "https://discord.gg/gildersui",
+        "telegram": "https://t.me/gilder",
+        "twitter": "https://x.com/gildersui",
+        "slug": "gilder",
+        "keywords": ["Community", "Gaming", "Anime", "Web3"],
+        "category": "Gaming",
+        "subcategories": [
+            "DAO", "Other"
+        ],
+        "languages": [
+            "Sui"
+        ],
+        "tags": [
+            "Testnet",
+            "Devnet"
+        ]
+    },
+    "Pyth": {
+        "description": "The Pyth network is a first-party financial oracle network designed to provide low-latency real-world data to multiple blockchains in a secure and transparent manner.",
+        "url": "https://pyth.network/",
+        "github": "https://github.com/pyth-network",
+        "discord": "https://discord.gg/PythNetwork",
+        "telegram": "https://t.me/Pyth_Network",
+        "twitter": "https://twitter.com/PythNetwork",
+        "slug": "pyth-network",
+        "keywords": ["Oracle", "Infrastructure", "Web3", "onchain"],
+        "category": "Infrastructure",
+        "subcategories": [
+            "Oracle"
+        ],
+        "languages": [
+            "Solidity"
+        ],
+        "tags": [
+            "Testnet",
+            "Devnet"
+        ]
+    },
+    "Supra Oracles": {
+        "description": "Supra is a novel decentralized cross-chain oracle solution.",
+        "url": "https://supra.com/",
+        "github": "https://github.com/supra-oracles",
+        "discord": "https://discord.gg/supra",
+        "telegram": "https://t.me/supra",
+        "twitter": "https://x.com/supra",
+        "slug": "supra-oracles",
+        "keywords": ["Oracle", "Infrastructure", "Web3", "onchain"],
+        "category": "Infrastructure",
+        "subcategories": [
+            "Oracle"
+        ],
+        "languages": [
+            "Solidity", "Aptos", "Sui"
+        ],
+        "tags": [
+            "Testnet",
+            "Devnet"
+        ]
+    },
+    "GoGoPool": {
+        "description": "Subnets Made Easy. Launch a validator node or stake AVAX instantly.",
+        "url": "https://www.gogopool.com/",
+        "github": "https://github.com/supra-oracles",
+        "discord": "https://discord.com/invite/4fNtjkyuNw",
+        "telegram": "",
+        "twitter": "https://twitter.com/GoGoPool_",
+        "slug": "gogopool",
+        "keywords": ["Liquid Staking", "Avalanche", "Sbunets", "onchain", "LST"],
+        "category": "DeFi",
+        "subcategories": [
+            "LST"
+        ],
+        "languages": [
+            "Solidity"
+        ],
+        "tags": [
+            "Testnet",
+            "Devnet"
+        ]
     }
 }

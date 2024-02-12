@@ -60,7 +60,7 @@ Object key is the name of the project formatted and cased according to how it sh
 - category: The category of the project. This will be used to help users find the project.
   - Available categories: "DeFi", "NFT", "Gaming", "Infrastructure", "Wallet", "Analytics", "Social", "Other"
 - subcategories: An array of subcategories that describe the project. They must match your specified category. This will be used to help users find the project.
-  - DeFi: "DEX", "Lending", "Derivatives", "Payments", "RWA", "Insurance", "Liquidation", "Stablecoin", "Yield Aggregator", "Swap Aggregator", "Other"
+  - DeFi: "DEX", "Lending", "Derivatives", "Payments", "RWA", "Insurance", "Perpetuals","Liquidation", "Stablecoin", "Yield Aggregator", "Swap Aggregator", "LST", "Other"
   - NFT: "Marketplace", "Gaming", "DAO", "PFP", "Metaverse", "Art", "Music", "Collectibles", "Other"
   - Gaming: "Play to Earn", "NFT", "DAO", "Metaverse", "Marketplace", "Other"
   - Infrastructure: "Layer 1", "Layer 2", "Oracles", "Bridges", "Scalability", "Privacy", "Other"
