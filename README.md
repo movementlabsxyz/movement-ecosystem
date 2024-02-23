@@ -1,11 +1,13 @@
 # Movement Ecosystem
 
 ## Description
+
 Repository for the Movement Ecosystem projects. This aims to facilitate every project building on the ecosystem to have an easy and maintainable way to publish their information.
 
 ## How to Contribute
 
 ### Opening a Pull Request
+
 You can make any changes you want and open a pull request from an account with public record of interacting with related altered data or has had identity confirmed by official channels. The maintainers will review your changes and merge them if they are good to go.
 Refrain from altering unrelated files, as this will only make the review process longer.
 Refrain from adding any sensitive or speculative information to the repository.
@@ -13,11 +15,12 @@ Refrain from adding any sensitive or speculative information to the repository.
 An example of a good pull request would be:
 
 - ecosystem.json modification. It should be added to the end of the json file.
+
 ```json
 {
     "Movement": {
         "description": "A description of my ecosystem",
-        "url": "https://movementlabs.com",
+        "url": "https://movementlabs.xyz",
         "github": "https://github.com/movementlabsxyz",
         "discord": "https://discord.gg/movementlabsxyz",
         "telegram": "https://t.me/movementlabsxyz",
@@ -44,10 +47,13 @@ An example of a good pull request would be:
     }
 }
 ```
-- logo and banner image addition to /logo and /banner. The images should be named after the project's slug and have a .png extension.
+
+- logo, banner and hero image addition to /logo, /banner and /hero. The images should be named after the project's slug and have a .png extension. Logo is shown on the project's card and page, banner is shown on the project's card and hero is shown on the project page.
 
 Object key is the name of the project formatted and cased according to how it should be displayed across the website and the value is an object with the following properties (? indicates optional):
-- description: A brief description of the project
+
+- description: A brief description of the project. Shown on the project's card and page.
+- content: A more detailed description of the project. Shown on the project's page.
 - url: The website of the project
 - github?: The github repository of the project
 - discord?: The discord server of the project
