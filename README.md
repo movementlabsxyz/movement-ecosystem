@@ -76,6 +76,6 @@ Object key is the name of the project formatted and cased according to how it sh
   - Investors: "VC", "Angel", "Incubator", "Accelerator", "Other"
   - Other:
 - languages?: The main or closest languages to the project's smart contracts or supported languages.
-  - Available languages: "Solidity", "Rust", "Sui", "Aptos"
+  - Available languages: "Solidity", "Rust", "SuiMove", "AptosMove"
 - tags?: An array of tags that describe the project. Tags are not selectable.
   - Available tags: "Hiring Now", "Bounty", "Mainnet", "Testnet", "Devnet"
