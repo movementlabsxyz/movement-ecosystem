@@ -225,5 +225,36 @@
             "Testnet",
             "Devnet"
         ]
+    },
+    "Gorillaz": {
+        "description": "The most epic gorilla community on Movement.",
+        "content": "Gorilla moverz will be an epic community of gorillas on Movement, and together WAGMI.",
+        "url": "https://www.gorillamoverz.xyz/",
+        "github": "#",
+        "discord": "https://discord.gg/yWNEcv8jxf",
+        "telegram": "#",
+        "twitter": "#",
+        "slug": "gorillaz",
+        "keywords": [
+            "Gorilla",
+            "Movers",
+            "WAGMI",
+            "NFT",
+            "Community",
+            "Fun",
+            "Vibes",
+            "Entertainment"
+        ],
+        "category": "NFT",
+        "subcategories": [
+            "Other"
+        ],
+        "languages": [
+            "Solidity"
+        ],
+        "tags": [
+            "Testnet",
+            "Devnet"
+        ]
     }
 }
