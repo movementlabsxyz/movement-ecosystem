@@ -230,17 +230,17 @@
         "description": "The most epic gorilla community on Movement.",
         "content": "Gorilla moverz will be an epic community of gorillas on Movement, and together WAGMI.",
         "url": "https://www.gorillamoverz.xyz/",
-        "github": "",
+        "github": "https://github.com/AltayDev",
         "discord": "https://discord.gg/yWNEcv8jxf",
         "telegram": "",
-        "twitter": "",
+        "twitter": "https://twitter.com/GorillaMoverz",
         "slug": "gorillaz",
         "keywords": [
             "Gorilla",
-            "Movers",
+            "Community",
             "WAGMI",
             "NFT",
-            "Community"
+            "Movement"
         ],
         "category": "NFT",
         "subcategories": [
