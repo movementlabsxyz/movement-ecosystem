@@ -20,12 +20,13 @@ An example of a good pull request would be:
 {
     "Movement": {
         "description": "A description of my ecosystem",
+        "content": "Movement Labs is bringing Move execution to new networks and environments. Our flagship products are M1 and M2. We are also building the Movement SDK, Movement CLI, Fractal, Hyperlane messaging infrastructure, and the Movement Shared Sequencer to provide paramount interoperability between our Move-based environments and other networks.",
         "url": "https://movementlabs.xyz",
         "github": "https://github.com/movementlabsxyz",
         "discord": "https://discord.gg/movementlabsxyz",
         "telegram": "https://t.me/movementlabsxyz",
         "twitter": "https://x.com/movementlabsxyz",
-        "contact": "https://t.me/Torab_Torabi",
+        "contact": "https://t.me/franciskthomas",
         "slug": "movement-labs",
         "keywords": [
             "movement",
@@ -49,6 +50,9 @@ An example of a good pull request would be:
 ```
 
 - logo, banner and hero image addition to /logo, /banner and /hero. The images should be named after the project's slug and have a .png extension. Logo is shown on the project's card and page, banner is shown on the project's card and hero is shown on the project page.
+- logo size: 200x200px
+- banner size: 400x300px
+- hero size: 1700x500px
 
 Object key is the name of the project formatted and cased according to how it should be displayed across the website and the value is an object with the following properties (? indicates optional):
 
@@ -64,11 +68,11 @@ Object key is the name of the project formatted and cased according to how it sh
   - IMPORTANT: This is the name that will be used to reference the project when generating a URL for the project's page, and retrieving the project's logo and banner image.
 - keywords?: An array of keywords that describe the project. This will be used to help users find the project. Maximum of 5 keywords.
 - category: The category of the project. This will be used to help users find the project.
-  - Available categories: "DeFi", "NFT", "Gaming", "Infrastructure", "Wallet", "Analytics", "Social", "Other"
+  - Available categories: "DeFi", "NFT", "Gaming", "Infrastructure", "Wallet", "Analytics", "Social", "Investor", "Other"
 - subcategories: An array of subcategories that describe the project. They must match your specified category. This will be used to help users find the project.
   - DeFi: "DEX", "Lending", "Derivatives", "Payments", "RWA", "Insurance", "Perpetuals","Liquidation", "Stablecoin", "Yield Aggregator", "Swap Aggregator", "LST", "Other"
   - NFT: "Marketplace", "Gaming", "DAO", "PFP", "Metaverse", "Art", "Music", "Collectibles", "Other"
-  - Gaming: "Play to Earn", "NFT", "DAO", "Metaverse", "Marketplace", "Other"
+  - Gaming: "Play to Earn", "Play and Earn", "Gaming Focused", "NFT", "DAO", "Metaverse", "Marketplace", "Other"
   - Infrastructure: "Layer 1", "Layer 2", "Oracles", "Bridges", "Scalability", "Privacy", "Other"
   - Wallet: "Extension", "Mobile", "Hardware", "Other"
   - Analytics: "Data", "Charts", "Magazine", "Content Creator", "Other"
