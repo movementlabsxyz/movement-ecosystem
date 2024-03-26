@@ -9,9 +9,9 @@ def resize_image(input_path, output_path, size):
 def main():
     # Define the sizes and paths for logo, banner, and hero images
     image_info = {
-        'logo': {'size': (200, 200), 'input_dir': 'logo', 'output_dir': 'resized-logo'},
-        'banner': {'size': (400, 400), 'input_dir': 'banner', 'output_dir': 'resized-banner'},
-        'hero': {'size': (1700, 500), 'input_dir': 'hero', 'output_dir': 'resized-hero'}
+        'logo': {'size': (200, 200), 'input_dir': 'logo', 'output_dir': 'resized-images/resized-logo'},
+        'banner': {'size': (400, 400), 'input_dir': 'banner', 'output_dir': 'resized-images/resized-banner'},
+        'hero': {'size': (1700, 500), 'input_dir': 'hero', 'output_dir': 'resized-images/resized-hero'}
     }
 
     # Resize each image type
