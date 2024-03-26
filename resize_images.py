@@ -28,8 +28,12 @@ def main():
             if image_name.endswith('.png'):
                 input_path = os.path.join(input_dir, image_name)
                 output_path = os.path.join(output_dir, image_name)
-                resize_image(input_path, output_path, size)
-                print(f'Resized {image_type} image saved to {output_path}')
+                try:
+                    resize_image(input_path, output_path, size)
+                    print(f'Resized {image_type} image saved to {output_path}')
+                except Exception as e:
+                    print(f'Error processing {input_path}: {e}')
+
 
 if __name__ == '__main__':
     main()
