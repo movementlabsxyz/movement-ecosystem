@@ -1,6 +1,6 @@
 {
     "Movement": {
-        "description": "A description of my ecosystem",
+        "description": "A Network of Modular Move Based Blockchain",
         "content": "Movement Labs is bringing Move execution to new networks and environments. Our flagship products are M1 and M2. We are also building the Movement SDK, Movement CLI, Fractal, Hyperlane messaging infrastructure, and the Movement Shared Sequencer to provide paramount interoperability between our Move-based environments and other networks.",
         "url": "https://movementlabs.xyz",
         "github": "https://github.com/movementlabsxyz",
