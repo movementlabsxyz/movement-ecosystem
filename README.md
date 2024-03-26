@@ -51,7 +51,7 @@ An example of a good pull request would be:
 
 - logo, banner and hero image addition to /logo, /banner and /hero. The images should be named after the project's slug and have a .png extension. Logo is shown on the project's card and page, banner is shown on the project's card and hero is shown on the project page.
 - logo size: 200x200px
-- banner size: 400x300px
+- banner size: 400x400px
 - hero size: 1700x500px
 
 Object key is the name of the project formatted and cased according to how it should be displayed across the website and the value is an object with the following properties (? indicates optional):
