@@ -1,5 +1,7 @@
 const fs = require('fs');
 const { parse } = require('csv-parse/sync');
+const axios = require('axios');
+const path = require('path');
 
 const csv = fs.readFileSync('process.csv', 'utf8').replace(/^\uFEFF/, '');
 
@@ -41,26 +43,65 @@ function getSubcategories(record, category) {
     }
 }
 
-const json = records.reduce((acc, record) => {
-    const project = {
-        description: record["Short Description (100 max characters)"],
-        content: record["Project Page content (500 max characters)"],
-        url: record["Project Website URL"],
-        github: record["GitHub"],
-        discord: record["Discord"],
-        telegram: record["Telegram"],
-        twitter: record["Twitter/X"],
-        contact: record["Point of Contact"],
-        slug: record["Slug"],
-        keywords: record["Keywords"] ? record["Keywords"].split(',').slice(0, 5) : [],
-        category: record["Category"],
-        subcategories: getSubcategories(record, record["Category"]),
-        languages: record["Languages"] ? record["Languages"].split(',').filter(lang => lang.trim() !== '') : [],
-        tags: record["Tags"] ? record["Tags"].split(',').filter(tag => tag.trim() !== '') : []
-    };
+// Function to download and save an image
+async function downloadImage(url, folder, filename) {
+    if (!url) return; // Skip if the URL is empty or undefined
 
-    acc[record["Project Name"]] = project;
-    return acc;
-}, {});
+    const filePath = path.join(folder, filename);
+    const writer = fs.createWriteStream(filePath);
 
-fs.writeFileSync('processed.json', JSON.stringify(json, null, 2));
+    const response = await axios({
+        url,
+        method: 'GET',
+        responseType: 'stream'
+    });
+
+    response.data.pipe(writer);
+
+    return new Promise((resolve, reject) => {
+        writer.on('finish', resolve);
+        writer.on('error', reject);
+    });
+}
+
+// Ensure directories exist
+const directories = ['../logo', '../banner', '../hero'];
+directories.forEach(dir => {
+    if (!fs.existsSync(dir)) {
+        fs.mkdirSync(dir, { recursive: true });
+    }
+});
+
+// Process and download images
+(async () => {
+    const json = records.reduce((acc, record) => {
+        const project = {
+            description: record["Short Description (100 max characters)"],
+            content: record["Project Page content (500 max characters)"],
+            url: record["Project Website URL"],
+            github: record["GitHub"],
+            discord: record["Discord"],
+            telegram: record["Telegram"],
+            twitter: record["Twitter/X"],
+            contact: record["Point of Contact"],
+            slug: record["Slug"],
+            keywords: record["Keywords"] ? record["Keywords"].split(',').slice(0, 5) : [],
+            category: record["Category"],
+            subcategories: getSubcategories(record, record["Category"]),
+            languages: record["Languages"] ? record["Languages"].split(',').filter(lang => lang.trim() !== '') : [],
+            tags: record["Tags"] ? record["Tags"].split(',').filter(tag => tag.trim() !== '') : []
+        };
+
+        acc[record["Project Name"]] = project;
+        
+        return acc;
+    }, {});
+
+    for (const record of records) {
+        await downloadImage(record['Logo (200x200px)'], '../logo', `${record.Slug}.png`);
+        await downloadImage(record['Banner (400x300px)'], '../banner', `${record.Slug}.png`);
+        await downloadImage(record['Hero (1700x500px)'], '../hero', `${record.Slug}.png`);
+    }
+
+    fs.writeFileSync('processed.json', JSON.stringify(json, null, 2));
+})();
