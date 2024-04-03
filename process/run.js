@@ -43,9 +43,8 @@ function getSubcategories(record, category) {
     }
 }
 
-// Function to download and save an image
 async function downloadImage(url, folder, filename) {
-    if (!url) return; // Skip if the URL is empty or undefined
+    if (!url) return;
 
     const filePath = path.join(folder, filename);
     const writer = fs.createWriteStream(filePath);
@@ -64,7 +63,6 @@ async function downloadImage(url, folder, filename) {
     });
 }
 
-// Ensure directories exist
 const directories = ['../logo', '../banner', '../hero'];
 directories.forEach(dir => {
     if (!fs.existsSync(dir)) {
@@ -72,7 +70,6 @@ directories.forEach(dir => {
     }
 });
 
-// Process and download images
 (async () => {
     const json = records.reduce((acc, record) => {
         const project = {
