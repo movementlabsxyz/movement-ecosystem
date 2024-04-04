@@ -8,7 +8,7 @@ processes responses from Tally
 npm install
 ```
 
-Download responses from Tally and save them to `responses.csv`.
+Download responses from Tally and save them to `process.csv`.
 
 ```bash
 node run.js
