@@ -610,32 +610,6 @@
         ]
     },
 
-    "Interest Protocol": {
-        "description": "Multichain DEX Powered by Movementlabsxyz & SuiNetwork",
-        "content": "Shaping the Future of Decentralized Finance",
-        "url": "https://www.interestprotocol.com/",
-        "github": "https://github.com/interest-protocol",
-        "discord": "https://discord.gg/QSKV9yXu",
-        "telegram": "",
-        "twitter": "https://twitter.com/interest_dinero",
-        "contact": "",
-        "slug": "interest-protocol",
-        "keywords": [
-            "Defi",
-            "Dex",
-            "Ecosystem"
-        ],
-        "category": "DeFi",
-        "subcategories": [
-            "DEX",
-            "Other"
-        ],
-        "languages": ["Solidity", "Sui"],
-        "tags": [
-            "Testnet", "Devnet"
-        ]
-    },
-
     "Lexer Market": {
         "description": "Long, Short, Swap Perpetual Everything ",
         "content": "Decentralized perpetual exchange for Forex, Crypto, NFT & more.",
@@ -737,58 +711,6 @@
         "languages": [],
         "tags": [
 
-        ]
-    },
-
-    "Gilder": {
-        "description": "Web3 Community Platform for Gamers",
-        "content": "The ultimate Web3 community platform for Gamers, Anime Fans, and more. Forums, Chat, Reputation Builder, Team Gaming Tools.",
-        "url": "https://gilder.io/",
-        "github": "",
-        "discord": "discord.gg/grpcgyzVEd",
-        "telegram": "https://t.me/gildersui",
-        "twitter": "https://twitter.com/GilderSui",
-        "contact": "",
-        "slug": "gilder",
-        "keywords": [
-            "Gaming",
-            "Community",
-            "Ecosystem"
-        ],
-        "category": "Gaming",
-        "subcategories": [
-            "DAO",
-            "Other"
-        ],
-        "languages": ["Sui"],
-        "tags": [
-            "Devnet"
-        ]
-    },
-
-    "Pyth Network": {
-        "description": "Largest First Party Oracle Network",
-        "content": "Secure your smart contracts with reliable, low-latency market data from institutional sources. Build apps with high-fidelity oracle feeds designed for mission-critical systems.",
-        "url": "https://pyth.network/",
-        "github": "https://github.com/pyth-network",
-        "discord": "https://discord.com/invite/PythNetwork",
-        "telegram": "https://t.me/PythAnnouncements",
-        "twitter": "https://twitter.com/PythNetwork",
-        "contact": "https://pyth.network/contact",
-        "slug": "pyth-network",
-        "keywords": [
-            "Oracle",
-            "data",
-            "Ecosystem"
-        ],
-        "category": "Infrastructure",
-        "subcategories": [
-            "Oracle",
-            "Other"
-        ],
-        "languages": ["Solidity"],
-        "tags": [
-            "Testnet","Devnet"
         ]
     },
 
