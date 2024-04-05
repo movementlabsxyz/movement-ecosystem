@@ -254,7 +254,6 @@
             "Devnet"
         ]
     },
-
     "Avalanche": {
         "description": "Build anything you want, any way you want on the lightning fast, scalable blockchain that wont let you down.",
         "content": "Avalanche is the future-proof blockchain built to scale. Build any thing you want, any way you want on the most developer-friendly Layer 1",
@@ -275,14 +274,17 @@
         ],
         "category": "Infrastructure",
         "subcategories": [
-            "Layer 1", "Layer 2"
+            "Layer 1",
+            "Layer 2"
         ],
-        "languages": ["Solidity"],
+        "languages": [
+            "Solidity"
+        ],
         "tags": [
-            "Testnet", "Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-
     "Near": {
         "description": "Delivering on the promises of Web3, with Chain Abstraction.",
         "content": "NEAR is the chain abstraction stack, empowering builders to create apps that scale to billions of users and across all blockchains.",
@@ -304,12 +306,14 @@
         "subcategories": [
             "Layer 1"
         ],
-        "languages": ["Solidity"],
+        "languages": [
+            "Solidity"
+        ],
         "tags": [
-            "Testnet", "Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-
     "Celestia": {
         "description": "The first modular blockchain network",
         "content": "Celestia is a modular data availability network that makes it easy for anyone to securely launch their own blockchain.",
@@ -333,12 +337,14 @@
             "Data Availability",
             "Other"
         ],
-        "languages": ["Rust"],
+        "languages": [
+            "Rust"
+        ],
         "tags": [
-            "Testnet", "Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-
     "Razor Wallet": {
         "description": "Razor Wallet: Your Sleek Companion on Movement",
         "content": "Building Native Solutions for DeFi and Infrastructure on Movementlabsxyz.",
@@ -361,12 +367,16 @@
             "Extension",
             "Other"
         ],
-        "languages": ["Rust", "Sui", "Aptos"],
+        "languages": [
+            "Rust",
+            "Sui",
+            "Aptos"
+        ],
         "tags": [
-            "Testnet", "Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-
     "Avail": {
         "description": "Accelerating the unification of web3",
         "content": "Avail is a Web3 infrastructure layer that allows modular execution layers to scale and interoperate in a trust minimized way.",
@@ -390,12 +400,14 @@
             "Data Availability",
             "Other"
         ],
-        "languages": ["Rust"],
+        "languages": [
+            "Rust"
+        ],
         "tags": [
-            "Testnet", "Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-
     "Xebra Trade": {
         "description": "Superfast perpetuals trading on-chain",
         "content": "",
@@ -417,12 +429,16 @@
             "Perpetuals",
             "Other"
         ],
-        "languages": ["Rust", "Sui", "Aptos"],
+        "languages": [
+            "Rust",
+            "Sui",
+            "Aptos"
+        ],
         "tags": [
-            "Testnet", "Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-
     "Benqi": {
         "description": "Seamless staking and lending for Avalanche",
         "content": "BENQI is a suite of decentralized finance protocols built on Avalanche. It consists of the BENQI Markets, BENQI Liquid Staking and Ignite.",
@@ -446,12 +462,14 @@
             "LST",
             "Other"
         ],
-        "languages": ["Solidity"],
+        "languages": [
+            "Solidity"
+        ],
         "tags": [
-            "Testnet", "Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-
     "ShogunFi": {
         "description": "Intent-centric DeFi platform for rotatoooors",
         "content": "Inspired by the shōgun's unification of Japan, the Shogun Network will unveil a revolutionary approach to cross-chain liquidity, reshaping fragmented marketplaces in ways yet unseen.",
@@ -471,38 +489,14 @@
         "subcategories": [
             "Other"
         ],
-        "languages": [""],
+        "languages": [
+            ""
+        ],
         "tags": [
-            "Testnet", "Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-
-    "Supra": {
-        "description": "Build a better Web3 with better data",
-        "content": "Bridging real-world data to simplify and secure the smart contracts of financial markets",
-        "url": "https://supra.com/",
-        "github": "",
-        "discord": "https://discord.com/invite/supraoracles",
-        "telegram": "https://t.me/SupraOracles",
-        "twitter": "https://twitter.com/SUPRA_Labs",
-        "contact": "https://supra.com/contact/",
-        "slug": "supra",
-        "keywords": [
-            "oracle",
-            "Infrastructure",
-            "Data",
-            "Ecosystem"
-        ],
-        "category": "DeFi",
-        "subcategories": [
-            "Other"
-        ],
-        "languages": [""],
-        "tags": [
-            "Testnet", "Devnet"
-        ]
-    },
-
     "Seam Money": {
         "description": "Concentrated Liquidity AMM on aptos and movementlabsxyz",
         "content": "We believe the future of DeFi is composability across pools, protocols, and chains. With Seam Money you can permissionlessly create custom vaults to hedge all your DeFi positions in one place.",
@@ -522,12 +516,14 @@
         "subcategories": [
             "Other"
         ],
-        "languages": ["Aptos"],
+        "languages": [
+            "Aptos"
+        ],
         "tags": [
-            "Testnet", "Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-
     "Zokyo": {
         "description": "Protect your innovations and investments by partnering with a Web3 cybersecurity leader",
         "content": "Web3 cybersecurity demands a multi-pronged approach. We take an adversary-focused approach to identify complex vulnerabilities before you move your blockchain project into production or onto the mainnet.",
@@ -550,12 +546,16 @@
             "Audit",
             "Other"
         ],
-        "languages": ["Solidity", "Aptos", "Sui"],
+        "languages": [
+            "Solidity",
+            "Aptos",
+            "Sui"
+        ],
         "tags": [
-            "Testnet", "Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-
     "Mintify": {
         "description": "The NFT Orderbook: A Fast Interface and Execution Engine For NFT Trading",
         "content": "Pushing the boundaries of Blockchain and NFT tech. We're committed to building innovative products and unique trading experiences for all NFT Economies of the future.",
@@ -577,12 +577,14 @@
             "Marketplace",
             "Other"
         ],
-        "languages": ["Solidity"],
+        "languages": [
+            "Solidity"
+        ],
         "tags": [
-            "Testnet", "Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-
     "Ultiverse": {
         "description": "Crafting AI-driven gaming worlds beyond imagination with VR and NFTs",
         "content": "Ultiverse is an integrated Web3 platform combining GameFi, NFTs, DeFi, Marketplace, and Liquid Staking. Ultiverse aims at building the next-generation entrance connecting Web3 with players all around the world.",
@@ -604,12 +606,14 @@
             "Gaming Focused",
             "Other"
         ],
-        "languages": ["Solidity"],
+        "languages": [
+            "Solidity"
+        ],
         "tags": [
-            "Testnet", "Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-
     "Lexer Market": {
         "description": "Long, Short, Swap Perpetual Everything ",
         "content": "Decentralized perpetual exchange for Forex, Crypto, NFT & more.",
@@ -630,12 +634,14 @@
             "Perpetuals",
             "Other"
         ],
-        "languages": ["Solidity"],
+        "languages": [
+            "Solidity"
+        ],
         "tags": [
-            "Testnet", "Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-
     "Yodeswap": {
         "description": "Original meme DEX on Dogechain, coming soon to Movementlabsxyz",
         "content": "",
@@ -657,11 +663,8 @@
             "Other"
         ],
         "languages": [],
-        "tags": [
-            
-        ]
+        "tags": []
     },
-
     "Bucket Protocol": {
         "description": "Robust and Fundamental DeFi Engine on Sui",
         "content": "Bucket is a CDP protocol built on Sui. that enhances fund efficiency and stabilizes stablecoin prices.",
@@ -682,12 +685,14 @@
             "Stablecoin",
             "Other"
         ],
-        "languages": ["Sui"],
+        "languages": [
+            "Sui"
+        ],
         "tags": [
-            "Testnet", "Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-
     "Ngmi": {
         "description": "NGMI will be the first ever rollup to launch on Move VM - going live in 2024",
         "content": "",
@@ -709,11 +714,8 @@
             "Other"
         ],
         "languages": [],
-        "tags": [
-
-        ]
+        "tags": []
     },
-
     "Desig": {
         "description": "The First OmniChain Smart Multisig",
         "content": "Experience the first Omnichain Smart Multisig wallet that streamlines treasury ops. Watch your funds flourish with intuitive tracking, smart allocation & insightful cashflow reports. ",
@@ -735,12 +737,14 @@
             "Multisig",
             "Other"
         ],
-        "languages": ["Solidity"],
+        "languages": [
+            "Solidity"
+        ],
         "tags": [
-            "Testnet","Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-
     "Leap Wallet": {
         "description": "this wallet is ready for cosmos",
         "content": "Leap is the all-in-one super wallet for Cosmos, offering in-wallet transfers, staking, swaps, dApp browser, and more. Supports 50+ Cosmos chains & trusted by 300k+ cosmonauts.",
@@ -762,12 +766,14 @@
             "Extension",
             "Other"
         ],
-        "languages": [""],
+        "languages": [
+            ""
+        ],
         "tags": [
-            "Testnet","Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-
     "Crust": {
         "description": "Complete Your Web3 Journey with Decentralized Storage",
         "content": "Empowering Data Through Decentralization With decentralization at its core Crust Network is a purpose built layer 1 blockchain providing composable cloud storage solutions for developers, builders and end-users of all ecosystems.",
@@ -789,12 +795,14 @@
             "Layer 1",
             "Other"
         ],
-        "languages": ["Rust"],
+        "languages": [
+            "Rust"
+        ],
         "tags": [
-            "Testnet","Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-
     "Hyperlane": {
         "description": "Connecting modular expansion with permissionless interop ⏩",
         "content": "Hyperlane is the first interoperability layer that enables you to permissionlessly connect any blockchain, out-of-the-box.",
@@ -815,12 +823,14 @@
             "Bridges",
             "Other"
         ],
-        "languages": ["Rust"],
+        "languages": [
+            "Rust"
+        ],
         "tags": [
-            "Testnet","Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-
     "Kado": {
         "description": "The easiest way to buy, sell or swap crypto.",
         "content": "Onboard to Web3 in 5 minutes. Buy and sell cryptocurrency instantly with Kado using your card or bank transfer",
@@ -842,12 +852,14 @@
             "Stablecoin",
             "Other"
         ],
-        "languages": ["Rust"],
+        "languages": [
+            "Rust"
+        ],
         "tags": [
-            "Testnet","Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-    
     "Noble": {
         "description": "The new standard for digital asset issuance",
         "content": "Noble is changing how stablecoins and other real world assets are issued on blockchains by combining minimalistic, high security architecture with the cross-chain efficiencies of the IBC protocol.",
@@ -869,12 +881,14 @@
             "Stablecoin",
             "Other"
         ],
-        "languages": ["Rust"],
+        "languages": [
+            "Rust"
+        ],
         "tags": [
-            "Testnet","Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-    
     "Union": {
         "description": "The Sovereign Interoperability Layer",
         "content": "A hyper-efficient zero-knowledge infrastructure layer for general message passing, asset transfers, NFTs, and DeFi.",
@@ -896,12 +910,14 @@
             "Bridges",
             "Other"
         ],
-        "languages": ["Rust"],
+        "languages": [
+            "Rust"
+        ],
         "tags": [
-            "Testnet","Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-    
     "Cedro": {
         "description": "Lend and Borrow across multiple chains",
         "content": "Cedro Finance is a cross-chain decentralized liquidity protocol where users can lend and borrow the listed assets. Lenders are able to deposit their assets to contribute to the liquidity of the platform and borrowers are able to borrow the liquidity in an overcollateralized manner.",
@@ -922,12 +938,14 @@
             "Lending",
             "Other"
         ],
-        "languages": ["Solidity"],
+        "languages": [
+            "Solidity"
+        ],
         "tags": [
-            "Testnet","Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-    
     "Skip Protocol": {
         "description": "Best-In-Class Infrastructure for Sovereign Blockchains",
         "content": "Skip helps sovereign blockchain protocols supercharge their user experience, interoperability, and value capture with its vertically integrated product suite.",
@@ -948,12 +966,14 @@
             "Scalability",
             "Other"
         ],
-        "languages": ["Rust"],
+        "languages": [
+            "Rust"
+        ],
         "tags": [
-            "Testnet","Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-    
     "Cosmostation": {
         "description": "The Interchain WalleT",
         "content": "Skip helps sovereign blockchain protocols supercharge their user experience, interoperability, and value capture with its vertically integrated product suite.",
@@ -974,12 +994,14 @@
             "Extension",
             "Other"
         ],
-        "languages": ["Rust"],
+        "languages": [
+            "Rust"
+        ],
         "tags": [
-            "Testnet","Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-    
     "Milky Way": {
         "description": "Unlock Your Assets With Modular Liquid Staking",
         "content": "MilkyWay is a liquid staking protocol tailor-made for Celestia's modular ecosystem.",
@@ -1001,12 +1023,14 @@
             "LST",
             "Other"
         ],
-        "languages": ["Rust"],
+        "languages": [
+            "Rust"
+        ],
         "tags": [
-            "Testnet","Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-    
     "Tailwind": {
         "description": "PICK A TOKEN, PAY GAS ANYWHERE",
         "content": "NAVIGATING 50+ COSMOS AND EVM CHAINS HAS NEVER BEEN SO EASY.",
@@ -1027,12 +1051,14 @@
             "Extension",
             "Other"
         ],
-        "languages": ["Rust"],
+        "languages": [
+            "Rust"
+        ],
         "tags": [
-            "Testnet","Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-    
     "Omni Network": {
         "description": "The blockchain built to unite all rollups.",
         "content": "Omni unifies Ethereum’s fragmented layer 2 ecosystem by establishing a low latency and high throughput global messaging network for all rollups.",
@@ -1053,12 +1079,14 @@
             "Layer 2",
             "Other"
         ],
-        "languages": ["Solidity"],
+        "languages": [
+            "Solidity"
+        ],
         "tags": [
-            "Testnet","Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-    
     "Stakestone": {
         "description": "Omni-Chain Liquidity Infrastructure",
         "content": "STONE is the best yield-bearing ETH with a decentralized yield optimizing service ready for mass adoption on layer2s.",
@@ -1080,12 +1108,14 @@
             "LST",
             "Other"
         ],
-        "languages": ["Solidity"],
+        "languages": [
+            "Solidity"
+        ],
         "tags": [
-            "Testnet","Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-    
     "Hyacinth": {
         "description": "Find the perfect audit solution for your protocol.",
         "content": "As the first decentralized auditing platform with on-chain validation, Hyacinth is the ideal solution for any protocol looking to improve their security. Protocols of any size and budget can find their perfect audit solution.",
@@ -1108,10 +1138,10 @@
         ],
         "languages": [],
         "tags": [
-            "Testnet","Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-    
     "Gaimin": {
         "description": "World biggest source of decentralized GPUs, powering AI tech, fueled by 350k+ gamers!",
         "content": "GAIMIN is a Web3 gaming infrastructure project strategically positioned at the disruptive intersection of Web3, gaming, and cloud computing.",
@@ -1132,12 +1162,14 @@
             "Layer 2",
             "Other"
         ],
-        "languages": ["Solidity"],
+        "languages": [
+            "Solidity"
+        ],
         "tags": [
-            "Testnet","Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-    
     "Ethena": {
         "description": "ENABLING THE INTERNET BOND",
         "content": "Ethena is a synthetic dollar protocol built on Ethereum that will provide a crypto-native solution for money not reliant on traditional banking system infrastructure, alongside a globally accessible dollar denominated savings instrument - the 'Internet Bond'.",
@@ -1159,12 +1191,14 @@
             "Stablecoin",
             "Other"
         ],
-        "languages": ["Solidity"],
+        "languages": [
+            "Solidity"
+        ],
         "tags": [
-            "Testnet","Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-    
     "Covalent": {
         "description": "Blockchain data for the new economy",
         "content": "Covalent is a single, unified API for fast, scalable historical blockchain data. ",
@@ -1185,12 +1219,14 @@
             "Scalability",
             "Other"
         ],
-        "languages": ["Solidity"],
+        "languages": [
+            "Solidity"
+        ],
         "tags": [
-            "Testnet","Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-    
     "Stride Zone": {
         "description": "Stake it here, Take it anywhere.",
         "content": "Stake your tokens on Stride from any Cosmos chain. See your rewards accumulate in real time.",
@@ -1212,12 +1248,14 @@
             "LST",
             "Other"
         ],
-        "languages": ["Rust"],
+        "languages": [
+            "Rust"
+        ],
         "tags": [
-            "Testnet","Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-    
     "Lync": {
         "description": "Web3 gaming layer that helps you to build blockchain games in minutes than months",
         "content": "LYNC is a Leading Multi-chain Gaming Ecosystem Providing Key Infrastructure to Tier 1 Gaming Studios & Indie Developers",
@@ -1238,12 +1276,14 @@
             "Gaming Focused",
             "Other"
         ],
-        "languages": ["Aptos"],
+        "languages": [
+            "Aptos"
+        ],
         "tags": [
-            "Testnet","Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-    
     "Aptos": {
         "description": "Aptos is the layer 1 blockchain engineered to evolve.⁣",
         "content": "Aptos is the blockchain network with everything you need to build your big idea. Lets Move.",
@@ -1263,12 +1303,14 @@
             "Layer 1",
             "Other"
         ],
-        "languages": ["Aptos"],
+        "languages": [
+            "Aptos"
+        ],
         "tags": [
-            "Testnet","Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-    
     "Thala": {
         "description": "DeFi HyperApp and Liquidity Engine – powered by Move⁣",
         "content": "Thala enables seamless borrowing of Move dollar and efficient liquidity provisioning",
@@ -1291,12 +1333,14 @@
             "Stablecoin",
             "Other"
         ],
-        "languages": ["Aptos"],
+        "languages": [
+            "Aptos"
+        ],
         "tags": [
-            "Testnet","Devnet"
+            "Testnet",
+            "Devnet"
         ]
     },
-    
     "Echelon": {
         "description": "Composable, Efficient & Secure Move Money Market⁣",
         "content": "Echelon is a decentralized financial market written in the Move programming language. Its users can borrow and lend assets to each other indirectly via non-custodial pools to earn interest or increase one's buying power with leverage.",
@@ -1317,10 +1361,13 @@
             "Lending",
             "Other"
         ],
-        "languages": ["Aptos"],
+        "languages": [
+            "Aptos"
+        ],
         "tags": [
-            "Testnet","Devnet"
-          ]
+            "Testnet",
+            "Devnet"
+        ]
     },
     "IDOswap": {
         "description": "DeFi's platform offers personalized commissions, token creation, betting rewards and more.",
