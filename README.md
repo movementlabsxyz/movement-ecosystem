@@ -37,9 +37,9 @@ An example of a good pull request would be:
             "layer 2"
         ],
         "categories": ["DeFi"],
-        "subcategories": [
+        "subcategories": [[
             "Other"
-        ],
+        ]],
         "languages": ["Solidity", "Sui", "Aptos"],
         "tags": [
             "Hiring Now",
