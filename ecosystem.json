@@ -1,7 +1,7 @@
 {
     "Movement": {
         "description": "A Network of Modular Move Based Blockchain",
-        "content": "Movement Labs is bringing Move execution to new networks and environments. Our flagship products are M1 and M2. We are also building the Movement SDK, Movement CLI, Fractal, Hyperlane messaging infrastructure, and the Movement Shared Sequencer to provide paramount interoperability between our Move-based environments and other networks.",
+        "content": "Movement Labs is bridging Move execution, security, and speed to new networks and environments. Our flagship products are M1 and M2. We provide developer tooling through the Movement SDK, Movement CLI, Fractal, Hyperlane messaging infrastructure, and the Movement Shared Sequencer to provide interoperability between Move-based ecosystems.",
         "url": "https://movementlabs.xyz",
         "github": "https://github.com/movementlabsxyz",
         "discord": "https://discord.gg/movementlabs",
@@ -33,12 +33,12 @@
     },
     "Monoswap": {
         "description": "A testnet EVM protocol for Movement MEVM",
-        "content": "MonoSwap represents a meticulously crafted ecosystem-centric, yield-driven Decentralized Exchange (DEX) and Launchpad seamlessly integrated with the robust Blast framework.",
-        "url": "https://www.monoswap.io/",
-        "github": "",
-        "discord": "https://discord.com/invite/monoswap",
-        "telegram": "https://t.me/monoswapnews",
-        "twitter": "https://twitter.com/monoswapio",
+        "content": "Monoswap is an EVM-based DEX on the Movement Network. It features a classic AMM and concentrated liquidity — users can choose to provide funds in specific price ranges to earn more from their investments. Monoswap is geared towards offering efficient and profitable trading opportunities.",
+        "url": "https://dev-monoswap.mvlabs.net/#/swap",
+        "github": "https://github.com/movementlabsxyz/monoswap",
+        "discord": "https://discord.gg/movementlabs",
+        "telegram": "https://t.me/movementlabsxyz",
+        "twitter": "https://x.com/movementlabsxyz",
         "contact": "https://t.me/franciskthomas",
         "slug": "monoswap",
         "keywords": [
@@ -62,9 +62,9 @@
     },
     "MovementSwap": {
         "description": "A testnet Aptos and Sui protocol for Movement",
-        "content": "MovementSwap is a DEX built for Aptos and Sui. It serves as a playground for users and developers to build on Movement",
+        "content": "Movementswap is a decentralized exchange on the Movement Network, designed for trading generic digital assets. It allows users to swap between different types of Coins, provide liquidity to earn rewards, and participate in incentivized liquidity. Movementswap is built to be fast and user-friendly, aiming to provide a smooth trading experience.",
         "url": "https://movementlabs.xyz",
-        "github": "https://github.com/movementlabsxyz",
+        "github": "https://github.com/movementlabsxyz/movement-swap-interface",
         "discord": "https://discord.gg/movementlabs",
         "telegram": "https://t.me/movementlabsxyz",
         "twitter": "https://x.com/movementlabsxyz",
@@ -92,7 +92,7 @@
         ]
     },
     "Interest Protocol": {
-        "description": "Swap, lend, borrow and farm.",
+        "description": "Fractional reserve banking protocol on the Ethereum blockchain that pays interest to all depositors.",
         "content": "Interest Protocol is a borrow/lend protocol that is highly capital-efficient thanks to its unique combination of fractional reserves and over-collateralization.",
         "url": "https://www.interestprotocol.com/",
         "github": "https://github.com/interest-protocol/",
@@ -115,8 +115,8 @@
         ]
     },
     "Gilder": {
-        "description": "The ultimate Web3 community platform for Gamers, Anime Fans, and more. Forums, Chat, Reputation Builder, Team Gaming Tools.",
-        "content": "Gilder Forums will be the perfect place to find the latest gaming news, announcements and analysis. Interact with the makers of your favorite games, shill your latest NFTs or share your latest gameplay on this sleek and dynamic forum. Gilder chat will be your direct connection to other gamers and friends. Chat with your gaming buddies through a stunning group chat or direct messaging experience.",
+        "description": "Web3 community platform for Gamers, Anime Fans, and more which offer forums, chat,and gaming tools.",
+        "content": "Gilder is the place to find the latest gaming news, announcements and analysis. Unlock your gaming potential",
         "url": "https://gilder.io/",
         "github": "",
         "discord": "",
@@ -144,7 +144,7 @@
     },
     "Pyth": {
         "description": "The Pyth network is a first-party financial oracle network designed to provide low-latency real-world data to multiple blockchains in a secure and transparent manner.",
-        "content": "Pyth delivers real-time market data for crypto, equities, FX, and commodities to 50+ blockchains. 95+ major market participants — including Jane Street, CBOE, Binance, OKX, and Bybit — contribute data to the network. Major financial institutions—including some of the world's biggest exchanges, market makers, and trading firms—publish their data directly to the network.        Supercharge your application by accessing the most accurate, lowest-latency, and highest-resolution data directly from these first-party sources.",
+        "content": "Pyth delivers real-time market data for crypto, equities, FX, and commodities. Major financial institutions—including some of the world's biggest exchanges, market makers, and trading firms—publish their data directly to the network. Supercharge your application by accessing the most accurate, lowest-latency, and highest-resolution data directly from these first-party sources on Pyth.",
         "url": "https://pyth.network/",
         "github": "https://github.com/pyth-network",
         "discord": "https://discord.gg/PythNetwork",
@@ -170,8 +170,8 @@
         ]
     },
     "Supra Oracles": {
-        "description": "Supra is a novel decentralized cross-chain oracle solution.",
-        "content": "Supercharging Web3 for a better, decentralized future. Web3 needs faster, more secure, more decentralized blockchain infrastructure. That's what we’'re building. With 5+ years of R&D and a series of technical breakthroughs, we're building native cross-chain solutions to help your smart contracts and blockchain apps work better. We're not bragging. We just build better.",
+        "description": "Supra is a decentralized cross-chain oracle solution.",
+        "content": "Supercharging Web3 for a better, decentralized future. Web3 needs faster, more secure, more decentralized blockchain infrastructure. That's what we're building. With 5+ years of R&D and a series of technical breakthroughs, we're building native cross-chain solutions to help your smart contracts and blockchain apps work better. We're not bragging. We just build better.",
         "url": "https://supra.com/",
         "github": "TODO",
         "discord": "https://discord.com/invite/supraoracles",
@@ -228,7 +228,7 @@
     },
     "Gorillaz": {
         "description": "The most epic gorilla community on Movement.",
-        "content": "Gorilla moverz will be an epic community of gorillas on Movement, and together WAGMI.",
+        "content": "Gorilla moverz is an epic community of gorillas on Movement, and together WAGMI.",
         "url": "https://www.gorillamoverz.xyz/",
         "github": "https://github.com/AltayDev",
         "discord": "https://discord.gg/yWNEcv8jxf",
@@ -1320,6 +1320,51 @@
         "languages": ["Aptos"],
         "tags": [
             "Testnet","Devnet"
+          ]
+    },
+    "IDOswap": {
+        "description": "DeFi's platform offers personalized commissions, token creation, betting rewards and more.",
+        "content": "IDOswap is revolutionizing DeFi trading on the Movement Labs blockchain. By seamlessly integrating concentrated liquidity pools into its advanced wallet solution, IDOswap empowers users with personalized fees, token creation capabilities, and rewarding staking opportunities. Explore permissionless pools for superior volume, higher APR and minimal slippage. Choose concentrated liquidity pools for reduced slippage and flexible fees. Participate in staking to earn rewards and increase liquidity. ",
+        "url": "http://idoswap.io/",
+        "github": "",
+        "discord": "",
+        "telegram": "https://t.me/IDOswap",
+        "twitter": "https://twitter.com/IDOswapio",
+        "contact": "https://t.me/valeravlasyuk",
+        "slug": "idoswap",
+        "keywords": [],
+        "category": "DeFi",
+        "subcategories": [
+            "DEX"
+        ],
+        "languages": [
+            "Aptos Move"
+        ],
+        "tags": [
+            "Testnet"
+        ]
+    },
+    "IDOwallet": {
+        "description": "DeFi on Movement Labs blockchain with replayable transactions, swaps, stakes, portfolio, incentives.",
+        "content": "IDOwallet is an advanced decentralized finance (DeFi) solution built on the Movement Labs blockchain. It provides users with a range of features including replayable transactions, optimized swaps, token creation capabilities, a staking marketplace, a portfolio management dashboard, an airdrop claim interface, and a built-in incentive program. These features are designed to provide users with a seamless and rewarding experience within the DeFi ecosystem.",
+        "url": "http://idowallet.xyz/",
+        "github": "",
+        "discord": "",
+        "telegram": "https://t.me/idowallet_co",
+        "twitter": "https://x.com/idowallet?s=21",
+        "contact": "https://t.me/valeravlasyuk",
+        "slug": "idowallet",
+        "keywords": [],
+        "category": "Wallet",
+        "subcategories": [
+            "Extension"
+        ],
+        "languages": [
+            "Aptos Move",
+            " Sui Move"
+        ],
+        "tags": [
+            "Testnet"
         ]
     }
 }
