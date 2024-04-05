@@ -17,10 +17,14 @@
             "layer 1",
             "layer 2"
         ],
-        "categories": ["Other"],
-        "subcategories": [[
+        "categories": [
             "Other"
-        ]],
+        ],
+        "subcategories": [
+            [
+                "Other"
+            ]
+        ],
         "languages": [
             "Solidity",
             "Sui",
@@ -48,10 +52,14 @@
             "blockchain",
             "layer 1"
         ],
-        "categories": ["DeFi"],
-        "subcategories": [[
-            "DEX"
-        ]],
+        "categories": [
+            "DeFi"
+        ],
+        "subcategories": [
+            [
+                "DEX"
+            ]
+        ],
         "languages": [
             "Solidity"
         ],
@@ -78,10 +86,14 @@
             "layer 1",
             "layer 2"
         ],
-        "categories": ["DeFi"],
-        "subcategories": [[
-            "DEX"
-        ]],
+        "categories": [
+            "DeFi"
+        ],
+        "subcategories": [
+            [
+                "DEX"
+            ]
+        ],
         "languages": [
             "Aptos",
             "Sui"
@@ -101,11 +113,15 @@
         "twitter": "https://twitter.com/interest_dinero",
         "slug": "interest-protocol",
         "keywords": [],
-        "categories": ["DeFi"],
-        "subcategories": [[
-            "DEX",
-            "Perpetuals"
-        ]],
+        "categories": [
+            "DeFi"
+        ],
+        "subcategories": [
+            [
+                "DEX",
+                "Perpetuals"
+            ]
+        ],
         "languages": [
             "Sui"
         ],
@@ -129,11 +145,15 @@
             "Anime",
             "Web3"
         ],
-        "categories": ["Gaming"],
-        "subcategories": [[
-            "DAO",
-            "Other"
-        ]],
+        "categories": [
+            "Gaming"
+        ],
+        "subcategories": [
+            [
+                "DAO",
+                "Other"
+            ]
+        ],
         "languages": [
             "Sui"
         ],
@@ -157,10 +177,14 @@
             "Web3",
             "onchain"
         ],
-        "categories": ["Infrastructure"],
-        "subcategories": [[
-            "Oracle"
-        ]],
+        "categories": [
+            "Infrastructure"
+        ],
+        "subcategories": [
+            [
+                "Oracle"
+            ]
+        ],
         "languages": [
             "Solidity"
         ],
@@ -184,10 +208,14 @@
             "Web3",
             "onchain"
         ],
-        "categories": ["Infrastructure"],
-        "subcategories": [[
-            "Oracle"
-        ]],
+        "categories": [
+            "Infrastructure"
+        ],
+        "subcategories": [
+            [
+                "Oracle"
+            ]
+        ],
         "languages": [
             "Solidity",
             "Aptos",
@@ -214,10 +242,14 @@
             "onchain",
             "LST"
         ],
-        "categories": ["DeFi"],
-        "subcategories": [[
-            "LST"
-        ]],
+        "categories": [
+            "DeFi"
+        ],
+        "subcategories": [
+            [
+                "LST"
+            ]
+        ],
         "languages": [
             "Solidity"
         ],
@@ -242,10 +274,14 @@
             "NFT",
             "Movement"
         ],
-        "categories": ["NFT"],
-        "subcategories": [[
-            "Art"
-        ]],
+        "categories": [
+            "NFT"
+        ],
+        "subcategories": [
+            [
+                "Art"
+            ]
+        ],
         "languages": [
             "Solidity"
         ],
@@ -272,10 +308,14 @@
             "layer 1",
             "layer 2"
         ],
-        "category": "Infrastructure",
+        "category": [
+            "Infrastructure"
+        ],
         "subcategories": [
-            "Layer 1",
-            "Layer 2"
+            [
+                "Layer 1",
+                "Layer 2"
+            ]
         ],
         "languages": [
             "Solidity"
@@ -302,9 +342,13 @@
             "layer 1",
             "near"
         ],
-        "category": "Infrastructure",
+        "category": [
+            "Infrastructure"
+        ],
         "subcategories": [
-            "Layer 1"
+            [
+                "Layer 1"
+            ]
         ],
         "languages": [
             "Solidity"
@@ -331,11 +375,15 @@
             "blockchain",
             "IBC"
         ],
-        "category": "Infrastructure",
+        "category": [
+            "Infrastructure"
+        ],
         "subcategories": [
-            "Layer 1",
-            "Data Availability",
-            "Other"
+            [
+                "Layer 1",
+                "Data Availability",
+                "Other"
+            ]
         ],
         "languages": [
             "Rust"
@@ -362,10 +410,14 @@
             "Native",
             "Ecosystem"
         ],
-        "category": "Wallet",
+        "category": [
+            "Wallet"
+        ],
         "subcategories": [
-            "Extension",
-            "Other"
+            [
+                "Extension",
+                "Other"
+            ]
         ],
         "languages": [
             "Rust",
@@ -394,11 +446,15 @@
             "blockchain",
             "layer 1"
         ],
-        "category": "Infrastructure",
+        "category": [
+            "Infrastructure"
+        ],
         "subcategories": [
-            "Layer 1",
-            "Data Availability",
-            "Other"
+            [
+                "Layer 1",
+                "Data Availability",
+                "Other"
+            ]
         ],
         "languages": [
             "Rust"
@@ -424,10 +480,14 @@
             "Ecosystem",
             "Native"
         ],
-        "category": "DeFi",
+        "category": [
+            "DeFi"
+        ],
         "subcategories": [
-            "Perpetuals",
-            "Other"
+            [
+                "Perpetuals",
+                "Other"
+            ]
         ],
         "languages": [
             "Rust",
@@ -456,11 +516,15 @@
             "LST",
             "Ecosystem"
         ],
-        "category": "DeFi",
+        "category": [
+            "DeFi"
+        ],
         "subcategories": [
-            "Lending",
-            "LST",
-            "Other"
+            [
+                "Lending",
+                "LST",
+                "Other"
+            ]
         ],
         "languages": [
             "Solidity"
@@ -485,9 +549,13 @@
             "Infrastructure",
             "Ecosystem"
         ],
-        "category": "DeFi",
+        "category": [
+            "DeFi"
+        ],
         "subcategories": [
-            "Other"
+            [
+                "Other"
+            ]
         ],
         "languages": [
             ""
@@ -512,9 +580,13 @@
             "Infrastructure",
             "Ecosystem"
         ],
-        "category": "Infrastructure",
+        "category": [
+            "Infrastructure"
+        ],
         "subcategories": [
-            "Other"
+            [
+                "Other"
+            ]
         ],
         "languages": [
             "Aptos"
@@ -540,11 +612,15 @@
             "Infrastructure",
             "Ecosystem"
         ],
-        "category": "Analytics",
+        "category": [
+            "Analytics"
+        ],
         "subcategories": [
-            "Data",
-            "Audit",
-            "Other"
+            [
+                "Data",
+                "Audit",
+                "Other"
+            ]
         ],
         "languages": [
             "Solidity",
@@ -572,10 +648,14 @@
             "Art",
             "Ecosystem"
         ],
-        "category": "NFT",
+        "category": [
+            "NFT"
+        ],
         "subcategories": [
-            "Marketplace",
-            "Other"
+            [
+                "Marketplace",
+                "Other"
+            ]
         ],
         "languages": [
             "Solidity"
@@ -601,10 +681,14 @@
             "NFT",
             "Ecosystem"
         ],
-        "category": "Gaming",
+        "category": [
+            "Gaming"
+        ],
         "subcategories": [
-            "Gaming Focused",
-            "Other"
+            [
+                "Gaming Focused",
+                "Other"
+            ]
         ],
         "languages": [
             "Solidity"
@@ -629,10 +713,14 @@
             "Dex",
             "Ecosystem"
         ],
-        "category": "DeFi",
+        "category": [
+            "DeFi"
+        ],
         "subcategories": [
-            "Perpetuals",
-            "Other"
+            [
+                "Perpetuals",
+                "Other"
+            ]
         ],
         "languages": [
             "Solidity"
@@ -657,10 +745,14 @@
             "Dex",
             "Ecosystem"
         ],
-        "category": "DeFi",
+        "category": [
+            "DeFi"
+        ],
         "subcategories": [
-            "DEX",
-            "Other"
+            [
+                "DEX",
+                "Other"
+            ]
         ],
         "languages": [],
         "tags": []
@@ -680,10 +772,14 @@
             "Defi",
             "Ecosystem"
         ],
-        "category": "DeFi",
+        "category": [
+            "DeFi"
+        ],
         "subcategories": [
-            "Stablecoin",
-            "Other"
+            [
+                "Stablecoin",
+                "Other"
+            ]
         ],
         "languages": [
             "Sui"
@@ -708,10 +804,14 @@
             "Rollup",
             "Ecosystem"
         ],
-        "category": "Infrastructure",
+        "category": [
+            "Infrastructure"
+        ],
         "subcategories": [
-            "Layer 2",
-            "Other"
+            [
+                "Layer 2",
+                "Other"
+            ]
         ],
         "languages": [],
         "tags": []
@@ -731,11 +831,15 @@
             "Multisig",
             "Ecosystem"
         ],
-        "category": "Wallet",
+        "category": [
+            "Wallet"
+        ],
         "subcategories": [
-            "Extension",
-            "Multisig",
-            "Other"
+            [
+                "Extension",
+                "Multisig",
+                "Other"
+            ]
         ],
         "languages": [
             "Solidity"
@@ -761,10 +865,14 @@
             "Cosmos",
             "Ecosystem"
         ],
-        "category": "Wallet",
+        "category": [
+            "Wallet"
+        ],
         "subcategories": [
-            "Extension",
-            "Other"
+            [
+                "Extension",
+                "Other"
+            ]
         ],
         "languages": [
             ""
@@ -790,10 +898,14 @@
             "Layer 1",
             "Ecosystem"
         ],
-        "category": "Infrastructure",
+        "category": [
+            "Infrastructure"
+        ],
         "subcategories": [
-            "Layer 1",
-            "Other"
+            [
+                "Layer 1",
+                "Other"
+            ]
         ],
         "languages": [
             "Rust"
@@ -818,10 +930,14 @@
             "bridge",
             "Ecosystem"
         ],
-        "category": "Infrastructure",
+        "category": [
+            "Infrastructure"
+        ],
         "subcategories": [
-            "Bridges",
-            "Other"
+            [
+                "Bridges",
+                "Other"
+            ]
         ],
         "languages": [
             "Rust"
@@ -846,11 +962,15 @@
             "onramp",
             "Ecosystem"
         ],
-        "category": "DeFi",
+        "category": [
+            "DeFi"
+        ],
         "subcategories": [
-            "Payments",
-            "Stablecoin",
-            "Other"
+            [
+                "Payments",
+                "Stablecoin",
+                "Other"
+            ]
         ],
         "languages": [
             "Rust"
@@ -876,10 +996,14 @@
             "IBC",
             "Ecosystem"
         ],
-        "category": "DeFi",
+        "category": [
+            "DeFi"
+        ],
         "subcategories": [
-            "Stablecoin",
-            "Other"
+            [
+                "Stablecoin",
+                "Other"
+            ]
         ],
         "languages": [
             "Rust"
@@ -905,10 +1029,14 @@
             "IBC",
             "Ecosystem"
         ],
-        "category": "Infrastructure",
+        "category": [
+            "Infrastructure"
+        ],
         "subcategories": [
-            "Bridges",
-            "Other"
+            [
+                "Bridges",
+                "Other"
+            ]
         ],
         "languages": [
             "Rust"
@@ -933,10 +1061,14 @@
             "lend",
             "Ecosystem"
         ],
-        "category": "DeFi",
+        "category": [
+            "DeFi"
+        ],
         "subcategories": [
-            "Lending",
-            "Other"
+            [
+                "Lending",
+                "Other"
+            ]
         ],
         "languages": [
             "Solidity"
@@ -961,10 +1093,14 @@
             "interoperability",
             "Ecosystem"
         ],
-        "category": "Infrastructure",
+        "category": [
+            "Infrastructure"
+        ],
         "subcategories": [
-            "Scalability",
-            "Other"
+            [
+                "Scalability",
+                "Other"
+            ]
         ],
         "languages": [
             "Rust"
@@ -989,10 +1125,14 @@
             "IBC",
             "Ecosystem"
         ],
-        "category": "Wallet",
+        "category": [
+            "Wallet"
+        ],
         "subcategories": [
-            "Extension",
-            "Other"
+            [
+                "Extension",
+                "Other"
+            ]
         ],
         "languages": [
             "Rust"
@@ -1018,10 +1158,14 @@
             "Liquid Staking",
             "Ecosystem"
         ],
-        "category": "DeFi",
+        "category": [
+            "DeFi"
+        ],
         "subcategories": [
-            "LST",
-            "Other"
+            [
+                "LST",
+                "Other"
+            ]
         ],
         "languages": [
             "Rust"
@@ -1046,10 +1190,14 @@
             "IBC",
             "Ecosystem"
         ],
-        "category": "Wallet",
+        "category": [
+            "Wallet"
+        ],
         "subcategories": [
-            "Extension",
-            "Other"
+            [
+                "Extension",
+                "Other"
+            ]
         ],
         "languages": [
             "Rust"
@@ -1074,10 +1222,14 @@
             "Layer 2",
             "Ecosystem"
         ],
-        "category": "Infrastructure",
+        "category": [
+            "Infrastructure"
+        ],
         "subcategories": [
-            "Layer 2",
-            "Other"
+            [
+                "Layer 2",
+                "Other"
+            ]
         ],
         "languages": [
             "Solidity"
@@ -1103,10 +1255,14 @@
             "LST",
             "Ecosystem"
         ],
-        "category": "DeFi",
+        "category": [
+            "DeFi"
+        ],
         "subcategories": [
-            "LST",
-            "Other"
+            [
+                "LST",
+                "Other"
+            ]
         ],
         "languages": [
             "Solidity"
@@ -1131,10 +1287,14 @@
             "Infrastructure",
             "Ecosystem"
         ],
-        "category": "Infrastructure",
+        "category": [
+            "Infrastructure"
+        ],
         "subcategories": [
-            "Audit",
-            "Other"
+            [
+                "Audit",
+                "Other"
+            ]
         ],
         "languages": [],
         "tags": [
@@ -1157,10 +1317,14 @@
             "Depin",
             "Ecosystem"
         ],
-        "category": "Infrastructure",
+        "category": [
+            "Infrastructure"
+        ],
         "subcategories": [
-            "Layer 2",
-            "Other"
+            [
+                "Layer 2",
+                "Other"
+            ]
         ],
         "languages": [
             "Solidity"
@@ -1186,10 +1350,14 @@
             "Stablecoin",
             "Ecosystem"
         ],
-        "category": "DeFi",
+        "category": [
+            "DeFi"
+        ],
         "subcategories": [
-            "Stablecoin",
-            "Other"
+            [
+                "Stablecoin",
+                "Other"
+            ]
         ],
         "languages": [
             "Solidity"
@@ -1214,10 +1382,14 @@
             "Infrastructure",
             "Ecosystem"
         ],
-        "category": "Infrastructure",
+        "category": [
+            "Infrastructure"
+        ],
         "subcategories": [
-            "Scalability",
-            "Other"
+            [
+                "Scalability",
+                "Other"
+            ]
         ],
         "languages": [
             "Solidity"
@@ -1243,10 +1415,14 @@
             "Defi",
             "Ecosystem"
         ],
-        "category": "DeFi",
+        "category": [
+            "DeFi"
+        ],
         "subcategories": [
-            "LST",
-            "Other"
+            [
+                "LST",
+                "Other"
+            ]
         ],
         "languages": [
             "Rust"
@@ -1271,10 +1447,14 @@
             "Infrastructure",
             "Ecosystem"
         ],
-        "category": "Gaming",
+        "category": [
+            "Gaming"
+        ],
         "subcategories": [
-            "Gaming Focused",
-            "Other"
+            [
+                "Gaming Focused",
+                "Other"
+            ]
         ],
         "languages": [
             "Aptos"
@@ -1298,10 +1478,14 @@
             "Move",
             "Layer 1"
         ],
-        "category": "Infrastructure",
+        "category": [
+            "Infrastructure"
+        ],
         "subcategories": [
-            "Layer 1",
-            "Other"
+            [
+                "Layer 1",
+                "Other"
+            ]
         ],
         "languages": [
             "Aptos"
@@ -1326,12 +1510,16 @@
             "Dex",
             "Ecosystem"
         ],
-        "category": "DeFi",
+        "category": [
+            "DeFi"
+        ],
         "subcategories": [
-            "DEX",
-            "LST",
-            "Stablecoin",
-            "Other"
+            [
+                "DEX",
+                "LST",
+                "Stablecoin",
+                "Other"
+            ]
         ],
         "languages": [
             "Aptos"
@@ -1356,10 +1544,14 @@
             "Lending",
             "Ecosystem"
         ],
-        "category": "DeFi",
+        "category": [
+            "DeFi"
+        ],
         "subcategories": [
-            "Lending",
-            "Other"
+            [
+                "Lending",
+                "Other"
+            ]
         ],
         "languages": [
             "Aptos"
@@ -1380,10 +1572,14 @@
         "contact": "https://t.me/valeravlasyuk",
         "slug": "idoswap",
         "keywords": [],
-        "categories": ["DeFi"],
-        "subcategories": [[
-            "DEX"
-        ]],
+        "categories": [
+            "DeFi"
+        ],
+        "subcategories": [
+            [
+                "DEX"
+            ]
+        ],
         "languages": [
             "Aptos Move"
         ],
@@ -1402,10 +1598,14 @@
         "contact": "https://t.me/valeravlasyuk",
         "slug": "idowallet",
         "keywords": [],
-        "categories": ["Wallet"],
-        "subcategories": [[
-            "Extension"
-        ]],
+        "categories": [
+            "Wallet"
+        ],
+        "subcategories": [
+            [
+                "Extension"
+            ]
+        ],
         "languages": [
             "Aptos Move",
             " Sui Move"
