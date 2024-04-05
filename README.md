@@ -36,7 +36,7 @@ An example of a good pull request would be:
             "layer 1",
             "layer 2"
         ],
-        "category": "DeFi",
+        "categories": ["DeFi"],
         "subcategories": [
             "Other"
         ],
@@ -67,9 +67,9 @@ Object key is the name of the project formatted and cased according to how it sh
 - slug: The preferred name of the project in lowercase, and hyphenated if necessary.
   - IMPORTANT: This is the name that will be used to reference the project when generating a URL for the project's page, and retrieving the project's logo and banner image.
 - keywords?: An array of keywords that describe the project. This will be used to help users find the project. Maximum of 5 keywords.
-- category: The category of the project. This will be used to help users find the project.
+- categories: The categories of the project. This will be used to help users find the project.
   - Available categories: "DeFi", "NFT", "Gaming", "Infrastructure", "Wallet", "Analytics", "Social", "Investor", "Other"
-- subcategories: An array of subcategories that describe the project. They must match your specified category. This will be used to help users find the project.
+- subcategories: An array of subcategories that describe the project. They must match your specified categories. This will be used to help users find the project.
   - DeFi: "DEX", "Lending", "Derivatives", "Payments", "RWA", "Insurance", "Perpetuals","Liquidation", "Stablecoin", "Yield Aggregator", "Swap Aggregator", "LST", "Other"
   - NFT: "Marketplace", "Gaming", "DAO", "PFP", "Metaverse", "Art", "Music", "Collectibles", "Other"
   - Gaming: "Play to Earn", "Play and Earn", "Gaming Focused", "NFT", "DAO", "Metaverse", "Marketplace", "Other"

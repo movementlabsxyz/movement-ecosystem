@@ -17,10 +17,10 @@
             "layer 1",
             "layer 2"
         ],
-        "category": "Other",
-        "subcategories": [
+        "categories": ["Other"],
+        "subcategories": [[
             "Other"
-        ],
+        ]],
         "languages": [
             "Solidity",
             "Sui",
@@ -48,10 +48,10 @@
             "blockchain",
             "layer 1"
         ],
-        "category": "DeFi",
-        "subcategories": [
+        "categories": ["DeFi"],
+        "subcategories": [[
             "DEX"
-        ],
+        ]],
         "languages": [
             "Solidity"
         ],
@@ -78,10 +78,10 @@
             "layer 1",
             "layer 2"
         ],
-        "category": "DeFi",
-        "subcategories": [
+        "categories": ["DeFi"],
+        "subcategories": [[
             "DEX"
-        ],
+        ]],
         "languages": [
             "Aptos",
             "Sui"
@@ -101,11 +101,11 @@
         "twitter": "https://twitter.com/interest_dinero",
         "slug": "interest-protocol",
         "keywords": [],
-        "category": "DeFi",
-        "subcategories": [
+        "categories": ["DeFi"],
+        "subcategories": [[
             "DEX",
             "Perpetuals"
-        ],
+        ]],
         "languages": [
             "Sui"
         ],
@@ -129,11 +129,11 @@
             "Anime",
             "Web3"
         ],
-        "category": "Gaming",
-        "subcategories": [
+        "categories": ["Gaming"],
+        "subcategories": [[
             "DAO",
             "Other"
-        ],
+        ]],
         "languages": [
             "Sui"
         ],
@@ -157,10 +157,10 @@
             "Web3",
             "onchain"
         ],
-        "category": "Infrastructure",
-        "subcategories": [
+        "categories": ["Infrastructure"],
+        "subcategories": [[
             "Oracle"
-        ],
+        ]],
         "languages": [
             "Solidity"
         ],
@@ -184,10 +184,10 @@
             "Web3",
             "onchain"
         ],
-        "category": "Infrastructure",
-        "subcategories": [
+        "categories": ["Infrastructure"],
+        "subcategories": [[
             "Oracle"
-        ],
+        ]],
         "languages": [
             "Solidity",
             "Aptos",
@@ -214,10 +214,10 @@
             "onchain",
             "LST"
         ],
-        "category": "DeFi",
-        "subcategories": [
+        "categories": ["DeFi"],
+        "subcategories": [[
             "LST"
-        ],
+        ]],
         "languages": [
             "Solidity"
         ],
@@ -242,10 +242,10 @@
             "NFT",
             "Movement"
         ],
-        "category": "NFT",
-        "subcategories": [
+        "categories": ["NFT"],
+        "subcategories": [[
             "Art"
-        ],
+        ]],
         "languages": [
             "Solidity"
         ],
@@ -265,10 +265,10 @@
         "contact": "https://t.me/valeravlasyuk",
         "slug": "idoswap",
         "keywords": [],
-        "category": "DeFi",
-        "subcategories": [
+        "categories": ["DeFi"],
+        "subcategories": [[
             "DEX"
-        ],
+        ]],
         "languages": [
             "Aptos Move"
         ],
@@ -287,10 +287,10 @@
         "contact": "https://t.me/valeravlasyuk",
         "slug": "idowallet",
         "keywords": [],
-        "category": "Wallet",
-        "subcategories": [
+        "categories": ["Wallet"],
+        "subcategories": [[
             "Extension"
-        ],
+        ]],
         "languages": [
             "Aptos Move",
             " Sui Move"
