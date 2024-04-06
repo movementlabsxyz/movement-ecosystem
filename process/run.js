@@ -42,7 +42,7 @@ function getSubcategories(record, categories) {
             default:
                 return [];
         }
-    }).flat();
+    })
 }
 
 async function downloadImage(url, folder, filename) {
