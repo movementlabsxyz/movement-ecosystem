@@ -27,8 +27,8 @@
         ],
         "languages": [
             "Solidity",
-            "Sui",
-            "Aptos"
+            "Sui Move",
+            "Aptos Move"
         ],
         "tags": [
             "Hiring Now",
@@ -95,8 +95,8 @@
             ]
         ],
         "languages": [
-            "Aptos",
-            "Sui"
+            "Aptos Move",
+            "Sui Move"
         ],
         "tags": [
             "Testnet",
@@ -123,7 +123,7 @@
             ]
         ],
         "languages": [
-            "Sui"
+            "Sui Move"
         ],
         "tags": [
             "Testnet",
@@ -155,7 +155,7 @@
             ]
         ],
         "languages": [
-            "Sui"
+            "Sui Move"
         ],
         "tags": [
             "Testnet",
@@ -218,8 +218,8 @@
         ],
         "languages": [
             "Solidity",
-            "Aptos",
-            "Sui"
+            "Aptos Move",
+            "Sui Move"
         ],
         "tags": [
             "Testnet",
@@ -421,8 +421,8 @@
         ],
         "languages": [
             "Rust",
-            "Sui",
-            "Aptos"
+            "Sui Move",
+            "Aptos Move"
         ],
         "tags": [
             "Testnet",
@@ -491,8 +491,8 @@
         ],
         "languages": [
             "Rust",
-            "Sui",
-            "Aptos"
+            "Sui Move",
+            "Aptos Move"
         ],
         "tags": [
             "Testnet",
@@ -589,7 +589,7 @@
             ]
         ],
         "languages": [
-            "Aptos"
+            "Aptos Move"
         ],
         "tags": [
             "Testnet",
@@ -624,8 +624,8 @@
         ],
         "languages": [
             "Solidity",
-            "Aptos",
-            "Sui"
+            "Aptos Move",
+            "Sui Move"
         ],
         "tags": [
             "Testnet",
@@ -782,7 +782,7 @@
             ]
         ],
         "languages": [
-            "Sui"
+            "Sui Move"
         ],
         "tags": [
             "Testnet",
@@ -1457,14 +1457,14 @@
             ]
         ],
         "languages": [
-            "Aptos"
+            "Aptos Move"
         ],
         "tags": [
             "Testnet",
             "Devnet"
         ]
     },
-    "Aptos": {
+    "Aptos Move": {
         "description": "Aptos is the layer 1 blockchain engineered to evolve.⁣",
         "content": "Aptos is the blockchain network with everything you need to build your big idea. Lets Move.",
         "url": "https://aptosfoundation.org/",
@@ -1488,7 +1488,7 @@
             ]
         ],
         "languages": [
-            "Aptos"
+            "Aptos Move"
         ],
         "tags": [
             "Testnet",
@@ -1522,7 +1522,7 @@
             ]
         ],
         "languages": [
-            "Aptos"
+            "Aptos Move"
         ],
         "tags": [
             "Testnet",
@@ -1554,7 +1554,7 @@
             ]
         ],
         "languages": [
-            "Aptos"
+            "Aptos Move"
         ],
         "tags": [
             "Testnet",
