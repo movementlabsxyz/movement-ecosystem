@@ -1608,7 +1608,7 @@
         ],
         "languages": [
             "Aptos Move",
-            " Sui Move"
+            "Sui Move"
         ],
         "tags": [
             "Testnet"
@@ -1644,7 +1644,7 @@
         "languages": [
             "Solidity",
             " Aptos Move",
-            " Sui Move"
+            "Sui Move"
         ],
         "tags": [
             "Mainnet"
