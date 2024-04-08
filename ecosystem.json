@@ -308,7 +308,7 @@
             "layer 1",
             "layer 2"
         ],
-        "category": [
+        "categories": [
             "Infrastructure"
         ],
         "subcategories": [
@@ -342,7 +342,7 @@
             "layer 1",
             "near"
         ],
-        "category": [
+        "categories": [
             "Infrastructure"
         ],
         "subcategories": [
@@ -375,7 +375,7 @@
             "blockchain",
             "IBC"
         ],
-        "category": [
+        "categories": [
             "Infrastructure"
         ],
         "subcategories": [
@@ -410,7 +410,7 @@
             "Native",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "Wallet"
         ],
         "subcategories": [
@@ -446,7 +446,7 @@
             "blockchain",
             "layer 1"
         ],
-        "category": [
+        "categories": [
             "Infrastructure"
         ],
         "subcategories": [
@@ -480,7 +480,7 @@
             "Ecosystem",
             "Native"
         ],
-        "category": [
+        "categories": [
             "DeFi"
         ],
         "subcategories": [
@@ -516,7 +516,7 @@
             "LST",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "DeFi"
         ],
         "subcategories": [
@@ -549,7 +549,7 @@
             "Infrastructure",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "DeFi"
         ],
         "subcategories": [
@@ -580,7 +580,7 @@
             "Infrastructure",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "Infrastructure"
         ],
         "subcategories": [
@@ -612,7 +612,7 @@
             "Infrastructure",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "Analytics"
         ],
         "subcategories": [
@@ -648,7 +648,7 @@
             "Art",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "NFT"
         ],
         "subcategories": [
@@ -681,7 +681,7 @@
             "NFT",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "Gaming"
         ],
         "subcategories": [
@@ -713,7 +713,7 @@
             "Dex",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "DeFi"
         ],
         "subcategories": [
@@ -745,7 +745,7 @@
             "Dex",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "DeFi"
         ],
         "subcategories": [
@@ -772,7 +772,7 @@
             "Defi",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "DeFi"
         ],
         "subcategories": [
@@ -804,7 +804,7 @@
             "Rollup",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "Infrastructure"
         ],
         "subcategories": [
@@ -831,7 +831,7 @@
             "Multisig",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "Wallet"
         ],
         "subcategories": [
@@ -865,7 +865,7 @@
             "Cosmos",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "Wallet"
         ],
         "subcategories": [
@@ -898,7 +898,7 @@
             "Layer 1",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "Infrastructure"
         ],
         "subcategories": [
@@ -930,7 +930,7 @@
             "bridge",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "Infrastructure"
         ],
         "subcategories": [
@@ -962,7 +962,7 @@
             "onramp",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "DeFi"
         ],
         "subcategories": [
@@ -996,7 +996,7 @@
             "IBC",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "DeFi"
         ],
         "subcategories": [
@@ -1029,7 +1029,7 @@
             "IBC",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "Infrastructure"
         ],
         "subcategories": [
@@ -1061,7 +1061,7 @@
             "lend",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "DeFi"
         ],
         "subcategories": [
@@ -1093,7 +1093,7 @@
             "interoperability",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "Infrastructure"
         ],
         "subcategories": [
@@ -1125,7 +1125,7 @@
             "IBC",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "Wallet"
         ],
         "subcategories": [
@@ -1158,7 +1158,7 @@
             "Liquid Staking",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "DeFi"
         ],
         "subcategories": [
@@ -1190,7 +1190,7 @@
             "IBC",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "Wallet"
         ],
         "subcategories": [
@@ -1222,7 +1222,7 @@
             "Layer 2",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "Infrastructure"
         ],
         "subcategories": [
@@ -1255,7 +1255,7 @@
             "LST",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "DeFi"
         ],
         "subcategories": [
@@ -1287,7 +1287,7 @@
             "Infrastructure",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "Infrastructure"
         ],
         "subcategories": [
@@ -1317,7 +1317,7 @@
             "Depin",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "Infrastructure"
         ],
         "subcategories": [
@@ -1350,7 +1350,7 @@
             "Stablecoin",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "DeFi"
         ],
         "subcategories": [
@@ -1382,7 +1382,7 @@
             "Infrastructure",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "Infrastructure"
         ],
         "subcategories": [
@@ -1415,7 +1415,7 @@
             "Defi",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "DeFi"
         ],
         "subcategories": [
@@ -1447,7 +1447,7 @@
             "Infrastructure",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "Gaming"
         ],
         "subcategories": [
@@ -1478,7 +1478,7 @@
             "Move",
             "Layer 1"
         ],
-        "category": [
+        "categories": [
             "Infrastructure"
         ],
         "subcategories": [
@@ -1510,7 +1510,7 @@
             "Dex",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "DeFi"
         ],
         "subcategories": [
@@ -1544,7 +1544,7 @@
             "Lending",
             "Ecosystem"
         ],
-        "category": [
+        "categories": [
             "DeFi"
         ],
         "subcategories": [
@@ -1581,7 +1581,7 @@
             ]
         ],
         "languages": [
-            "Aptos Move"
+            " Aptos"
         ],
         "tags": [
             "Testnet"
@@ -1607,8 +1607,8 @@
             ]
         ],
         "languages": [
-            "Aptos Move",
-            "Sui Move"
+            " Aptos",
+            " Sui"
         ],
         "tags": [
             "Testnet"
@@ -1643,8 +1643,8 @@
         ],
         "languages": [
             "Solidity",
-            " Aptos Move",
-            "Sui Move"
+            " Aptos",
+            " Sui"
         ],
         "tags": [
             "Mainnet"
