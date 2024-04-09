@@ -88,12 +88,14 @@ directories.forEach(dir => {
             keywords: record["Keywords"] ? record["Keywords"].split(',').slice(0, 5) : [],
             categories: categories,
             subcategories: getSubcategories(record, categories),
-            languages: record["Languages"] ? record["Languages"].split(',').filter(lang => lang.trim() !== '') : [],
+            languages: record["Languages"] ? record["Languages"].split(',').map(lang => lang.trim()) : [],
             tags: record["Tags"] ? record["Tags"].split(',').filter(tag => tag.trim() !== '') : []
         };
+        console.log(project.languages)
+        console.log(project.tags)
 
         acc[record["Project Name"]] = project;
-        
+
         return acc;
     }, {});
 
