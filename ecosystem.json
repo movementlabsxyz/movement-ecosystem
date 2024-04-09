@@ -21,9 +21,7 @@
             "Other"
         ],
         "subcategories": [
-            [
-                "Other"
-            ]
+            []
         ],
         "languages": [
             "Solidity",
@@ -1634,9 +1632,7 @@
             "Infrastructure"
         ],
         "subcategories": [
-            [
-                "Other"
-            ],
+            [],
             [
                 "Other"
             ]
