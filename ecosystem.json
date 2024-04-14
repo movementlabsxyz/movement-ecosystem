@@ -629,33 +629,6 @@
             "Devnet"
         ]
     },
-    "Yodeswap": {
-        "description": "Original meme DEX on Dogechain, coming soon to Movementlabsxyz",
-        "content": "",
-        "url": "yodeswap.dog",
-        "github": "https://github.com/interest-protocol",
-        "discord": "",
-        "telegram": "https://t.me/Yodeswap2",
-        "twitter": "https://twitter.com/yodeswap",
-        "contact": "",
-        "slug": "yodeswap",
-        "keywords": [
-            "Meme",
-            "Dex",
-            "Ecosystem"
-        ],
-        "categories": [
-            "DeFi"
-        ],
-        "subcategories": [
-            [
-                "DEX",
-                "Other"
-            ]
-        ],
-        "languages": [],
-        "tags": []
-    },
     "Bucket Protocol": {
         "description": "Robust and Fundamental DeFi Engine on Sui",
         "content": "Bucket is a CDP protocol built on Sui. that enhances fund efficiency and stabilizes stablecoin prices.",
@@ -687,33 +660,6 @@
             "Testnet",
             "Devnet"
         ]
-    },
-    "Ngmi": {
-        "description": "NGMI will be the first ever rollup to launch on Move VM - going live in 2024",
-        "content": "",
-        "url": "",
-        "github": "",
-        "discord": "discord.gg/grpcgyzVEd",
-        "telegram": "",
-        "twitter": "https://twitter.com/ngmi_art",
-        "contact": "",
-        "slug": "ngmi",
-        "keywords": [
-            "Layer 2",
-            "Rollup",
-            "Ecosystem"
-        ],
-        "categories": [
-            "Infrastructure"
-        ],
-        "subcategories": [
-            [
-                "Layer 2",
-                "Other"
-            ]
-        ],
-        "languages": [],
-        "tags": []
     },
     "Desig": {
         "description": "The First OmniChain Smart Multisig",
@@ -1577,6 +1523,33 @@
             "Testnet"
         ]
     },
+    "Yodeswap": {
+        "description": "Original meme DEX on Dogechain, coming soon to Movementlabsxyz",
+        "content": "",
+        "url": "yodeswap.dog",
+        "github": "https://github.com/interest-protocol",
+        "discord": "",
+        "telegram": "https://t.me/Yodeswap2",
+        "twitter": "https://twitter.com/yodeswap",
+        "contact": "",
+        "slug": "yodeswap",
+        "keywords": [
+            "Meme",
+            "Dex",
+            "Ecosystem"
+        ],
+        "categories": [
+            "DeFi"
+        ],
+        "subcategories": [
+            [
+                "DEX",
+                "Other"
+            ]
+        ],
+        "languages": [],
+        "tags": []
+    },
     "Xebra Trade": {
         "description": "Superfast perpetuals trading on-chain",
         "content": "",
@@ -1611,6 +1584,33 @@
             "Testnet",
             "Devnet"
         ]
+    },
+    "Ngmi": {
+        "description": "NGMI will be the first ever rollup to launch on Move VM - going live in 2024",
+        "content": "",
+        "url": "",
+        "github": "",
+        "discord": "discord.gg/grpcgyzVEd",
+        "telegram": "",
+        "twitter": "https://twitter.com/ngmi_art",
+        "contact": "",
+        "slug": "ngmi",
+        "keywords": [
+            "Layer 2",
+            "Rollup",
+            "Ecosystem"
+        ],
+        "categories": [
+            "Infrastructure"
+        ],
+        "subcategories": [
+            [
+                "Layer 2",
+                "Other"
+            ]
+        ],
+        "languages": [],
+        "tags": []
     },
     "Dappad+": {
         "description": "Dappad is a connective link that bridges the gap between Layer2 projects and early investors as a multichain launchpad.",
