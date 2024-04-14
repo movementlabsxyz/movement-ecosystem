@@ -464,37 +464,6 @@
             "Devnet"
         ]
     },
-    "ShogunFi": {
-        "description": "Intent-centric DeFi platform for rotatoooors",
-        "content": "Inspired by the shōgun's unification of Japan, the Shogun Network will unveil a revolutionary approach to cross-chain liquidity, reshaping fragmented marketplaces in ways yet unseen.",
-        "url": "https://shogun.fi/",
-        "github": "",
-        "discord": "discord.gg/shogunfi",
-        "telegram": "",
-        "twitter": "https://twitter.com/shogunfi",
-        "contact": "",
-        "slug": "shogunfi",
-        "keywords": [
-            "Defi",
-            "Infrastructure",
-            "Ecosystem"
-        ],
-        "categories": [
-            "DeFi"
-        ],
-        "subcategories": [
-            [
-                "Other"
-            ]
-        ],
-        "languages": [
-            ""
-        ],
-        "tags": [
-            "Testnet",
-            "Devnet"
-        ]
-    },
     "Seam Money": {
         "description": "Concentrated Liquidity AMM on aptos and movementlabsxyz",
         "content": "We believe the future of DeFi is composability across pools, protocols, and chains. With Seam Money you can permissionlessly create custom vaults to hedge all your DeFi positions in one place.",
@@ -1518,6 +1487,37 @@
         ],
         "languages": [
             "Aptos Move"
+        ],
+        "tags": [
+            "Testnet",
+            "Devnet"
+        ]
+    },
+    "ShogunFi": {
+        "description": "Intent-centric DeFi platform for rotatoooors",
+        "content": "Inspired by the shōgun's unification of Japan, the Shogun Network will unveil a revolutionary approach to cross-chain liquidity, reshaping fragmented marketplaces in ways yet unseen.",
+        "url": "https://shogun.fi/",
+        "github": "",
+        "discord": "discord.gg/shogunfi",
+        "telegram": "",
+        "twitter": "https://twitter.com/shogunfi",
+        "contact": "",
+        "slug": "shogunfi",
+        "keywords": [
+            "Defi",
+            "Infrastructure",
+            "Ecosystem"
+        ],
+        "categories": [
+            "DeFi"
+        ],
+        "subcategories": [
+            [
+                "Other"
+            ]
+        ],
+        "languages": [
+            ""
         ],
         "tags": [
             "Testnet",
