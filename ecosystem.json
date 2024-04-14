@@ -464,6 +464,59 @@
             "Devnet"
         ]
     },
+    "IDOswap": {
+        "description": "DeFi's platform offers personalized commissions, token creation, betting rewards and more.",
+        "content": "IDOswap is revolutionizing DeFi trading on the Movement Labs blockchain. By seamlessly integrating concentrated liquidity pools into its advanced wallet solution, IDOswap empowers users with personalized fees, token creation capabilities, and rewarding staking opportunities. Explore permissionless pools for superior volume, higher APR and minimal slippage. Choose concentrated liquidity pools for reduced slippage and flexible fees. Participate in staking to earn rewards and increase liquidity. ",
+        "url": "http://idoswap.io/",
+        "github": "",
+        "discord": "",
+        "telegram": "https://t.me/IDOswap",
+        "twitter": "https://twitter.com/IDOswapio",
+        "contact": "https://t.me/valeravlasyuk",
+        "slug": "idoswap",
+        "keywords": [],
+        "categories": [
+            "DeFi"
+        ],
+        "subcategories": [
+            [
+                "DEX"
+            ]
+        ],
+        "languages": [
+            "Aptos Move"
+        ],
+        "tags": [
+            "Testnet"
+        ]
+    },
+    "IDOwallet": {
+        "description": "DeFi on Movement Labs blockchain with replayable transactions, swaps, stakes, portfolio, incentives.",
+        "content": "IDOwallet is an advanced decentralized finance (DeFi) solution built on the Movement Labs blockchain. It provides users with a range of features including replayable transactions, optimized swaps, token creation capabilities, a staking marketplace, a portfolio management dashboard, an airdrop claim interface, and a built-in incentive program. These features are designed to provide users with a seamless and rewarding experience within the DeFi ecosystem.",
+        "url": "http://idowallet.xyz/",
+        "github": "",
+        "discord": "",
+        "telegram": "https://t.me/idowallet_co",
+        "twitter": "https://x.com/idowallet?s=21",
+        "contact": "https://t.me/valeravlasyuk",
+        "slug": "idowallet",
+        "keywords": [],
+        "categories": [
+            "Wallet"
+        ],
+        "subcategories": [
+            [
+                "Extension"
+            ]
+        ],
+        "languages": [
+            "Aptos Move",
+            "Sui Move"
+        ],
+        "tags": [
+            "Testnet"
+        ]
+    },
     "Seam Money": {
         "description": "Concentrated Liquidity AMM on aptos and movementlabsxyz",
         "content": "We believe the future of DeFi is composability across pools, protocols, and chains. With Seam Money you can permissionlessly create custom vaults to hedge all your DeFi positions in one place.",
@@ -1468,59 +1521,6 @@
         "tags": [
             "Testnet",
             "Devnet"
-        ]
-    },
-    "IDOswap": {
-        "description": "DeFi's platform offers personalized commissions, token creation, betting rewards and more.",
-        "content": "IDOswap is revolutionizing DeFi trading on the Movement Labs blockchain. By seamlessly integrating concentrated liquidity pools into its advanced wallet solution, IDOswap empowers users with personalized fees, token creation capabilities, and rewarding staking opportunities. Explore permissionless pools for superior volume, higher APR and minimal slippage. Choose concentrated liquidity pools for reduced slippage and flexible fees. Participate in staking to earn rewards and increase liquidity. ",
-        "url": "http://idoswap.io/",
-        "github": "",
-        "discord": "",
-        "telegram": "https://t.me/IDOswap",
-        "twitter": "https://twitter.com/IDOswapio",
-        "contact": "https://t.me/valeravlasyuk",
-        "slug": "idoswap",
-        "keywords": [],
-        "categories": [
-            "DeFi"
-        ],
-        "subcategories": [
-            [
-                "DEX"
-            ]
-        ],
-        "languages": [
-            "Aptos Move"
-        ],
-        "tags": [
-            "Testnet"
-        ]
-    },
-    "IDOwallet": {
-        "description": "DeFi on Movement Labs blockchain with replayable transactions, swaps, stakes, portfolio, incentives.",
-        "content": "IDOwallet is an advanced decentralized finance (DeFi) solution built on the Movement Labs blockchain. It provides users with a range of features including replayable transactions, optimized swaps, token creation capabilities, a staking marketplace, a portfolio management dashboard, an airdrop claim interface, and a built-in incentive program. These features are designed to provide users with a seamless and rewarding experience within the DeFi ecosystem.",
-        "url": "http://idowallet.xyz/",
-        "github": "",
-        "discord": "",
-        "telegram": "https://t.me/idowallet_co",
-        "twitter": "https://x.com/idowallet?s=21",
-        "contact": "https://t.me/valeravlasyuk",
-        "slug": "idowallet",
-        "keywords": [],
-        "categories": [
-            "Wallet"
-        ],
-        "subcategories": [
-            [
-                "Extension"
-            ]
-        ],
-        "languages": [
-            "Aptos Move",
-            "Sui Move"
-        ],
-        "tags": [
-            "Testnet"
         ]
     },
     "Yodeswap": {
