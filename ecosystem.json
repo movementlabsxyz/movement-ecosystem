@@ -33,39 +33,6 @@
             "Mainnet"
         ]
     },
-    "Monoswap": {
-        "description": "A testnet EVM protocol for Movement MEVM",
-        "content": "Monoswap is an EVM-based DEX on the Movement Network. It features a classic AMM and concentrated liquidity — users can choose to provide funds in specific price ranges to earn more from their investments. Monoswap is geared towards offering efficient and profitable trading opportunities.",
-        "url": "https://dev-monoswap.mvlabs.net/#/swap",
-        "github": "https://github.com/movementlabsxyz/monoswap",
-        "discord": "https://discord.gg/movementlabs",
-        "telegram": "https://t.me/movementlabsxyz",
-        "twitter": "https://x.com/movementlabsxyz",
-        "contact": "https://t.me/franciskthomas",
-        "slug": "monoswap",
-        "keywords": [
-            "movement",
-            "labs",
-            "ecosystem",
-            "blockchain",
-            "layer 1"
-        ],
-        "categories": [
-            "DeFi"
-        ],
-        "subcategories": [
-            [
-                "DEX"
-            ]
-        ],
-        "languages": [
-            "Solidity"
-        ],
-        "tags": [
-            "Testnet",
-            "Devnet"
-        ]
-    },
     "MovementSwap": {
         "description": "A testnet Aptos and Sui protocol for Movement",
         "content": "Movementswap is a decentralized exchange on the Movement Network, designed for trading generic digital assets. It allows users to swap between different types of Coins, provide liquidity to earn rewards, and participate in incentivized liquidity. Movementswap is built to be fast and user-friendly, aiming to provide a smooth trading experience.",
@@ -456,41 +423,6 @@
         ],
         "languages": [
             "Rust"
-        ],
-        "tags": [
-            "Testnet",
-            "Devnet"
-        ]
-    },
-    "Xebra Trade": {
-        "description": "Superfast perpetuals trading on-chain",
-        "content": "",
-        "url": "https://www.xebra.trade/",
-        "github": "",
-        "discord": "",
-        "telegram": "",
-        "twitter": "https://twitter.com/xebratrade",
-        "contact": "",
-        "slug": "xebra-trade",
-        "keywords": [
-            "Dex",
-            "Perpetual",
-            "Ecosystem",
-            "Native"
-        ],
-        "categories": [
-            "DeFi"
-        ],
-        "subcategories": [
-            [
-                "Perpetuals",
-                "Other"
-            ]
-        ],
-        "languages": [
-            "Rust",
-            "Sui Move",
-            "Aptos Move"
         ],
         "tags": [
             "Testnet",
@@ -1332,6 +1264,39 @@
             "Devnet"
         ]
     },
+    "Monoswap": {
+        "description": "A testnet EVM protocol for Movement MEVM",
+        "content": "Monoswap is an EVM-based DEX on the Movement Network. It features a classic AMM and concentrated liquidity — users can choose to provide funds in specific price ranges to earn more from their investments. Monoswap is geared towards offering efficient and profitable trading opportunities.",
+        "url": "https://dev-monoswap.mvlabs.net/#/swap",
+        "github": "https://github.com/movementlabsxyz/monoswap",
+        "discord": "https://discord.gg/movementlabs",
+        "telegram": "https://t.me/movementlabsxyz",
+        "twitter": "https://x.com/movementlabsxyz",
+        "contact": "https://t.me/franciskthomas",
+        "slug": "monoswap",
+        "keywords": [
+            "movement",
+            "labs",
+            "ecosystem",
+            "blockchain",
+            "layer 1"
+        ],
+        "categories": [
+            "DeFi"
+        ],
+        "subcategories": [
+            [
+                "DEX"
+            ]
+        ],
+        "languages": [
+            "Solidity"
+        ],
+        "tags": [
+            "Testnet",
+            "Devnet"
+        ]
+    },
     "Ethena": {
         "description": "ENABLING THE INTERNET BOND",
         "content": "Ethena is a synthetic dollar protocol built on Ethereum that will provide a crypto-native solution for money not reliant on traditional banking system infrastructure, alongside a globally accessible dollar denominated savings instrument - the 'Internet Bond'.",
@@ -1610,6 +1575,41 @@
         ],
         "tags": [
             "Testnet"
+        ]
+    },
+    "Xebra Trade": {
+        "description": "Superfast perpetuals trading on-chain",
+        "content": "",
+        "url": "https://www.xebra.trade/",
+        "github": "",
+        "discord": "",
+        "telegram": "",
+        "twitter": "https://twitter.com/xebratrade",
+        "contact": "",
+        "slug": "xebra-trade",
+        "keywords": [
+            "Dex",
+            "Perpetual",
+            "Ecosystem",
+            "Native"
+        ],
+        "categories": [
+            "DeFi"
+        ],
+        "subcategories": [
+            [
+                "Perpetuals",
+                "Other"
+            ]
+        ],
+        "languages": [
+            "Rust",
+            "Sui Move",
+            "Aptos Move"
+        ],
+        "tags": [
+            "Testnet",
+            "Devnet"
         ]
     },
     "Dappad+": {
