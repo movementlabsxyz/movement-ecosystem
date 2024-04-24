@@ -1645,5 +1645,33 @@
         "tags": [
             "Mainnet"
         ]
+    },
+    "Firewall": {
+        "description": "A security layer for rollups.",
+        "content": "Firewall builds a safe sequencer that leverages machine learning and pattern recognition to defend rollups from smart contract exploits.",
+        "url": "https://usefirewall.com",
+        "github": "https://github.com/Firewall-eng",
+        "discord": "https://discord.gg/DWZhfKknu8",
+        "telegram": "https://t.me/usefirewall",
+        "twitter": "https://twitter.com/UseFirewall",
+        "contact": "ecosystem@usefirewall.com",
+        "slug": "firewall",
+        "keywords": [
+            "firewall",
+            "modular",
+            "security",
+            "rollup",
+            "sequencer",
+            "EVM"
+        ],
+        "category": "Infrastructure",
+        "subcategories": [
+            "Other"
+        ],
+        "languages": ["Solidity", "Rust"],
+        "tags": [
+            "Hiring Now",
+            "Mainnet"
+        ]
     }
 }
