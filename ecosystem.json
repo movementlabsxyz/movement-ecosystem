@@ -1664,10 +1664,10 @@
             "sequencer",
             "EVM"
         ],
-        "category": "Infrastructure",
-        "subcategories": [
+        "categories": ["Infrastructure"],
+        "subcategories": [[
             "Other"
-        ],
+        ]],
         "languages": ["Solidity", "Rust"],
         "tags": [
             "Hiring Now",
