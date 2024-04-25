@@ -1703,6 +1703,33 @@
             "Testnet",
             "Devnet"
         ]
+    },
+
+    "Flex Protocol": {
+        "description": "The First Liquidity DEX in Move Ecosystem, supporting Games and Fully-on-chain Game.",
+        "content": "Flex offers a unique mechanism for trading NFTs and SFTs via AMM, enabling immediate swaps of diversified portfolios. Its portfolio swap feature allows for efficient trading of gaming assets and characters within the Move ecosystem. Additionally, Flex provides a DEX as a Service (DaaS) via API, allowing for perpetual contracts on various assets, including gaming assets and memes.",
+        "url": "https://www.flextech.xyz",
+        "github": "https://github.com/flex-protocol",
+        "discord": "",
+        "telegram": "",
+        "twitter": "https://twitter.com/0xFlexTech",
+        "slug": "0xFlexTech",
+        "keywords": [],
+        "categories": [
+            "Infrastructure", "DeFi"
+        ],
+        "subcategories": [
+            [
+                "DEX"
+            ]
+        ],
+        "languages": [
+            "Sui Move"
+        ],
+        "tags": [
+            "Testnet",
+            "Devnet"
+        ]
     }
 
 }
