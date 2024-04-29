@@ -69,22 +69,27 @@
         ]
     },
     "Interest Protocol": {
-        "description": "Fractional reserve banking protocol on the Ethereum blockchain that pays interest to all depositors.",
-        "content": "Interest Protocol is a borrow/lend protocol that is highly capital-efficient thanks to its unique combination of fractional reserves and over-collateralization.",
-        "url": "https://www.interestprotocol.com/",
-        "github": "https://github.com/interest-protocol/",
-        "discord": "",
+        "description": "Concentrated Liquidity Automated Market Maker.",
+        "content": "Swap, provide liquidity, create coins, airdrop or build on top of Interest Protocol using hooks.",
+        "url": "https://movement.interestprotocol.com/",
+        "github": "https://github.com/interest-protocol",
+        "discord": "https://discord.com/invite/interestprotocol",
         "telegram": "https://t.me/interestprotocol",
-        "twitter": "https://twitter.com/interest_dinero",
+        "twitter": "https://twitter.com/IPXMovement",
         "slug": "interest-protocol",
-        "keywords": [],
+        "keywords": [
+            "CLAMM",
+            "DEX",
+            "Liquidity Providers",
+            "Swap",
+            "Pools"
+        ],
         "categories": [
             "DeFi"
         ],
         "subcategories": [
             [
-                "DEX",
-                "Perpetuals"
+                "DEX"
             ]
         ],
         "languages": [
