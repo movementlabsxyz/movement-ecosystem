@@ -1686,7 +1686,6 @@
             "Mainnet"
         ]
     },
-
     "Inifnite Seas": {
         "description": "We are crafting a maritime trading, management, and battle-focused diplomatic on-chain game, inspired by Uncharted Waters IV.",
         "content": "Infinite Seas Studios is crafting a fully on-chain maritime trading and diplomatic social game on Move L2. Here, victors claim the stakes of the vanquished as the game rolls on. Our aim is to experiment with the extent to which a game can foster microtransactions and player-to-player trading, all powered by our AMM infrastructure and backend engine.",
@@ -1704,19 +1703,24 @@
             "MMO",
             "Game Engine"
         ],
-        "categories": ["Gaming"],
-        "subcategories": [[
-            "Game Engine",
-            "FOCG",
-            "AW"
-        ]],
-        "languages": ["Sui Move"],
+        "categories": [
+            "Gaming"
+        ],
+        "subcategories": [
+            [
+                "Game Engine",
+                "FOCG",
+                "AW"
+            ]
+        ],
+        "languages": [
+            "Sui Move"
+        ],
         "tags": [
             "Testnet",
             "Devnet"
         ]
     },
-
     "Flex Protocol": {
         "description": "The First Liquidity DEX in Move Ecosystem, supporting Games and Fully-on-chain Game.",
         "content": "Flex offers a unique mechanism for trading NFTs and SFTs via AMM, enabling immediate swaps of diversified portfolios. Its portfolio swap feature allows for efficient trading of gaming assets and characters within the Move ecosystem. Additionally, Flex provides a DEX as a Service (DaaS) via API, allowing for perpetual contracts on various assets, including gaming assets and memes.",
@@ -1728,7 +1732,8 @@
         "slug": "0xFlexTech",
         "keywords": [],
         "categories": [
-            "Infrastructure", "DeFi"
+            "Infrastructure",
+            "DeFi"
         ],
         "subcategories": [
             [
@@ -1741,6 +1746,37 @@
         "tags": [
             "Testnet",
             "Devnet"
+        ]
+    },
+    "Zion Bets": {
+        "description": "The Smoothest Mobile GambleFi Experience.",
+        "content": "Welcome to Zion Bets — a game designed to give you a taste of fast bets and live gambling, deployed natively on-chain to the Movement network, secured by Move.",
+        "url": "https://www.zion.bet/",
+        "github": "https://github.com/SeamMoney/zionbet",
+        "discord": "https://discord.gg/VMxAEAq9S9",
+        "telegram": "https://t.me/zion_bet",
+        "twitter": "https://x.com/zionbets",
+        "contact": "https://x.com/max_mohammadi",
+        "slug": "zion",
+        "keywords": [
+            "GambleFi",
+            "Mobile",
+            "Gaming",
+            "DeFi"
+        ],
+        "categories": [
+            "GambleFi"
+        ],
+        "subcategories": [
+            [
+                "Gaming"
+            ]
+        ],
+        "languages": [
+            "AptosMove"
+        ],
+        "tags": [
+            "Testnet"
         ]
     }
 }
