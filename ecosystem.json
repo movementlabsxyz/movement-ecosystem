@@ -1588,5 +1588,195 @@
         ],
         "languages": [],
         "tags": []
+    },
+    "Xebra Trade": {
+        "description": "Superfast perpetuals trading on-chain",
+        "content": "",
+        "url": "https://www.xebra.trade/",
+        "github": "",
+        "discord": "",
+        "telegram": "",
+        "twitter": "https://twitter.com/xebratrade",
+        "contact": "",
+        "slug": "xebra-trade",
+        "keywords": [
+            "Dex",
+            "Perpetual",
+            "Ecosystem",
+            "Native"
+        ],
+        "categories": [
+            "DeFi"
+        ],
+        "subcategories": [
+            [
+                "Perpetuals",
+                "Other"
+            ]
+        ],
+        "languages": [
+            "Rust",
+            "Sui Move",
+            "Aptos Move"
+        ],
+        "tags": [
+            "Testnet",
+            "Devnet"
+        ]
+    },
+    "Ngmi": {
+        "description": "NGMI will be the first ever rollup to launch on Move VM - going live in 2024",
+        "content": "",
+        "url": "",
+        "github": "",
+        "discord": "discord.gg/grpcgyzVEd",
+        "telegram": "",
+        "twitter": "https://twitter.com/ngmi_art",
+        "contact": "",
+        "slug": "ngmi",
+        "keywords": [
+            "Layer 2",
+            "Rollup",
+            "Ecosystem"
+        ],
+        "categories": [
+            "Infrastructure"
+        ],
+        "subcategories": [
+            [
+                "Layer 2",
+                "Other"
+            ]
+        ],
+        "languages": [],
+        "tags": []
+    },
+    "Firewall": {
+        "description": "A security layer for rollups.",
+        "content": "Firewall builds a safe sequencer that leverages machine learning and pattern recognition to defend rollups from smart contract exploits.",
+        "url": "https://usefirewall.com",
+        "github": "https://github.com/Firewall-eng",
+        "discord": "https://discord.gg/DWZhfKknu8",
+        "telegram": "https://t.me/usefirewall",
+        "twitter": "https://twitter.com/UseFirewall",
+        "contact": "ecosystem@usefirewall.com",
+        "slug": "firewall",
+        "keywords": [
+            "firewall",
+            "modular",
+            "security",
+            "rollup",
+            "sequencer",
+            "EVM"
+        ],
+        "categories": [
+            "Infrastructure"
+        ],
+        "subcategories": [
+            [
+                "Other"
+            ]
+        ],
+        "languages": [
+            "Solidity",
+            "Rust"
+        ],
+        "tags": [
+            "Hiring Now",
+            "Mainnet"
+        ]
+    },
+    "Inifnite Seas": {
+        "description": "We are crafting a maritime trading, management, and battle-focused diplomatic on-chain game, inspired by Uncharted Waters IV.",
+        "content": "Infinite Seas Studios is crafting a fully on-chain maritime trading and diplomatic social game on Move L2. Here, victors claim the stakes of the vanquished as the game rolls on. Our aim is to experiment with the extent to which a game can foster microtransactions and player-to-player trading, all powered by our AMM infrastructure and backend engine.",
+        "url": "http://infiniteseas.io",
+        "github": "https://github.com/InfiniteSeas",
+        "discord": "https://discord.gg/UZxbp35VHQ",
+        "telegram": "https://t.me/+96DfyPIvvk1lNmEx",
+        "twitter": "https://twitter.com/InfiniseasDev",
+        "contact": "",
+        "slug": "infiniteseas",
+        "keywords": [
+            "Onchain game",
+            "Autonomous world",
+            "Gaming",
+            "MMO",
+            "Game Engine"
+        ],
+        "categories": [
+            "Gaming"
+        ],
+        "subcategories": [
+            [
+                "Game Engine",
+                "FOCG",
+                "AW"
+            ]
+        ],
+        "languages": [
+            "Sui Move"
+        ],
+        "tags": [
+            "Testnet",
+            "Devnet"
+        ]
+    },
+    "Flex Protocol": {
+        "description": "The First Liquidity DEX in Move Ecosystem, supporting Games and Fully-on-chain Game.",
+        "content": "Flex offers a unique mechanism for trading NFTs and SFTs via AMM, enabling immediate swaps of diversified portfolios. Its portfolio swap feature allows for efficient trading of gaming assets and characters within the Move ecosystem. Additionally, Flex provides a DEX as a Service (DaaS) via API, allowing for perpetual contracts on various assets, including gaming assets and memes.",
+        "url": "https://www.flextech.xyz",
+        "github": "https://github.com/flex-protocol",
+        "discord": "",
+        "telegram": "",
+        "twitter": "https://twitter.com/0xFlexTech",
+        "slug": "0xFlexTech",
+        "keywords": [],
+        "categories": [
+            "Infrastructure",
+            "DeFi"
+        ],
+        "subcategories": [
+            [
+                "DEX"
+            ]
+        ],
+        "languages": [
+            "Sui Move"
+        ],
+        "tags": [
+            "Testnet",
+            "Devnet"
+        ]
+    },
+    "Zion Bets": {
+        "description": "The Smoothest Mobile GambleFi Experience.",
+        "content": "Welcome to Zion Bets — a game designed to give you a taste of fast bets and live gambling, deployed natively on-chain to the Movement network, secured by Move.",
+        "url": "https://www.zion.bet/",
+        "github": "https://github.com/SeamMoney/zionbet",
+        "discord": "https://discord.gg/VMxAEAq9S9",
+        "telegram": "https://t.me/zion_bet",
+        "twitter": "https://x.com/zionbets",
+        "contact": "https://x.com/max_mohammadi",
+        "slug": "zion",
+        "keywords": [
+            "GambleFi",
+            "Mobile",
+            "Gaming",
+            "DeFi"
+        ],
+        "categories": [
+            "GambleFi"
+        ],
+        "subcategories": [
+            [
+                "Gaming"
+            ]
+        ],
+        "languages": [
+            "AptosMove"
+        ],
+        "tags": [
+            "Testnet"
+        ]
     }
 }
