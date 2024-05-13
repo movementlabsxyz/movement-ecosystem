@@ -1675,15 +1675,15 @@
         ]
     },
 
-    "Inifnite Seas": {
-        "description": "We are crafting a maritime trading, management, and battle-focused diplomatic on-chain game, inspired by Uncharted Waters IV.",
+    "Infinite Seas": {
+        "description": "We are crafting a maritime trading & battle-focused onchain game, inspired by Uncharted Waters IV.",
         "content": "Infinite Seas Studios is crafting a fully on-chain maritime trading and diplomatic social game on Move L2. Here, victors claim the stakes of the vanquished as the game rolls on. Our aim is to experiment with the extent to which a game can foster microtransactions and player-to-player trading, all powered by our AMM infrastructure and backend engine.",
         "url": "http://infiniteseas.io",
         "github": "https://github.com/InfiniteSeas",
         "discord": "https://discord.gg/UZxbp35VHQ",
         "telegram": "https://t.me/+96DfyPIvvk1lNmEx",
         "twitter": "https://twitter.com/InfiniseasDev",
-        "contact": "",
+        "contact": "https://twitter.com/InfiniseasDev",
         "slug": "infiniteseas",
         "keywords": [
             "Onchain game",
