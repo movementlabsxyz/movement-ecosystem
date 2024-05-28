@@ -69,22 +69,27 @@
         ]
     },
     "Interest Protocol": {
-        "description": "Fractional reserve banking protocol on the Ethereum blockchain that pays interest to all depositors.",
-        "content": "Interest Protocol is a borrow/lend protocol that is highly capital-efficient thanks to its unique combination of fractional reserves and over-collateralization.",
-        "url": "https://www.interestprotocol.com/",
-        "github": "https://github.com/interest-protocol/",
-        "discord": "",
+        "description": "Concentrated Liquidity Automated Market Maker.",
+        "content": "Swap, provide liquidity, create coins, airdrop or build on top of Interest Protocol using hooks.",
+        "url": "https://movement.interestprotocol.com/",
+        "github": "https://github.com/interest-protocol",
+        "discord": "https://discord.com/invite/interestprotocol",
         "telegram": "https://t.me/interestprotocol",
-        "twitter": "https://twitter.com/interest_dinero",
+        "twitter": "https://twitter.com/IPXMovement",
         "slug": "interest-protocol",
-        "keywords": [],
+        "keywords": [
+            "CLAMM",
+            "DEX",
+            "Liquidity Providers",
+            "Swap",
+            "Pools"
+        ],
         "categories": [
             "DeFi"
         ],
         "subcategories": [
             [
-                "DEX",
-                "Perpetuals"
+                "DEX"
             ]
         ],
         "languages": [
@@ -1426,6 +1431,40 @@
             "Devnet"
         ]
     },
+    "Dappad+": {
+        "description": "Dappad is a connective link that bridges the gap between Layer2 projects and early investors as a multichain launchpad.",
+        "content": "Dappad is a connective link that bridges the gap between Layer2 projects and early investors as a multichain launchpad. Dappad offers a technological infrastructure to challenge the traditional ways of the launchpad industry, offering easy onboarding with Account Abstraction and the ability to use native tokens as gas fees with the Paymaster model.",
+        "url": "https://dappad.app/",
+        "github": "https://github.com/dappadapp",
+        "discord": "https://discord.com/invite/dappadlaunchpad",
+        "telegram": "https://t.me/Dappadofficial",
+        "twitter": "https://twitter.com/Dappadofficial",
+        "contact": "https://t.me/ibraxdapplabs",
+        "slug": "dappad-launchpad",
+        "keywords": [
+            "Launchpad",
+            " Account Abstraction",
+            " Custom Paymaster"
+        ],
+        "categories": [
+            "Other",
+            "Infrastructure"
+        ],
+        "subcategories": [
+            [],
+            [
+                "Other"
+            ]
+        ],
+        "languages": [
+            "Solidity",
+            "Aptos Move",
+            "Sui Move"
+        ],
+        "tags": [
+            "Mainnet"
+        ]
+    },
     "Thala": {
         "description": "DeFi HyperApp and Liquidity Engine – powered by Move⁣",
         "content": "Thala enables seamless borrowing of Move dollar and efficient liquidity provisioning",
@@ -1612,40 +1651,6 @@
         "languages": [],
         "tags": []
     },
-    "Dappad+": {
-        "description": "Dappad is a connective link that bridges the gap between Layer2 projects and early investors as a multichain launchpad.",
-        "content": "Dappad is a connective link that bridges the gap between Layer2 projects and early investors as a multichain launchpad. Dappad offers a technological infrastructure to challenge the traditional ways of the launchpad industry, offering easy onboarding with Account Abstraction and the ability to use native tokens as gas fees with the Paymaster model.",
-        "url": "https://dappad.app/",
-        "github": "https://github.com/dappadapp",
-        "discord": "https://discord.com/invite/dappadlaunchpad",
-        "telegram": "https://t.me/Dappadofficial",
-        "twitter": "https://twitter.com/Dappadofficial",
-        "contact": "https://t.me/ibraxdapplabs",
-        "slug": "dappad-launchpad",
-        "keywords": [
-            "Launchpad",
-            " Account Abstraction",
-            " Custom Paymaster"
-        ],
-        "categories": [
-            "Other",
-            "Infrastructure"
-        ],
-        "subcategories": [
-            [],
-            [
-                "Other"
-            ]
-        ],
-        "languages": [
-            "Solidity",
-            "Aptos Move",
-            "Sui Move"
-        ],
-        "tags": [
-            "Mainnet"
-        ]
-    },
     "Firewall": {
         "description": "A security layer for rollups.",
         "content": "Firewall builds a safe sequencer that leverages machine learning and pattern recognition to defend rollups from smart contract exploits.",
@@ -1664,17 +1669,23 @@
             "sequencer",
             "EVM"
         ],
-        "categories": ["Infrastructure"],
-        "subcategories": [[
-            "Other"
-        ]],
-        "languages": ["Solidity", "Rust"],
+        "categories": [
+            "Infrastructure"
+        ],
+        "subcategories": [
+            [
+                "Other"
+            ]
+        ],
+        "languages": [
+            "Solidity",
+            "Rust"
+        ],
         "tags": [
             "Hiring Now",
             "Mainnet"
         ]
     },
-
     "Infinite Seas": {
         "description": "We are crafting a maritime trading & battle-focused onchain game, inspired by Uncharted Waters IV.",
         "content": "Infinite Seas Studios is crafting a fully on-chain maritime trading and diplomatic social game on Move L2. Here, victors claim the stakes of the vanquished as the game rolls on. Our aim is to experiment with the extent to which a game can foster microtransactions and player-to-player trading, all powered by our AMM infrastructure and backend engine.",
@@ -1692,19 +1703,24 @@
             "MMO",
             "Game Engine"
         ],
-        "categories": ["Gaming"],
-        "subcategories": [[
-            "Game Engine",
-            "FOCG",
-            "AW"
-        ]],
-        "languages": ["Sui Move"],
+        "categories": [
+            "Gaming"
+        ],
+        "subcategories": [
+            [
+                "Game Engine",
+                "FOCG",
+                "AW"
+            ]
+        ],
+        "languages": [
+            "Sui Move"
+        ],
         "tags": [
             "Testnet",
             "Devnet"
         ]
     },
-
     "Flex Protocol": {
         "description": "The First Liquidity DEX in Move Ecosystem, supporting Games and Fully-on-chain Game.",
         "content": "Flex offers a unique mechanism for trading NFTs and SFTs via AMM, enabling immediate swaps of diversified portfolios. Its portfolio swap feature allows for efficient trading of gaming assets and characters within the Move ecosystem. Additionally, Flex provides a DEX as a Service (DaaS) via API, allowing for perpetual contracts on various assets, including gaming assets and memes.",
@@ -1716,7 +1732,8 @@
         "slug": "0xFlexTech",
         "keywords": [],
         "categories": [
-            "Infrastructure", "DeFi"
+            "Infrastructure",
+            "DeFi"
         ],
         "subcategories": [
             [
@@ -1730,6 +1747,97 @@
             "Testnet",
             "Devnet"
         ]
+    },
+    "Zion Bets": {
+        "description": "The Smoothest Mobile GambleFi Experience.",
+        "content": "Welcome to Zion Bets — a game designed to give you a taste of fast bets and live gambling, deployed natively on-chain to the Movement network, secured by Move.",
+        "url": "https://www.zion.bet/",
+        "github": "https://github.com/SeamMoney/zionbet",
+        "discord": "https://discord.gg/VMxAEAq9S9",
+        "telegram": "https://t.me/zion_bet",
+        "twitter": "https://x.com/zionbets",
+        "contact": "https://x.com/max_mohammadi",
+        "slug": "zion",
+        "keywords": [
+            "GambleFi",
+            "Mobile",
+            "Gaming",
+            "DeFi"
+        ],
+        "categories": [
+            "GambleFi"
+        ],
+        "subcategories": [
+            [
+                "Gaming"
+            ]
+        ],
+        "languages": [
+            "AptosMove"
+        ],
+        "tags": [
+            "Testnet"
+        ]
+    },
+    "Nightly Wallet": {
+        "description": "Multichain Crypto Wallet Supporting MOVEmenet",
+        "content": "Nightly is a multichain crypto wallet, available on blockchains such as Movement, Aptos, Sui, Solana, NEAR, Aleph Zero, Polkadot, and Vara. It is designed for both desktop and mobile users, available as a browser extension compatible with Chrome, Firefox, Brave, and Edge, as well as a mobile application for Android and iOS platforms.",
+        "url": "https://nightly.app/",
+        "github": "",
+        "discord": "https://discord.com/invite/7nhFHA6yZq",
+        "telegram": "https://t.me/nightly_app",
+        "twitter": "https://twitter.com/Nightly_app",
+        "contact": "https://t.me/KCyrek",
+        "slug": "nightly-wallet",
+        "keywords": [
+            "nightly",
+            "wallet",
+            "multichain",
+            "mobile",
+            "browser"
+        ],
+        "categories": ["Wallet"],
+        "subcategories": [
+            [
+                "Extension", "Mobile"
+            ]
+        ],
+        "languages": [
+            "Rust"
+        ],
+        "tags": [
+            "Mainnet"
+        ]
+    },
+    "Nightly Connect": {
+        "description": "Wallet Adapter & Set of ready-to-use tools for building mobile dApps",
+        "content": "Nightly Connect is a permissionless, open-source solution that serves as both a wallet adapter and a set of ready-to-use tools for building dApps, enabling connections through QR codes or deep links. Nightly Connect provides solutions to both wallets and dApps. It not only enables easier connections to extension and mobile dApps, but also integrates wallets into dApps.",
+        "url": "https://nightly.app/connect",
+        "github": "https://github.com/nightly-labs/connect",
+        "discord": "https://discord.com/invite/7nhFHA6yZq",
+        "telegram": "https://t.me/nightly_app",
+        "twitter": "https://twitter.com/Nightly_app",
+        "contact": "https://t.me/KCyrek",
+        "slug": "nightly-connect",
+        "keywords": [
+            "nightly",
+            "connect",
+            "QRcode",
+            "deep-link",
+            "mobile",
+            "wallet adapter"
+        ],
+        "categories": ["Other"],
+        "subcategories": [
+            [
+                "Infrastructure", "Mobile"
+            ]
+        ],
+        "languages": [
+            "Rust"
+        ],
+        "tags": [
+            "Mainnet"
+        ]
     }
-
 }
