@@ -1,38 +1,4 @@
 {
-    "Movement": {
-        "description": "A Network of Modular Move Based Blockchain",
-        "content": "Movement Labs is bridging Move execution, security, and speed to new networks and environments. Our flagship products are M1 and M2. We provide developer tooling through the Movement SDK, Movement CLI, Fractal, Hyperlane messaging infrastructure, and the Movement Shared Sequencer to provide interoperability between Move-based ecosystems.",
-        "url": "https://movementlabs.xyz",
-        "github": "https://github.com/movementlabsxyz",
-        "discord": "https://discord.gg/movementlabs",
-        "telegram": "https://t.me/movementlabsxyz",
-        "twitter": "https://x.com/movementlabsxyz",
-        "contact": "https://t.me/franciskthomas",
-        "slug": "movement-labs",
-        "keywords": [
-            "movement",
-            "labs",
-            "ecosystem",
-            "blockchain",
-            "layer 1",
-            "layer 2"
-        ],
-        "categories": [
-            "Other"
-        ],
-        "subcategories": [
-            []
-        ],
-        "languages": [
-            "Solidity",
-            "Sui Move",
-            "Aptos Move"
-        ],
-        "tags": [
-            "Hiring Now",
-            "Mainnet"
-        ]
-    },
     "MovementSwap": {
         "description": "A testnet Aptos and Sui protocol for Movement",
         "content": "Movementswap is a decentralized exchange on the Movement Network, designed for trading generic digital assets. It allows users to swap between different types of Coins, provide liquidity to earn rewards, and participate in incentivized liquidity. Movementswap is built to be fast and user-friendly, aiming to provide a smooth trading experience.",
