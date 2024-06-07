@@ -1,36 +1,316 @@
 {
-    "Movement": {
-        "description": "A Network of Modular Move Based Blockchain",
-        "content": "Movement Labs is bridging Move execution, security, and speed to new networks and environments. Our flagship products are M1 and M2. We provide developer tooling through the Movement SDK, Movement CLI, Fractal, Hyperlane messaging infrastructure, and the Movement Shared Sequencer to provide interoperability between Move-based ecosystems.",
-        "url": "https://movementlabs.xyz",
-        "github": "https://github.com/movementlabsxyz",
-        "discord": "https://discord.gg/movementlabs",
-        "telegram": "https://t.me/movementlabsxyz",
-        "twitter": "https://x.com/movementlabsxyz",
-        "contact": "https://t.me/franciskthomas",
-        "slug": "movement-labs",
+    "OmniBTC": {
+        "description": "OmniBTC is a decentralized cross-chain bridge and lending platform, aiming to connect and unify all the on-chain liquidity. ",
+        "content": "OmniBTC is the ultimate cross-chain bridge and lending platform that unifies all on-chain liquidity using interoperability protocols such as LayerZero, Wormhole, and Celer Network, etc. Allowing users to bridge and lend any token on any chain without interacting with multiple protocols, DEX, and bridges. ",
+        "url": "https://www.omnibtc.finance/",
+        "github": "https://github.com/OmniBTC",
+        "discord": "https://discord.gg/fz8ZkDJgPB",
+        "telegram": "/",
+        "twitter": "https://x.com/OmniBTC",
+        "contact": "https://t.me/affersy",
+        "slug": "omnibtc",
         "keywords": [
-            "movement",
-            "labs",
-            "ecosystem",
-            "blockchain",
-            "layer 1",
-            "layer 2"
+            "Bridge",
+            " Lending",
+            " Omnichain"
         ],
         "categories": [
-            "Other"
+            "DeFi"
         ],
         "subcategories": [
-            []
+            [
+                "Lending",
+                "Swap Aggregator"
+            ]
         ],
         "languages": [
             "Solidity",
+            "Sui Move"
+        ],
+        "tags": [
+            "Mainnet"
+        ]
+    },
+    "Lync": {
+        "description": "Web3 gaming layer that helps you to build blockchain games in minutes than months",
+        "content": "LYNC is a Leading Multi-chain Gaming Ecosystem Providing Key Infrastructure to Tier 1 Gaming Studios & Indie Developers",
+        "url": "https://lync.world/",
+        "github": "",
+        "discord": "",
+        "telegram": "https://t.me/+T9Nb2o5lvK4zYzhl",
+        "twitter": "https://twitter.com/Lyncworld",
+        "contact": "",
+        "slug": "lync",
+        "keywords": [
+            "Gaming",
+            "Infrastructure",
+            "Ecosystem"
+        ],
+        "categories": [
+            "Gaming"
+        ],
+        "subcategories": [
+            [
+                "Gaming Focused",
+                "Other"
+            ]
+        ],
+        "languages": [
+            "Aptos Move"
+        ],
+        "tags": [
+            "Testnet",
+            "Devnet"
+        ]
+    },
+    "Razor Wallet": {
+        "description": "Razor Wallet: Your Sleek Companion on Movement",
+        "content": "Building Native Solutions for DeFi and Infrastructure on Movementlabsxyz.",
+        "url": "https://razorwallet.xyz/",
+        "github": "https://github.com/razorlabsorg",
+        "discord": "https://discord.gg/wdv9sGTheX",
+        "telegram": "",
+        "twitter": "https://twitter.com/RazorDAO",
+        "contact": "",
+        "slug": "razor-wallet",
+        "keywords": [
+            "Wallet",
+            "M1",
+            "M2",
+            "Native",
+            "Ecosystem"
+        ],
+        "categories": [
+            "Wallet"
+        ],
+        "subcategories": [
+            [
+                "Extension",
+                "Other"
+            ]
+        ],
+        "languages": [
+            "Rust",
             "Sui Move",
             "Aptos Move"
         ],
         "tags": [
-            "Hiring Now",
-            "Mainnet"
+            "Testnet",
+            "Devnet"
+        ]
+    },
+    "Lexer Market": {
+        "description": "Long, Short, Swap Perpetual Everything ",
+        "content": "Decentralized perpetual exchange for Forex, Crypto, NFT & more.",
+        "url": "https://www.lexer.markets/",
+        "github": "https://github.com/interest-protocol",
+        "discord": "https://discord.com/invite/QUCRBYD6uc",
+        "telegram": "",
+        "twitter": "https://twitter.com/LexerMarkets",
+        "contact": "",
+        "slug": "lexer-market",
+        "keywords": [
+            "Perpetuals",
+            "Dex",
+            "Ecosystem"
+        ],
+        "categories": [
+            "DeFi"
+        ],
+        "subcategories": [
+            [
+                "Perpetuals",
+                "Other"
+            ]
+        ],
+        "languages": [
+            "Solidity"
+        ],
+        "tags": [
+            "Testnet",
+            "Devnet"
+        ]
+    },
+    "Xebra Trade": {
+        "description": "Superfast perpetuals trading on-chain",
+        "content": "",
+        "url": "https://www.xebra.trade/",
+        "github": "",
+        "discord": "",
+        "telegram": "",
+        "twitter": "https://twitter.com/xebratrade",
+        "contact": "",
+        "slug": "xebra-trade",
+        "keywords": [
+            "Dex",
+            "Perpetual",
+            "Ecosystem",
+            "Native"
+        ],
+        "categories": [
+            "DeFi"
+        ],
+        "subcategories": [
+            [
+                "Perpetuals",
+                "Other"
+            ]
+        ],
+        "languages": [
+            "Rust",
+            "Sui Move",
+            "Aptos Move"
+        ],
+        "tags": [
+            "Testnet",
+            "Devnet"
+        ]
+    },
+    "Hyperlane": {
+        "description": "Connecting modular expansion with permissionless interop ⏩",
+        "content": "Hyperlane is the first interoperability layer that enables you to permissionlessly connect any blockchain, out-of-the-box.",
+        "url": "https://www.hyperlane.xyz/",
+        "github": "https://github.com/hyperlane-xyz",
+        "discord": "http://discord.gg/hyperlane",
+        "telegram": "",
+        "twitter": "https://twitter.com/Hyperlane_xyz",
+        "contact": "",
+        "slug": "hyperlane",
+        "keywords": [
+            "interoperability",
+            "bridge",
+            "Ecosystem"
+        ],
+        "categories": [
+            "Infrastructure"
+        ],
+        "subcategories": [
+            [
+                "Bridges",
+                "Other"
+            ]
+        ],
+        "languages": [
+            "Rust"
+        ],
+        "tags": [
+            "Testnet",
+            "Devnet"
+        ]
+    },
+    "IDOswap": {
+        "description": "DeFi's platform offers personalized commissions, token creation, betting rewards and more.",
+        "content": "IDOswap is revolutionizing DeFi trading on the Movement Labs blockchain. By seamlessly integrating concentrated liquidity pools into its advanced wallet solution, IDOswap empowers users with personalized fees, token creation capabilities, and rewarding staking opportunities. Explore permissionless pools for superior volume, higher APR and minimal slippage. Choose concentrated liquidity pools for reduced slippage and flexible fees. Participate in staking to earn rewards and increase liquidity. ",
+        "url": "http://idoswap.io/",
+        "github": "",
+        "discord": "",
+        "telegram": "https://t.me/IDOswap",
+        "twitter": "https://twitter.com/IDOswapio",
+        "contact": "https://t.me/valeravlasyuk",
+        "slug": "idoswap",
+        "keywords": [],
+        "categories": [
+            "DeFi"
+        ],
+        "subcategories": [
+            [
+                "DEX"
+            ]
+        ],
+        "languages": [
+            "Aptos Move"
+        ],
+        "tags": [
+            "Testnet"
+        ]
+    },
+    "Flex Protocol": {
+        "description": "The First Liquidity DEX in Move Ecosystem, supporting Games and Fully-on-chain Game.",
+        "content": "Flex offers a unique mechanism for trading NFTs and SFTs via AMM, enabling immediate swaps of diversified portfolios. Its portfolio swap feature allows for efficient trading of gaming assets and characters within the Move ecosystem. Additionally, Flex provides a DEX as a Service (DaaS) via API, allowing for perpetual contracts on various assets, including gaming assets and memes.",
+        "url": "https://www.flextech.xyz",
+        "github": "https://github.com/flex-protocol",
+        "discord": "",
+        "telegram": "",
+        "twitter": "https://twitter.com/0xFlexTech",
+        "slug": "0xFlexTech",
+        "keywords": [],
+        "categories": [
+            "Infrastructure",
+            "DeFi"
+        ],
+        "subcategories": [
+            [
+                "DEX"
+            ]
+        ],
+        "languages": [
+            "Sui Move"
+        ],
+        "tags": [
+            "Testnet",
+            "Devnet"
+        ]
+    },
+    "Desig": {
+        "description": "The First OmniChain Smart Multisig",
+        "content": "Experience the first Omnichain Smart Multisig wallet that streamlines treasury ops. Watch your funds flourish with intuitive tracking, smart allocation & insightful cashflow reports. ",
+        "url": "https://desig.io/",
+        "github": "https://github.com/Desig-Labs",
+        "discord": "https://discord.gg/pZDY9mt5YQ",
+        "telegram": "",
+        "twitter": "https://twitter.com/DesigLabs",
+        "contact": "",
+        "slug": "desig",
+        "keywords": [
+            "Wallet",
+            "Multisig",
+            "Ecosystem"
+        ],
+        "categories": [
+            "Wallet"
+        ],
+        "subcategories": [
+            [
+                "Extension",
+                "Multisig",
+                "Other"
+            ]
+        ],
+        "languages": [
+            "Solidity"
+        ],
+        "tags": [
+            "Testnet",
+            "Devnet"
+        ]
+    },
+    "Baptswap": {
+        "description": "Baptswap is a Decentralized Exchange (DEX) bringing support for fee-on-transfer solutions within a MOVE-based blockchain environment.",
+        "content": "Baptswap is a decentralized exchange (DEX) operating on the Aptos Network, enabling peer-to-peer cryptocurrency exchanges without the need for trusted intermediaries. Baptswap it the first DEX to introduce the fee-on-transfer model to Aptos, enabling teams to apply a fee on each transfer of their token. These fees can be allocated towards various purposes based on each individual team's needs and financial model. Baptswap uses an automated market maker (AMM) model, where users can trade against a liquidity pool of two assets, rather than an order book of buy and sell orders. Liquidity providers can earn fees by depositing their tokens into the pool, and traders can swap any token pair supported by the protocol. Baptswap handles the price calculations and slippage adjustments automatically, making trading fast and simple. Baptswap is leveraging the advantages of the Aptos Network and the MOVE language, through a user-friendly and innovative DEX experience for the DeFi users on Aptos.",
+        "url": "https://Baptswap.com",
+        "github": "https://github.com/Baptswap",
+        "discord": "",
+        "telegram": "https://t.me/BAPT_Labs",
+        "twitter": "https://x.com/Baptswap",
+        "contact": "https://t.me/captainsend",
+        "slug": "baptswap",
+        "keywords": [
+            "dex",
+            " fee-on-transfer"
+        ],
+        "categories": [
+            "DeFi"
+        ],
+        "subcategories": [
+            [
+                "DEX"
+            ]
+        ],
+        "languages": [
+            "Aptos Move"
+        ],
+        "tags": [
+            "Devnet"
         ]
     },
     "MovementSwap": {
@@ -363,42 +643,6 @@
             "Devnet"
         ]
     },
-    "Razor Wallet": {
-        "description": "Razor Wallet: Your Sleek Companion on Movement",
-        "content": "Building Native Solutions for DeFi and Infrastructure on Movementlabsxyz.",
-        "url": "https://razorwallet.xyz/",
-        "github": "https://github.com/razorlabsorg",
-        "discord": "https://discord.gg/wdv9sGTheX",
-        "telegram": "",
-        "twitter": "https://twitter.com/RazorDAO",
-        "contact": "",
-        "slug": "razor-wallet",
-        "keywords": [
-            "Wallet",
-            "M1",
-            "M2",
-            "Native",
-            "Ecosystem"
-        ],
-        "categories": [
-            "Wallet"
-        ],
-        "subcategories": [
-            [
-                "Extension",
-                "Other"
-            ]
-        ],
-        "languages": [
-            "Rust",
-            "Sui Move",
-            "Aptos Move"
-        ],
-        "tags": [
-            "Testnet",
-            "Devnet"
-        ]
-    },
     "Avail": {
         "description": "Accelerating the unification of web3",
         "content": "Avail is a Web3 infrastructure layer that allows modular execution layers to scale and interoperate in a trust minimized way.",
@@ -467,32 +711,6 @@
         "tags": [
             "Testnet",
             "Devnet"
-        ]
-    },
-    "IDOswap": {
-        "description": "DeFi's platform offers personalized commissions, token creation, betting rewards and more.",
-        "content": "IDOswap is revolutionizing DeFi trading on the Movement Labs blockchain. By seamlessly integrating concentrated liquidity pools into its advanced wallet solution, IDOswap empowers users with personalized fees, token creation capabilities, and rewarding staking opportunities. Explore permissionless pools for superior volume, higher APR and minimal slippage. Choose concentrated liquidity pools for reduced slippage and flexible fees. Participate in staking to earn rewards and increase liquidity. ",
-        "url": "http://idoswap.io/",
-        "github": "",
-        "discord": "",
-        "telegram": "https://t.me/IDOswap",
-        "twitter": "https://twitter.com/IDOswapio",
-        "contact": "https://t.me/valeravlasyuk",
-        "slug": "idoswap",
-        "keywords": [],
-        "categories": [
-            "DeFi"
-        ],
-        "subcategories": [
-            [
-                "DEX"
-            ]
-        ],
-        "languages": [
-            "Aptos Move"
-        ],
-        "tags": [
-            "Testnet"
         ]
     },
     "IDOwallet": {
@@ -655,38 +873,6 @@
             "Devnet"
         ]
     },
-    "Lexer Market": {
-        "description": "Long, Short, Swap Perpetual Everything ",
-        "content": "Decentralized perpetual exchange for Forex, Crypto, NFT & more.",
-        "url": "https://www.lexer.markets/",
-        "github": "https://github.com/interest-protocol",
-        "discord": "https://discord.com/invite/QUCRBYD6uc",
-        "telegram": "",
-        "twitter": "https://twitter.com/LexerMarkets",
-        "contact": "",
-        "slug": "lexer-market",
-        "keywords": [
-            "Perpetuals",
-            "Dex",
-            "Ecosystem"
-        ],
-        "categories": [
-            "DeFi"
-        ],
-        "subcategories": [
-            [
-                "Perpetuals",
-                "Other"
-            ]
-        ],
-        "languages": [
-            "Solidity"
-        ],
-        "tags": [
-            "Testnet",
-            "Devnet"
-        ]
-    },
     "Bucket Protocol": {
         "description": "Robust and Fundamental DeFi Engine on Sui",
         "content": "Bucket is a CDP protocol built on Sui. that enhances fund efficiency and stabilizes stablecoin prices.",
@@ -713,39 +899,6 @@
         ],
         "languages": [
             "Sui Move"
-        ],
-        "tags": [
-            "Testnet",
-            "Devnet"
-        ]
-    },
-    "Desig": {
-        "description": "The First OmniChain Smart Multisig",
-        "content": "Experience the first Omnichain Smart Multisig wallet that streamlines treasury ops. Watch your funds flourish with intuitive tracking, smart allocation & insightful cashflow reports. ",
-        "url": "https://desig.io/",
-        "github": "https://github.com/Desig-Labs",
-        "discord": "https://discord.gg/pZDY9mt5YQ",
-        "telegram": "",
-        "twitter": "https://twitter.com/DesigLabs",
-        "contact": "",
-        "slug": "desig",
-        "keywords": [
-            "Wallet",
-            "Multisig",
-            "Ecosystem"
-        ],
-        "categories": [
-            "Wallet"
-        ],
-        "subcategories": [
-            [
-                "Extension",
-                "Multisig",
-                "Other"
-            ]
-        ],
-        "languages": [
-            "Solidity"
         ],
         "tags": [
             "Testnet",
@@ -807,38 +960,6 @@
         "subcategories": [
             [
                 "Layer 1",
-                "Other"
-            ]
-        ],
-        "languages": [
-            "Rust"
-        ],
-        "tags": [
-            "Testnet",
-            "Devnet"
-        ]
-    },
-    "Hyperlane": {
-        "description": "Connecting modular expansion with permissionless interop ⏩",
-        "content": "Hyperlane is the first interoperability layer that enables you to permissionlessly connect any blockchain, out-of-the-box.",
-        "url": "https://www.hyperlane.xyz/",
-        "github": "https://github.com/hyperlane-xyz",
-        "discord": "http://discord.gg/hyperlane",
-        "telegram": "",
-        "twitter": "https://twitter.com/Hyperlane_xyz",
-        "contact": "",
-        "slug": "hyperlane",
-        "keywords": [
-            "interoperability",
-            "bridge",
-            "Ecosystem"
-        ],
-        "categories": [
-            "Infrastructure"
-        ],
-        "subcategories": [
-            [
-                "Bridges",
                 "Other"
             ]
         ],
@@ -1368,38 +1489,6 @@
             "Devnet"
         ]
     },
-    "Lync": {
-        "description": "Web3 gaming layer that helps you to build blockchain games in minutes than months",
-        "content": "LYNC is a Leading Multi-chain Gaming Ecosystem Providing Key Infrastructure to Tier 1 Gaming Studios & Indie Developers",
-        "url": "https://lync.world/",
-        "github": "",
-        "discord": "",
-        "telegram": "https://t.me/+T9Nb2o5lvK4zYzhl",
-        "twitter": "https://twitter.com/Lyncworld",
-        "contact": "",
-        "slug": "lync",
-        "keywords": [
-            "Gaming",
-            "Infrastructure",
-            "Ecosystem"
-        ],
-        "categories": [
-            "Gaming"
-        ],
-        "subcategories": [
-            [
-                "Gaming Focused",
-                "Other"
-            ]
-        ],
-        "languages": [
-            "Aptos Move"
-        ],
-        "tags": [
-            "Testnet",
-            "Devnet"
-        ]
-    },
     "Aptos Move": {
         "description": "Aptos is the layer 1 blockchain engineered to evolve.⁣",
         "content": "Aptos is the blockchain network with everything you need to build your big idea. Lets Move.",
@@ -1589,41 +1678,6 @@
         "languages": [],
         "tags": []
     },
-    "Xebra Trade": {
-        "description": "Superfast perpetuals trading on-chain",
-        "content": "",
-        "url": "https://www.xebra.trade/",
-        "github": "",
-        "discord": "",
-        "telegram": "",
-        "twitter": "https://twitter.com/xebratrade",
-        "contact": "",
-        "slug": "xebra-trade",
-        "keywords": [
-            "Dex",
-            "Perpetual",
-            "Ecosystem",
-            "Native"
-        ],
-        "categories": [
-            "DeFi"
-        ],
-        "subcategories": [
-            [
-                "Perpetuals",
-                "Other"
-            ]
-        ],
-        "languages": [
-            "Rust",
-            "Sui Move",
-            "Aptos Move"
-        ],
-        "tags": [
-            "Testnet",
-            "Devnet"
-        ]
-    },
     "Ngmi": {
         "description": "NGMI will be the first ever rollup to launch on Move VM - going live in 2024",
         "content": "",
@@ -1721,33 +1775,6 @@
             "Devnet"
         ]
     },
-    "Flex Protocol": {
-        "description": "The First Liquidity DEX in Move Ecosystem, supporting Games and Fully-on-chain Game.",
-        "content": "Flex offers a unique mechanism for trading NFTs and SFTs via AMM, enabling immediate swaps of diversified portfolios. Its portfolio swap feature allows for efficient trading of gaming assets and characters within the Move ecosystem. Additionally, Flex provides a DEX as a Service (DaaS) via API, allowing for perpetual contracts on various assets, including gaming assets and memes.",
-        "url": "https://www.flextech.xyz",
-        "github": "https://github.com/flex-protocol",
-        "discord": "",
-        "telegram": "",
-        "twitter": "https://twitter.com/0xFlexTech",
-        "slug": "0xFlexTech",
-        "keywords": [],
-        "categories": [
-            "Infrastructure",
-            "DeFi"
-        ],
-        "subcategories": [
-            [
-                "DEX"
-            ]
-        ],
-        "languages": [
-            "Sui Move"
-        ],
-        "tags": [
-            "Testnet",
-            "Devnet"
-        ]
-    },
     "Zion Bets": {
         "description": "The Smoothest Mobile GambleFi Experience.",
         "content": "Welcome to Zion Bets — a game designed to give you a taste of fast bets and live gambling, deployed natively on-chain to the Movement network, secured by Move.",
@@ -1777,6 +1804,433 @@
         ],
         "tags": [
             "Testnet"
+        ]
+    },
+    "Movecity": {
+        "description": "The Social dApp to own onchain moment on Movement",
+        "content": "The Social dApp to own onchain moment on Movement",
+        "url": "https://movecity.io/",
+        "github": "",
+        "discord": "",
+        "telegram": "",
+        "twitter": "https://x.com/movecity2023",
+        "contact": "https://t.me/JackXiao2016",
+        "slug": "movecity",
+        "keywords": [
+            "SocialFi",
+            " NFT",
+            " Movement"
+        ],
+        "categories": [
+            "NFT",
+            "Social"
+        ],
+        "subcategories": [
+            [
+                "Other"
+            ],
+            []
+        ],
+        "languages": [
+            "Sui Move"
+        ],
+        "tags": [
+            "Devnet"
+        ]
+    },
+    "Route-X": {
+        "description": "a comprehensive defil solution on Movement",
+        "content": "Route-X is the first ultimate aggregator on Movement, with designed to optimize liquidity and enhance trading efficiency. By integrating all the Swaps and Clob-X CLOB system, Route-X ensures that traders access the best available prices with minimal slippage.",
+        "url": "https://route-x-neon.vercel.app/",
+        "github": "",
+        "discord": "https://discord.gg/skv3rFMR",
+        "telegram": "https://t.me/routexofficial",
+        "twitter": "https://x.com/routexio",
+        "contact": "https://t.me/kamil_krypto",
+        "slug": "routexio",
+        "keywords": [
+            "defi"
+        ],
+        "categories": [
+            "DeFi"
+        ],
+        "subcategories": [
+            [
+                "DEX",
+                "Liquidation",
+                "Swap Aggregator"
+            ]
+        ],
+        "languages": [
+            "Aptos Move",
+            "Sui Move"
+        ],
+        "tags": [
+            "Testnet",
+            " Devnet"
+        ]
+    },
+    "BlockVision": {
+        "description": "BlockVision offers blockchain infrastructure, specializing in RPC nodes, APIs, and explorers.",
+        "content": "BlockVision delivers next-gen blockchain infrastructure solutions, specializing in RPC nodes, indexing APIs, and explorer development. Supporting both EVM and Move chains, we enhance blockchain experiences with our advanced tools. Our explorers offer comprehensive data analysis and user-friendly interfaces, simplifying blockchain navigation for developers and users. With our cutting-edge infrastructure and expertise, we are equipped to support a wide range of projects across various chains.",
+        "url": "https://blockvision.org",
+        "github": "",
+        "discord": "https://discord.com/invite/blockvision",
+        "telegram": "",
+        "twitter": "https://x.com/blockvisionhq",
+        "contact": "https://t.me/thibautbv",
+        "slug": "blockvision",
+        "keywords": [
+            "blockvision",
+            " infrastructure",
+            " explorer"
+        ],
+        "categories": [
+            "Infrastructure",
+            "Analytics"
+        ],
+        "subcategories": [
+            [
+                "Other"
+            ],
+            [
+                "Data",
+                "Charts",
+                "Other"
+            ]
+        ],
+        "languages": [
+            "Sui Move",
+            "Solidity"
+        ],
+        "tags": [
+            "Mainnet",
+            " Testnet"
+        ]
+    },
+    "Versatus": {
+        "description": "The Integrated Cloud AVS",
+        "content": "Versatus is the Decentralized Cloud built on top of Eigenlayer for Unstoppable Applications enabling developers to launch, manage and scale censorship resistant, verifiable virtual private servers (VPS) & containers, and host web & mobile applications.",
+        "url": "versatus.io",
+        "github": "https://github.com/versatus/allegra",
+        "discord": "discord.gg/versatus",
+        "telegram": "https://t.me/+VwL2En_s8d43MWEx",
+        "twitter": "x.com/versatuslabs",
+        "contact": "t.me/cryptobeans12",
+        "slug": "Versatus",
+        "keywords": [
+            "AVS",
+            " decentralized cloud",
+            " versatus",
+            " eigenlayer"
+        ],
+        "categories": [
+            "Infrastructure"
+        ],
+        "subcategories": [
+            [
+                "Other"
+            ]
+        ],
+        "languages": [
+            "Aptos Move",
+            "Sui Move",
+            "Solidity"
+        ],
+        "tags": [
+            "Devnet",
+            " Testnet"
+        ]
+    },
+    "Saga": {
+        "description": "Infinite horizontal scalability. Launching the next 1000 chains in the Multiverse.",
+        "content": "Saga gives visionaries an Integrated Stack of high-end tools and support they need to turn their Web3 dreams into reality. Saga is a Layer-1 protocol that allows developers to automatically spin up parallelized, VM-agnostic, and interoperable dedicated chains, or “Chainlets,” that provide applications with infinite horizontal scalability.",
+        "url": "https://www.saga.xyz/",
+        "github": "",
+        "discord": "https://discord.com/invite/UCRsTy82Ub",
+        "telegram": "https://t.me/sagaofficialchannel",
+        "twitter": "https://x.com/Sagaxyz__",
+        "contact": "https://www.saga.xyz/contact",
+        "slug": "saga",
+        "keywords": [],
+        "categories": [
+            "Gaming",
+            "Infrastructure"
+        ],
+        "subcategories": [
+            [],
+            [
+                "Layer 1",
+                "Scalability"
+            ]
+        ],
+        "languages": [
+            "Solidity",
+            "Aptos Move",
+            "Sui Move"
+        ],
+        "tags": [
+            "Mainnet"
+        ]
+    },
+    "Search on Dora": {
+        "description": "Dora is the Unified Search Engine for the Multichain World",
+        "content": " We believe that as applications leverage online and onchain infrastructure, unlocking search drives understandability. Embedding interactivity at the Discoverability Layer catalyzes mass adoption.  We are dedicated to enhancing the accessibility of on-chain data through innovative search capabilities. We collaborate with a multitude of blockchain networks and rollup teams to empower them with our comprehensive block explorer and search solutions.  We can best support chains with our:  • Natively multichain block explorer • Token/NFT APIs • Indexed data subgraphs • Bridge Aggregator/Swap/Mint  • Embedded Wallets",
+        "url": "ondora.xyz",
+        "github": "https://github.com/Search-On-Dora",
+        "discord": "",
+        "telegram": "@SearchOnDoraOfficial",
+        "twitter": "https://x.com/SearchOnDora",
+        "contact": "@ThebunnyAccount (https://t.me/ThebunnyAccount)",
+        "slug": "searchondora",
+        "keywords": [],
+        "categories": [
+            "Infrastructure",
+            "DeFi",
+            "NFT",
+            "Gaming",
+            "Wallet",
+            "Analytics"
+        ],
+        "subcategories": [
+            [
+                "Layer 1",
+                "Layer 2",
+                "Bridges"
+            ],
+            [
+                "DEX"
+            ],
+            [
+                "Marketplace",
+                "Gaming",
+                "DAO"
+            ],
+            [],
+            [
+                "Mobile"
+            ],
+            [
+                "Data",
+                "Charts",
+                "Content Creator"
+            ]
+        ],
+        "languages": [
+            "Solidity",
+            "Aptos Move",
+            "Sui Move"
+        ],
+        "tags": [
+            "Devnet",
+            " Testnet",
+            " Mainnet"
+        ]
+    },
+    "Hemera": {
+        "description": "Hemera Protocol is a decentralized, omni-chain covering, modular indexing protocol powering open AI innovation.",
+        "content": "We offer blockchain explorer services distinguished by exceptional performance, scalability, and cost efficiency—up to 2 orders of magnitude cheaper than alternatives. - AI-augmented UX for retail users Already trusted by leading L1 & L2’s Taiko, Linea, Manta Network, Story Protocol, Mantle Network, ZetaChain, Cyber, Polygon etc. You can refer to the following live explorers for key features listed above. We also welcome any additional feature request you want to have in the explorer. - https://manta.socialscan.io/ - https://linea.socialscan.io/ - https://mantle.socialscan.io/",
+        "url": "https://thehemera.xyz/ | socialscan.io",
+        "github": "n/a",
+        "discord": "http://discord.gg/socialscan",
+        "telegram": "n/a",
+        "twitter": "https://x.com/socialscan_io | https://x.com/hemeraprotocol",
+        "contact": "https://t.me/echangyy",
+        "slug": "Hemera-protocol",
+        "keywords": [
+            "explorer",
+            " AI",
+            " infra",
+            " block explorer",
+            " data"
+        ],
+        "categories": [
+            "Infrastructure",
+            "Social",
+            "Other"
+        ],
+        "subcategories": [
+            [
+                "Scalability",
+                "Other"
+            ],
+            [
+                "Community",
+                "Education",
+                "Other"
+            ],
+            [
+                "Other"
+            ]
+        ],
+        "languages": [
+            "Sui Move"
+        ],
+        "tags": [
+            "Mainnet"
+        ]
+    },
+    "SecurFi": {
+        "description": "Trustless security layer for onchain ecosystem",
+        "content": "SecurFi uses cryptography to secure onchain contracts.   SecurFi offers a more accurate and quantitative safety indicator for users through the on-chain bounty.  When users interact with the smart contract, they only need to check the bounty size to assess its security.",
+        "url": "https://secur.fi",
+        "github": "https://github.com/SecurFi",
+        "discord": "",
+        "telegram": "",
+        "twitter": "https://x.com/SecurFi",
+        "contact": "https://t.me/dimitrysc",
+        "slug": "SecurFi",
+        "keywords": [
+            "L1",
+            " L2",
+            " Security"
+        ],
+        "categories": [
+            "Infrastructure"
+        ],
+        "subcategories": [
+            [
+                "Privacy",
+                "Other"
+            ]
+        ],
+        "languages": [
+            "Solidity",
+            "Aptos Move"
+        ],
+        "tags": [
+            "Bounty",
+            " Devnet"
+        ]
+    },
+    "Multichainz": {
+        "description": "DeFi's Most Versatile and Futuristic Lending Platform",
+        "content": "Multichainz is a groundbreaking cross-chain lending protocol that allows users to borrow against any type of blockchain asset, including cryptocurrencies, StakedETH, NFTs, and RWAs. Multichainz also places lending and borrowing versatility at its core through enabling an automated cross-chain mechanism and providing a tailored platform for institutional users to transact with extra safe security measures, such as on-chain verification (KYC), institutional grade asset custody, and a verifiable trusted network of counterparties.",
+        "url": "https://multichainz.com/",
+        "github": "https://multichainz.gitbook.io/multichainz.docs/",
+        "discord": "https://discord.com/invite/JSQpKgDKPp",
+        "telegram": "https://t.me/Multi_ChainZ",
+        "twitter": "https://x.com/MultichainZ_?s=20",
+        "contact": "https://t.me/Sashhed",
+        "slug": "multichainz",
+        "keywords": [
+            "lending",
+            " rwa",
+            " nft",
+            " lsd",
+            " lst"
+        ],
+        "categories": [
+            "DeFi"
+        ],
+        "subcategories": [
+            [
+                "Lending",
+                "RWA",
+                "LST"
+            ]
+        ],
+        "languages": [
+            "Solidity"
+        ],
+        "tags": [
+            "Testnet"
+        ]
+    },
+    "Avitus": {
+        "description": "Open and permissionless derivative protocol boosting DeFi TVL. Allowing any asset to be used as collateral and to provide liquidity.",
+        "content": "Avitus is an open and permissionless derivatives protocol purpose-built on Movement Labs to boost DeFi TVL by unlocking new cases: allow any asset to create a perp market or launch their own perp market. Official link: https://linktr.ee/avitusxyz  Features: Avitus, is a novel perpetual futures infrastructure protocol:  - allows any asset to be used as collateral (LSTs, NFTs, ERC20, etc). - enables creation & launch of perpetual futures market with ease. - unlocks deep liquidity for perpetual futures with ever-growing list of assets. - allows multiple market designs based on requirements of market creator. - engineered to adapt to new trends or hypothesis. - built from ground-up to democratize perpetual futures markets. - offers perpetual futures and swap markets by default. - created with above-industry standard risk management mechanisms. - powered by robust tamper-proof, fault-proof & outlier proof hybrid oracle delivered by combination of on-chain & real-world sources. - adapts a hybrid funding mechanism to maintain sustainability of markets. - provides non-custodian trade execution to end-users. - easily deployable across different chains. - scale DeFi with massive liquidity and unlimited listings towards more liquid futures.  Avitus differentiates itself all from other perp DEXes in the sense that it is community-driven and users are in control similar to how Uniswap works. This allows:  1. Anyone to launch their own perpetual futures market of their own token (benefical to the project tokens to attract traders) and/or  2. Anyone to launch perpetual futures market using their own tokens (benefits the ecosystem as it increase token utility for all tokens in the ecosystem)",
+        "url": "https://www.avituslabs.xyz/",
+        "github": "",
+        "discord": "https://discord.com/invite/avituslabsxyz",
+        "telegram": "",
+        "twitter": "https://x.com/avituslabsxyz",
+        "contact": "https://t.me/A0xZer0",
+        "slug": "avituslabsxyz",
+        "keywords": [
+            "perpetual",
+            " futures",
+            " DeFi",
+            " trading",
+            " decentralized"
+        ],
+        "categories": [
+            "DeFi"
+        ],
+        "subcategories": [
+            [
+                "Derivatives",
+                "Perpetuals"
+            ]
+        ],
+        "languages": [
+            "Solidity"
+        ],
+        "tags": [
+            "Testnet"
+        ]
+    },
+    "VCRED": {
+        "description": "VCRED: AI Liquidity layer ",
+        "content": "VCRED aims to be the AI liquidity layer for  all perp exchanges. Our agents provide access to complex market-making strategies which provide unique yield exposure to users. We are live with Hyperliquidx on Arbitrum , BSX on Base, generating 2M USD daily volume. We are  partnered with Ritual on the platform side.",
+        "url": "staging.vcred.trade",
+        "github": "",
+        "discord": "https://discord.gg/vcred",
+        "telegram": "",
+        "twitter": "https://X.com/cred_v",
+        "contact": "https://t.me/vj_eth",
+        "slug": "VCRED",
+        "keywords": [],
+        "categories": [
+            "DeFi",
+            "Infrastructure"
+        ],
+        "subcategories": [
+            [
+                "Derivatives",
+                "Perpetuals"
+            ],
+            [
+                "Scalability"
+            ]
+        ],
+        "languages": [
+            "Solidity"
+        ],
+        "tags": [
+            "Mainnet"
+        ]
+    },
+    "LayerBank": {
+        "description": "A universal permissionless on-chain bank.",
+        "content": "LayerBank stands as a state-of-the-art, permissionless, non-custodial DeFi lending platform, offering a stable crypto money market service across the omni-chain environment.",
+        "url": "https://layerbank.finance/",
+        "github": "https://github.com/layerbank/contracts",
+        "discord": "https://discord.com/invite/g8eNuudNxe",
+        "telegram": "N/a",
+        "twitter": "https://x.com/LayerBankFi",
+        "contact": "@jolayerbank",
+        "slug": "LayerBank",
+        "keywords": [
+            "Lending",
+            " RWA",
+            " LRT",
+            " ULAB",
+            " Omnichain"
+        ],
+        "categories": [
+            "DeFi"
+        ],
+        "subcategories": [
+            [
+                "Lending"
+            ]
+        ],
+        "languages": [
+            "Solidity"
+        ],
+        "tags": [
+            "Mainnet"
         ]
     }
 }
