@@ -907,38 +907,6 @@
             "Devnet"
         ]
     },
-    "Bucket Protocol": {
-        "description": "Robust and Fundamental DeFi Engine on Sui",
-        "content": "Bucket is a CDP protocol built on Sui. that enhances fund efficiency and stabilizes stablecoin prices.",
-        "url": "https://bucketprotocol.io/",
-        "github": "https://github.com/Bucket-Protocol",
-        "discord": "https://discord.gg/TRcaZXxyxF",
-        "telegram": "https://t.me/bucketprotocol",
-        "twitter": "https://twitter.com/bucket_protocol",
-        "contact": "",
-        "slug": "bucket-protocol",
-        "keywords": [
-            "Stablecoin",
-            "Defi",
-            "Ecosystem"
-        ],
-        "categories": [
-            "DeFi"
-        ],
-        "subcategories": [
-            [
-                "Stablecoin",
-                "Other"
-            ]
-        ],
-        "languages": [
-            "Sui Move"
-        ],
-        "tags": [
-            "Testnet",
-            "Devnet"
-        ]
-    },
     "Leap Wallet": {
         "description": "this wallet is ready for cosmos",
         "content": "Leap is the all-in-one super wallet for Cosmos, offering in-wallet transfers, staking, swaps, dApp browser, and more. Supports 50+ Cosmos chains & trusted by 300k+ cosmonauts.",
