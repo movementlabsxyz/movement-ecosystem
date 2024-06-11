@@ -91,8 +91,6 @@ directories.forEach(dir => {
             languages: record["Languages"] ? record["Languages"].split(',').map(lang => lang.trim()) : [],
             tags: record["Tags"] ? record["Tags"].split(',').filter(tag => tag.trim() !== '') : []
         };
-        console.log(project.languages)
-        console.log(project.tags)
 
         acc[record["Project Name"]] = project;
 
