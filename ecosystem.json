@@ -2804,5 +2804,208 @@
         " Testnet",
         " Mainnet"
       ]
-    }
+    },
+    "Abel Finance": {
+        "description": "The First Cross-Chain Lending Platform Build on Aptos & Sui & Movement  1. Coin and \"AMM LP Coin\" and NFT are supported for lending  2. Support cross-chain lending  3. Make awesome multi chain assets liquidity  4. Official Treasury insurance  5. Fully decentralized community autonomy  6. Referenced an implementation of CompoundV2 and was implemented using the MOVE language",
+        "content": "https://aptos-lend.gitbook.io/abel-finance",
+        "url": "https://abelfinance.xyz/#/markets",
+        "github": "https://github.com/abelfinance",
+        "discord": "https://discord.com/invite/abelfinance",
+        "telegram": "",
+        "twitter": "https://twitter.com/abelfinance",
+        "contact": "https://t.me/jackhov",
+        "slug": "Abel Finance",
+        "keywords": [],
+        "categories": [
+          "DeFi"
+        ],
+        "subcategories": [
+          [
+            "Lending"
+          ]
+        ],
+        "languages": [
+          "Aptos Move",
+          "Sui Move"
+        ],
+        "tags": [
+          "Devnet"
+        ]
+      },
+      "Babylon": {
+        "description": "Unlocking 21 Million Bitcoins to Secure the Decentralized Economy",
+        "content": "Babylon is a blockchain project that designs security sharing protocols for the decentralized world, founded in 2022 by Stanford Professor David Tse and Dr. Fisher Yu. Professor Tse is a member of the U.S. Academy of Engineering. He is renowned as the inventor of the legendary proportional-fair scheduling algorithm for wireless communications, and is the recipient of prestigious awards such as the IEEE Claude E. Shannon Award and the IEEE Richard W. Hamming Medal. The project is led by a team of consensus protocol researchers and experienced layer 1 engineers from around the world. Babylon's mission is to scale Bitcoin to secure the decentralized world. To achieve this, Babylon utilizes the three primary facets of Bitcoin: its asset, its reliable timestamping service, and its most censorship-resistant blockspace in the world. To leverage these facets, Babylon is developing three innovative security-sharing protocols: Bitcoin Staking Protocol, Bitcoin Timestamping Protocol, and Bitcoin Data Availability Protocol. Through these pioneering protocols, Babylon envisions a more secure and decentralized future.",
+        "url": "https://babylonchain.io/",
+        "github": "https://github.com/babylonchain",
+        "discord": "https://discord.com/invite/babylonglobal",
+        "telegram": "https://t.me/babyloncommunity",
+        "twitter": "https://twitter.com/babylon_chain",
+        "contact": "https://t.me/btc_swood",
+        "slug": "babylon",
+        "keywords": [
+          "babylon",
+          " self custodial",
+          " bitcoin staking"
+        ],
+        "categories": [
+          "Other"
+        ],
+        "subcategories": [
+          [
+            "Other"
+          ]
+        ],
+        "languages": [
+          "Solidity"
+        ],
+        "tags": [
+          "Testnet",
+          " Mainnet",
+          " Bounty",
+          " Hiring Now"
+        ]
+      },
+      "Lucia Protocol": {
+        "description": "Lucia Protocol is a revolutionalry lending and borrowing platform that empowers individuals and startup enterprise to obtain credit quickly and easily.",
+        "content": "Lucia Protocol is a non-custodial lending and borrowing protocol, with the primary goal of providing both individuals and startups with seamless access to credit within a framework built on trust. At its core, Lucia revolutionizes the lending landscape by offering borrowers an unparalleled chance to secure credit, all backed by a meticulous credit assessment process that spans both on-chain and off-chain data sources. This credit is designed to offer essential support for managing day-to-day and operational expenses, contributing to financial stability.",
+        "url": "https://www.luciaprotocol.com/",
+        "github": "",
+        "discord": "https://discord.com/invite/ECuzSyshbv",
+        "telegram": "https://t.me/+PrmVeSvnxu1hYTQ5",
+        "twitter": "https://x.com/luciaprotocol",
+        "contact": "https://t.me/touchay",
+        "slug": "Transforming the Collateral Landscape with User-Centric Insights",
+        "keywords": [],
+        "categories": [
+          "DeFi",
+          "Analytics"
+        ],
+        "subcategories": [
+          [
+            "DEX",
+            "Lending",
+            "Other"
+          ],
+          [
+            "Data",
+            "Charts",
+            "Other"
+          ]
+        ],
+        "languages": [
+          "Solidity",
+          "Aptos Move",
+          "Sui Move"
+        ],
+        "tags": [
+          "Devnet",
+          " Hiring Now"
+        ]
+      },
+      "Jackal": {
+        "description": "Actually Decentralized Storage ",
+        "content": "Bring Jackal's actually decentralized storage to your blockchain or dApp, all with a simple smart contract call. No Big Cloud middleman. No central points of failure. No platform risk. No problems.",
+        "url": "https://www.jackalprotocol.com/",
+        "github": "https://github.com/JackalLabs",
+        "discord": "https://discord.com/invite/5GKym3p6rj",
+        "telegram": "https://t.me/+rtuZnbTlHaIzNjVh",
+        "twitter": "https://twitter.com/Jackal_Protocol",
+        "contact": "https://t.me/jaydondigenis",
+        "slug": "JackalProtocol",
+        "keywords": [
+          "Decentralized Storage",
+          " DePIN",
+          " IBC",
+          " L1",
+          " Jackal"
+        ],
+        "categories": [
+          "Infrastructure"
+        ],
+        "subcategories": [
+          [
+            "Layer 1"
+          ]
+        ],
+        "languages": [
+          "Solidity",
+          "Aptos Move",
+          "Sui Move"
+        ],
+        "tags": [
+          "Mainnet"
+        ]
+      },
+      "Shuriken": {
+        "description": "Multichain trading suite designed to simplify and enhance your DeFi experience.",
+        "content": "Shuriken is a comprehensive DeFi trading suite, offering a range of advanced trading applications. Users gain quick and seamless access to bridging, trading, sniping, and advanced orders from any device, providing a competitive edge in any Web3 market.",
+        "url": "https://shuriken.trade/",
+        "github": "",
+        "discord": "",
+        "telegram": "https://t.me/ShurikenDojo",
+        "twitter": "https://x.com/ShurikenTrade",
+        "contact": "https://t.me/Daketh",
+        "slug": "Shuriken",
+        "keywords": [
+          "Trading bot",
+          " Trading Suite",
+          " Bridging",
+          " Bridge",
+          " Multichain"
+        ],
+        "categories": [
+          "DeFi",
+          "Analytics"
+        ],
+        "subcategories": [
+          [
+            "DEX",
+            "Other"
+          ],
+          [
+            "Data",
+            "Charts"
+          ]
+        ],
+        "languages": [
+          "Solidity"
+        ],
+        "tags": [
+          "Mainnet"
+        ]
+      },
+      "Movewiffrens": {
+        "description": "Connect, engage, and grow in the Movement ecosystem with our SocialFi platform.",
+        "content": " Welcome to Movewiffrens, a pioneering SocialFi platform designed to enhance the Movement ecosystem. Our mission is to connect users and creators through secure, autonomous, and inclusive digital experiences. Movewiffrens offers diverse content, personalized profiles, and robust community engagement. By integrating a monetization model and seamless accessibility via Telegram mini-app, we empower a vibrant and interactive community. Join us and be part of a movement that values contribution and innovation!",
+        "url": "https://www.movewiffrens.xyz/",
+        "github": "",
+        "discord": "",
+        "telegram": "",
+        "twitter": "https://x.com/movewiffrens",
+        "contact": "https://t.me/tobyle",
+        "slug": "movewiffrens",
+        "keywords": [
+          "movewiffrens",
+          " socialfi",
+          " buildwiffrens"
+        ],
+        "categories": [
+          "Social"
+        ],
+        "subcategories": [
+          [
+            "Community",
+            "Content Creator",
+            "Marketing"
+          ]
+        ],
+        "languages": [
+          "Solidity",
+          "Aptos Move"
+        ],
+        "tags": [
+          "Testnet"
+        ]
+      }
+    
   }
