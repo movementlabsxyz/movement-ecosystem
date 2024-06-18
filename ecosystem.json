@@ -35,11 +35,11 @@
         "description": "Web3 gaming layer that helps you to build blockchain games in minutes than months",
         "content": "LYNC is a Leading Multi-chain Gaming Ecosystem Providing Key Infrastructure to Tier 1 Gaming Studios & Indie Developers",
         "url": "https://lync.world/",
-        "github": "",
+        "github": "https://github.com/LYNC-WORLD",
         "discord": "",
         "telegram": "https://t.me/+T9Nb2o5lvK4zYzhl",
         "twitter": "https://twitter.com/Lyncworld",
-        "contact": "",
+        "contact": "vish@lync.world",
         "slug": "lync",
         "keywords": [
             "Gaming",
@@ -47,20 +47,31 @@
             "Ecosystem"
         ],
         "categories": [
-            "Gaming"
+            "Infrastructure",
+            "Gaming",
+            "NFT",
+            "Wallet",
+            "Analytics"
         ],
         "subcategories": [
             [
+                "Marketplace",
+                "Layer 2",
+                "Scalability",
                 "Gaming Focused",
+                "Charts",
                 "Other"
             ]
         ],
         "languages": [
-            "Aptos Move"
+            "Aptos Move",
+            "Solidity",
+            "Rust"
         ],
         "tags": [
             "Testnet",
-            "Devnet"
+            "Devnet",
+            "Mainnet"
         ]
     },
     "Razor Wallet": {
