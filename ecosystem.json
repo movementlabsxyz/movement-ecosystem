@@ -31,47 +31,53 @@
             "Mainnet"
         ]
     },
-    "Lync": {
-        "description": "Web3 gaming layer that helps you to build blockchain games in minutes than months",
-        "content": "LYNC is a Leading Multi-chain Gaming Ecosystem Providing Key Infrastructure to Tier 1 Gaming Studios & Indie Developers",
-        "url": "https://lync.world/",
-        "github": "https://github.com/LYNC-WORLD",
-        "discord": "",
+    "LYNC": {
+        "description": "Modular layer 2 on movement empowering move builders",
+        "content": "LYNC is modular layer 2 on movement with core developers modules to unlock scalability, accessibility and security in any distributive environment.",
+        "url": "lync.world",
+        "github": "https://github.com/LYNC-WORLD/",
+        "discord": "https://discord.com/invite/lyncworld",
         "telegram": "https://t.me/+T9Nb2o5lvK4zYzhl",
-        "twitter": "https://twitter.com/Lyncworld",
-        "contact": "vish@lync.world",
-        "slug": "lync",
+        "twitter": "https://x.com/Lyncworld",
+        "contact": "https://t.me/vishNFT",
+        "slug": "LYNC",
         "keywords": [
-            "Gaming",
-            "Infrastructure",
-            "Ecosystem"
+            "movement l2",
+            " web3 dev tools",
+            " l2",
+            " ecosystem",
+            " web3 infra"
         ],
         "categories": [
+            "Other",
             "Infrastructure",
             "Gaming",
-            "NFT",
-            "Wallet",
-            "Analytics"
+            "Analytics",
+            "Wallet"
         ],
         "subcategories": [
             [
-                "Marketplace",
-                "Layer 2",
-                "Scalability",
-                "Gaming Focused",
-                "Charts",
+                "Other"
+            ],
+            [
+                "Layer 2"
+            ],
+            [],
+            [
+                "Data",
+                "Charts"
+            ],
+            [
                 "Other"
             ]
         ],
         "languages": [
-            "Aptos Move",
-            "Solidity",
-            "Rust"
+            "Aptos Move"
         ],
         "tags": [
-            "Testnet",
             "Devnet",
-            "Mainnet"
+            " Testnet",
+            " Mainnet"
         ]
     },
     "Razor Wallet": {
@@ -2279,7 +2285,7 @@
             "Mainnet"
         ]
     },
-     "Softstack": {
+    "Softstack": {
         "description": "Your Web3 Service Partner for Software Development, Cybersecurity and Consulting.",
         "content": "We are softstack (formerly known as Chainsulting), Your Web3 Service Partner, Big enough to be the industry leader. Small enough to know you by name. Not a faceless, profit-driven company. With softstack, you get a partner who cares about your growth.",
         "url": "https://www.softstack.io/",
@@ -2320,501 +2326,538 @@
         ]
     },
     "Edge Matrix Computing": {
-      "description": "Edge Matrix Computing (EMC) consists of a vast technological ecosystem aiming to bridge the chasm between web2 and web3 by nurturing the adoption of AI using blockchain technology. EMC has created a decentralized AI computing power infrastructure which includes a compute distribution layer, an application layer, an asset layer, as well as a vibrant community of independent builders.",
-      "content": "EMC is an ambitious project that will revolutionize AI computing through a blockchain-powered decentralized ecosystem. EMC's core offerings include: 1. Computing power distribution: EMC allows independent computing operators to rent out idle power, providing a cost-effective and scalable AI computing infrastructure. 2. AI/DEpin Hub: A comprehensive ecosystem that supports the development and deployment of AI, DEpin, SociaFi, DeFi, and GameFi applications, fostering innovation and collaboration within the Web3 space. 3. EMC RWA: An ambitious initiative to tokenize real-world assets (RWAs) representing ownership in EMC's data centers, providing investors with exposure to the growing AI and Web3 markets.",
-      "url": "https://www.edgematrix.pro/#/home",
-      "github": "https://github.com/EMCprotocol",
-      "discord": "https://discord.com/invite/edgematrix",
-      "telegram": "https://web.telegram.org/a/#-1001815731442",
-      "twitter": "https://x.com/EMCprotocol",
-      "contact": "https://t.me/ChrisDahmen",
-      "slug": "EMC-protocol",
-      "keywords": [
-        "EMC",
-        "AI+Depin",
-        " RWA",
-        "Computing power"
-      ],
-      "categories": [
-        "Infrastructure"
-      ],
-      "subcategories": [
-        [
-          "Layer 1",
-          "Scalability"
+        "description": "Edge Matrix Computing (EMC) consists of a vast technological ecosystem aiming to bridge the chasm between web2 and web3 by nurturing the adoption of AI using blockchain technology. EMC has created a decentralized AI computing power infrastructure which includes a compute distribution layer, an application layer, an asset layer, as well as a vibrant community of independent builders.",
+        "content": "EMC is an ambitious project that will revolutionize AI computing through a blockchain-powered decentralized ecosystem. EMC's core offerings include: 1. Computing power distribution: EMC allows independent computing operators to rent out idle power, providing a cost-effective and scalable AI computing infrastructure. 2. AI/DEpin Hub: A comprehensive ecosystem that supports the development and deployment of AI, DEpin, SociaFi, DeFi, and GameFi applications, fostering innovation and collaboration within the Web3 space. 3. EMC RWA: An ambitious initiative to tokenize real-world assets (RWAs) representing ownership in EMC's data centers, providing investors with exposure to the growing AI and Web3 markets.",
+        "url": "https://www.edgematrix.pro/#/home",
+        "github": "https://github.com/EMCprotocol",
+        "discord": "https://discord.com/invite/edgematrix",
+        "telegram": "https://web.telegram.org/a/#-1001815731442",
+        "twitter": "https://x.com/EMCprotocol",
+        "contact": "https://t.me/ChrisDahmen",
+        "slug": "EMC-protocol",
+        "keywords": [
+            "EMC",
+            "AI+Depin",
+            " RWA",
+            "Computing power"
+        ],
+        "categories": [
+            "Infrastructure"
+        ],
+        "subcategories": [
+            [
+                "Layer 1",
+                "Scalability"
+            ]
+        ],
+        "languages": [
+            "Solidity"
+        ],
+        "tags": [
+            "Devnet"
         ]
-      ],
-      "languages": [
-        "Solidity"
-      ],
-      "tags": [
-        "Devnet"
-      ]
     },
     "Bitget Wallet": {
-      "description": "Formerly known as BitKeep , Bitget Wallet stands as Asia's largest and a global frontrunner among all-in-one Web3 multi-chain wallets. We offer a comprehensive range of on-chain products and DeFi services to our users, including wallet functionality, Swap feature, NFT trading, DApp browsing, and more. ",
-      "content": "With a 5-year legacy, Bitget Wallet has garnered acclaim from over 20 million users worldwide and has secured partnerships with prominent industry leaders including Ethereum, BNB Chain, Arbitrum, Polygon, and others. This success stems from our commitment to consistently delivering secure and convenient products and services.  In March 2023, Bitget, a leading crypto derivatives trading platform made a substantial $30 million investment in Bitget Wallet , acquiring a controlling stake. Following this strategic move, Bitget Wallet underwent a transformative and strategic brand evolution in August, officially rebranding itself as Bitget Wallet.  With an innovative product and service upgrade that places trading at our Core, we are committed to enriching the trading experience for all Web3 users. ",
-      "url": "https://web3.bitget.com",
-      "github": "",
-      "discord": "https://discord.com/invite/qjH6YGDYgh",
-      "telegram": "https://t.me/Bitget_Wallet",
-      "twitter": " https://twitter.com/BitgetWallet",
-      "contact": "https://t.me/Anniepluto",
-      "slug": "Bitget Wallet",
-      "keywords": [
-        "Wallet"
-      ],
-      "categories": [
-        "Wallet"
-      ],
-      "subcategories": [
-        [
-          "Extension"
+        "description": "Formerly known as BitKeep , Bitget Wallet stands as Asia's largest and a global frontrunner among all-in-one Web3 multi-chain wallets. We offer a comprehensive range of on-chain products and DeFi services to our users, including wallet functionality, Swap feature, NFT trading, DApp browsing, and more. ",
+        "content": "With a 5-year legacy, Bitget Wallet has garnered acclaim from over 20 million users worldwide and has secured partnerships with prominent industry leaders including Ethereum, BNB Chain, Arbitrum, Polygon, and others. This success stems from our commitment to consistently delivering secure and convenient products and services.  In March 2023, Bitget, a leading crypto derivatives trading platform made a substantial $30 million investment in Bitget Wallet , acquiring a controlling stake. Following this strategic move, Bitget Wallet underwent a transformative and strategic brand evolution in August, officially rebranding itself as Bitget Wallet.  With an innovative product and service upgrade that places trading at our Core, we are committed to enriching the trading experience for all Web3 users. ",
+        "url": "https://web3.bitget.com",
+        "github": "",
+        "discord": "https://discord.com/invite/qjH6YGDYgh",
+        "telegram": "https://t.me/Bitget_Wallet",
+        "twitter": " https://twitter.com/BitgetWallet",
+        "contact": "https://t.me/Anniepluto",
+        "slug": "Bitget Wallet",
+        "keywords": [
+            "Wallet"
+        ],
+        "categories": [
+            "Wallet"
+        ],
+        "subcategories": [
+            [
+                "Extension"
+            ]
+        ],
+        "languages": [
+            "Solidity"
+        ],
+        "tags": [
+            "Bounty",
+            " Mainnet"
         ]
-      ],
-      "languages": [
-        "Solidity"
-      ],
-      "tags": [
-        "Bounty",
-        " Mainnet"
-      ]
     },
     "WarpGate": {
-      "description": "The First Decentralised Exchange on  @Immutable  zkEVM |  @movementlabsxyz  - An Exchange for Gamers by Gamers ",
-      "content": "At WarpGate, we believe in breaking barriers and creating a space where gamers can seamlessly navigate between different tokens, games, and blockchain ecosystems. Our mission is to provide a world-class swapping platform, giving you access to top-notch gaming tokens and pioneering the inter-game exchange.",
-      "url": "https://docs.warpgate.pro/",
-      "github": "https://github.com/WarpGate-Labs/",
-      "discord": "https://discord.gg/warpgate",
-      "telegram": "https://t.me/WarpGateCommunity",
-      "twitter": "https://twitter.com/WarpGateX",
-      "contact": "https://t.me/Leo_WarpGate",
-      "slug": "WarpGate",
-      "keywords": [
-        "DEX",
-        " GameFi",
-        " Swap",
-        " LaunchPad",
-        " Bridge"
-      ],
-      "categories": [
-        "DeFi",
-        "Gaming",
-        "Infrastructure"
-      ],
-      "subcategories": [
-        [
-          "DEX"
+        "description": "The First Decentralised Exchange on  @Immutable  zkEVM |  @movementlabsxyz  - An Exchange for Gamers by Gamers ",
+        "content": "At WarpGate, we believe in breaking barriers and creating a space where gamers can seamlessly navigate between different tokens, games, and blockchain ecosystems. Our mission is to provide a world-class swapping platform, giving you access to top-notch gaming tokens and pioneering the inter-game exchange.",
+        "url": "https://docs.warpgate.pro/",
+        "github": "https://github.com/WarpGate-Labs/",
+        "discord": "https://discord.gg/warpgate",
+        "telegram": "https://t.me/WarpGateCommunity",
+        "twitter": "https://twitter.com/WarpGateX",
+        "contact": "https://t.me/Leo_WarpGate",
+        "slug": "WarpGate",
+        "keywords": [
+            "DEX",
+            " GameFi",
+            " Swap",
+            " LaunchPad",
+            " Bridge"
         ],
-        [],
-        [
-          "Layer 2"
+        "categories": [
+            "DeFi",
+            "Gaming",
+            "Infrastructure"
+        ],
+        "subcategories": [
+            [
+                "DEX"
+            ],
+            [],
+            [
+                "Layer 2"
+            ]
+        ],
+        "languages": [
+            "Solidity"
+        ],
+        "tags": [
+            "Mainnet",
+            " Testnet"
         ]
-      ],
-      "languages": [
-        "Solidity"
-      ],
-      "tags": [
-        "Mainnet",
-        " Testnet"
-      ]
     },
     "Ispolink": {
-      "description": "Ispolink is a leading ecosystem of AI and Gaming products developing the Future of Work on Web3",
-      "content": "Ispolink is building the Future of Work on Web3. Ispolink's first product is AI-driven platform for Web3 devs. Our decentralized cross-chain platform empowers Crypto, DeFi and Gaming firms to source leading tech talents with AI-powered algorithms.  The Ispoverse is our #Gaming product providing unique immersive Workforce and Education infra for players and brands: Play2Earn, Hackatons, NFT exhibitions,  immersive co-working, collaboration and Education  The Ispolink (ISP) token is designed to incentivize our community and empower the Ispolink ecosystem with its multiple utilities: purchase of in-platform services, NFTs, governance rights, staking, referral-based mechanisms, GameFi rewards.",
-      "url": "https://www.ispolink.com",
-      "github": "",
-      "discord": "https://discord.gg/ZfVg5ugBvQ",
-      "telegram": "https://t.me/ispolink",
-      "twitter": "https://x.com/ispolink",
-      "contact": "https://t.me/ispolink",
-      "slug": "ispolink",
-      "keywords": [
-        "ispolink",
-        " web3",
-        " jobs",
-        " gaming",
-        " metaverse"
-      ],
-      "categories": [
-        "Infrastructure",
-        "Gaming"
-      ],
-      "subcategories": [
-        [
-          "Other"
+        "description": "Ispolink is a leading ecosystem of AI and Gaming products developing the Future of Work on Web3",
+        "content": "Ispolink is building the Future of Work on Web3. Ispolink's first product is AI-driven platform for Web3 devs. Our decentralized cross-chain platform empowers Crypto, DeFi and Gaming firms to source leading tech talents with AI-powered algorithms.  The Ispoverse is our #Gaming product providing unique immersive Workforce and Education infra for players and brands: Play2Earn, Hackatons, NFT exhibitions,  immersive co-working, collaboration and Education  The Ispolink (ISP) token is designed to incentivize our community and empower the Ispolink ecosystem with its multiple utilities: purchase of in-platform services, NFTs, governance rights, staking, referral-based mechanisms, GameFi rewards.",
+        "url": "https://www.ispolink.com",
+        "github": "",
+        "discord": "https://discord.gg/ZfVg5ugBvQ",
+        "telegram": "https://t.me/ispolink",
+        "twitter": "https://x.com/ispolink",
+        "contact": "https://t.me/ispolink",
+        "slug": "ispolink",
+        "keywords": [
+            "ispolink",
+            " web3",
+            " jobs",
+            " gaming",
+            " metaverse"
         ],
-        []
-      ],
-      "languages": [
-        "Solidity"
-      ],
-      "tags": [
-        "Testnet"
-      ]
+        "categories": [
+            "Infrastructure",
+            "Gaming"
+        ],
+        "subcategories": [
+            [
+                "Other"
+            ],
+            []
+        ],
+        "languages": [
+            "Solidity"
+        ],
+        "tags": [
+            "Testnet"
+        ]
     },
     "Ortege AI": {
-      "description": "At Ortege, we have developed an advanced data analytics platform that encompasses a range of innovative products, each tailored to meet the evolving demands of data analysis and intelligence. Our suite of products is designed to harness the power of big data, AI, and real-time analytics, providing users with insightful, data-driven solutions.",
-      "content": "At Ortege, we have developed an advanced data analytics platform that encompasses a range of innovative products, each tailored to meet the evolving demands of data analysis and intelligence. Our suite of products is designed to harness the power of big data, AI, and real-time analytics, providing users with insightful, data-driven solutions. Here’s an overview of our products: Ortege Studio: This is our flagship data visualization and exploration tool, built upon the robust foundations of Apache Superset. Ortege Studio is engineered to be a strong competitor in the data analytics market, rivaling platforms like Dune and Flipside. It offers users an intuitive interface for creating dynamic dashboards and reports, making data analysis accessible and engaging. Ortege Lakehouse v2: Serving as the backbone of our data infrastructure, Ortege Lakehouse integrates seamlessly with Apache Doris, facilitating efficient data streaming to a RedPanda Kafka endpoint. This data is then ingested into the Lakehouse, ensuring a seamless flow of information and enabling real-time data processing and analytics. This lakehouse architecture is pivotal in handling large-scale data workloads, providing both the flexibility of a data lake and the robustness of a data warehouse. OrtegeGPT: Our cutting-edge Large Language Model (LLM), OrtegeGPT, represents a significant leap in AI-driven analytics. By streaming data in real-time to the Llama LLM, OrtegeGPT can generate insights and answers.  Ortege Notebooks: This allows our customers to run Python and R code against our datasets in Lakehouse SPRAY: This term encapsulates the entire technological ecosystem that underpins all Ortege products.  In summary, at Ortege AI, we're not just building tools; we're crafting a comprehensive data analytics ecosystem that empowers users to unlock the full potential of their data, from visualization and exploration to AI-driven insights and research.",
-      "url": "https://www.ortege.ai/",
-      "github": "https://github.com/Ortege-xyz",
-      "discord": "https://discord.gg/4U3f9pbd",
-      "telegram": "",
-      "twitter": "https://x.com/OrtegeAI",
-      "contact": "https://t.me/ShaManSal",
-      "slug": "ortege-ai",
-      "keywords": [
-        "AI",
-        " Analytics",
-        " Dashboards",
-        " Insights",
-        " Data"
-      ],
-      "categories": [
-        "Infrastructure",
-        "Analytics",
-        "Other"
-      ],
-      "subcategories": [
-        [
-          "Other"
+        "description": "At Ortege, we have developed an advanced data analytics platform that encompasses a range of innovative products, each tailored to meet the evolving demands of data analysis and intelligence. Our suite of products is designed to harness the power of big data, AI, and real-time analytics, providing users with insightful, data-driven solutions.",
+        "content": "At Ortege, we have developed an advanced data analytics platform that encompasses a range of innovative products, each tailored to meet the evolving demands of data analysis and intelligence. Our suite of products is designed to harness the power of big data, AI, and real-time analytics, providing users with insightful, data-driven solutions. Here’s an overview of our products: Ortege Studio: This is our flagship data visualization and exploration tool, built upon the robust foundations of Apache Superset. Ortege Studio is engineered to be a strong competitor in the data analytics market, rivaling platforms like Dune and Flipside. It offers users an intuitive interface for creating dynamic dashboards and reports, making data analysis accessible and engaging. Ortege Lakehouse v2: Serving as the backbone of our data infrastructure, Ortege Lakehouse integrates seamlessly with Apache Doris, facilitating efficient data streaming to a RedPanda Kafka endpoint. This data is then ingested into the Lakehouse, ensuring a seamless flow of information and enabling real-time data processing and analytics. This lakehouse architecture is pivotal in handling large-scale data workloads, providing both the flexibility of a data lake and the robustness of a data warehouse. OrtegeGPT: Our cutting-edge Large Language Model (LLM), OrtegeGPT, represents a significant leap in AI-driven analytics. By streaming data in real-time to the Llama LLM, OrtegeGPT can generate insights and answers.  Ortege Notebooks: This allows our customers to run Python and R code against our datasets in Lakehouse SPRAY: This term encapsulates the entire technological ecosystem that underpins all Ortege products.  In summary, at Ortege AI, we're not just building tools; we're crafting a comprehensive data analytics ecosystem that empowers users to unlock the full potential of their data, from visualization and exploration to AI-driven insights and research.",
+        "url": "https://www.ortege.ai/",
+        "github": "https://github.com/Ortege-xyz",
+        "discord": "https://discord.gg/4U3f9pbd",
+        "telegram": "",
+        "twitter": "https://x.com/OrtegeAI",
+        "contact": "https://t.me/ShaManSal",
+        "slug": "ortege-ai",
+        "keywords": [
+            "AI",
+            " Analytics",
+            " Dashboards",
+            " Insights",
+            " Data"
         ],
-        [
-          "Data",
-          "Charts",
-          "Other"
+        "categories": [
+            "Infrastructure",
+            "Analytics",
+            "Other"
         ],
-        [
-          "Other"
+        "subcategories": [
+            [
+                "Other"
+            ],
+            [
+                "Data",
+                "Charts",
+                "Other"
+            ],
+            [
+                "Other"
+            ]
+        ],
+        "languages": [
+            "Solidity",
+            "Sui Move",
+            "Aptos Move"
+        ],
+        "tags": [
+            "Mainnet"
         ]
-      ],
-      "languages": [
-        "Solidity",
-        "Sui Move",
-        "Aptos Move"
-      ],
-      "tags": [
-        "Mainnet"
-      ]
     },
     "Stream Finance": {
-      "description": "Stream reimagines liquidity provision through 2 components: our DMM Yield Product and Clearing House",
-      "content": "For our DMM product, Stream uses delta neutral rates arbitrage (commonly referred to as a carry trade) to generate dollar denominated yield using WBTC/BTC, WETH/ETH, and USDC as collateral. Our APY ranges from 5-100%. Our upcoming capital efficient clearing house addresses the current fragmented nature of DeFi through the implementation of a unified lending and perp trading platform, lowering funding rates and improving liquidity.  ",
-      "url": "https://streamprotocol.money/",
-      "github": "",
-      "discord": "https://discord.gg/fNe45ZK8",
-      "telegram": "",
-      "twitter": "https://x.com/StreamDefi",
-      "contact": "tg: @aaronguan1225, @diocasares, streamfinancebd@gmail.com",
-      "slug": "StreamFinance",
-      "keywords": [
-        "Defi",
-        " Movement",
-        " Stream",
-        " DEX",
-        " Clearing House"
-      ],
-      "categories": [
-        "DeFi",
-        "Infrastructure",
-        "Other",
-        "Investor"
-      ],
-      "subcategories": [
-        [
-          "DEX",
-          "Lending",
-          "Derivatives",
-          "Perpetuals",
-          "Stablecoin",
-          "Yield Aggregator"
+        "description": "Stream reimagines liquidity provision through 2 components: our DMM Yield Product and Clearing House",
+        "content": "For our DMM product, Stream uses delta neutral rates arbitrage (commonly referred to as a carry trade) to generate dollar denominated yield using WBTC/BTC, WETH/ETH, and USDC as collateral. Our APY ranges from 5-100%. Our upcoming capital efficient clearing house addresses the current fragmented nature of DeFi through the implementation of a unified lending and perp trading platform, lowering funding rates and improving liquidity.  ",
+        "url": "https://streamprotocol.money/",
+        "github": "",
+        "discord": "https://discord.gg/fNe45ZK8",
+        "telegram": "",
+        "twitter": "https://x.com/StreamDefi",
+        "contact": "tg: @aaronguan1225, @diocasares, streamfinancebd@gmail.com",
+        "slug": "StreamFinance",
+        "keywords": [
+            "Defi",
+            " Movement",
+            " Stream",
+            " DEX",
+            " Clearing House"
         ],
-        [
-          "Layer 1",
-          "Layer 2",
-          "Oracles",
-          "Bridges"
+        "categories": [
+            "DeFi",
+            "Infrastructure",
+            "Other",
+            "Investor"
         ],
-        [
-          "Other"
+        "subcategories": [
+            [
+                "DEX",
+                "Lending",
+                "Derivatives",
+                "Perpetuals",
+                "Stablecoin",
+                "Yield Aggregator"
+            ],
+            [
+                "Layer 1",
+                "Layer 2",
+                "Oracles",
+                "Bridges"
+            ],
+            [
+                "Other"
+            ],
+            [
+                "VC",
+                "Angel"
+            ]
         ],
-        [
-          "VC",
-          "Angel"
+        "languages": [
+            "Solidity"
+        ],
+        "tags": [
+            "Testnet"
         ]
-      ],
-      "languages": [
-        "Solidity"
-      ],
-      "tags": [
-        "Testnet"
-      ]
     },
     "The Indexing Company": {
-      "description": "The Indexing Company provides a comprehensive solution for indexing data from any chain",
-      "content": "The Indexing Company provides a comprehensive solution to the complex challenges of aggregating, transforming, and indexing data from various on-chain and off-chain platforms in the Web3 ecosystem. Our unique, horizontally scalable architecture and configuration language enable us to process large volumes of data efficiently and cost-effectively, setting us apart from competitors. Our customers can get their products to market faster since we save them countless hours of data engineering.",
-      "url": "indexing.co",
-      "github": "",
-      "discord": "",
-      "telegram": "",
-      "twitter": "https://x.com/indexingco",
-      "contact": "https://t.me/ape_rture0",
-      "slug": "the-indexing-company",
-      "keywords": [
-        "indexing",
-        " data",
-        " data pipelines",
-        " data engineering",
-        " data infrastructure"
-      ],
-      "categories": [
-        "Infrastructure",
-        "Analytics"
-      ],
-      "subcategories": [
-        [
-          "Other"
+        "description": "The Indexing Company provides a comprehensive solution for indexing data from any chain",
+        "content": "The Indexing Company provides a comprehensive solution to the complex challenges of aggregating, transforming, and indexing data from various on-chain and off-chain platforms in the Web3 ecosystem. Our unique, horizontally scalable architecture and configuration language enable us to process large volumes of data efficiently and cost-effectively, setting us apart from competitors. Our customers can get their products to market faster since we save them countless hours of data engineering.",
+        "url": "indexing.co",
+        "github": "",
+        "discord": "",
+        "telegram": "",
+        "twitter": "https://x.com/indexingco",
+        "contact": "https://t.me/ape_rture0",
+        "slug": "the-indexing-company",
+        "keywords": [
+            "indexing",
+            " data",
+            " data pipelines",
+            " data engineering",
+            " data infrastructure"
         ],
-        [
-          "Data"
+        "categories": [
+            "Infrastructure",
+            "Analytics"
+        ],
+        "subcategories": [
+            [
+                "Other"
+            ],
+            [
+                "Data"
+            ]
+        ],
+        "languages": [
+            "Solidity",
+            "Aptos Move",
+            "Sui Move"
+        ],
+        "tags": [
+            "Mainnet",
+            " Testnet"
         ]
-      ],
-      "languages": [
-        "Solidity",
-        "Aptos Move",
-        "Sui Move"
-      ],
-      "tags": [
-        "Mainnet",
-        " Testnet"
-      ]
     },
     "BRKT (Bracket)": {
-      "description": "\"BRKT: Wager On-Chain with Confidence.\"",
-      "content": "Building at the intersection of prediction markets,memecoins, and sports betting",
-      "url": "https://brkt.gg",
-      "github": "https://brkt-gg.gitbook.io/brkt.gg-whitepaper",
-      "discord": "",
-      "telegram": "https://t.co/Ik6E83rg27",
-      "twitter": "https://x.com/BRKTgg",
-      "contact": "admin@brkt.gg",
-      "slug": "BRKT",
-      "keywords": [
-        "Betting",
-        " Gamble",
-        " Gamblefi",
-        " Trading",
-        " Predictions"
-      ],
-      "categories": [
-        "DeFi",
-        "Gaming",
-        "Social",
-        "Other",
-        "Investor"
-      ],
-      "subcategories": [
-        [
-          "Payments",
-          "Other"
+        "description": "\"BRKT: Wager On-Chain with Confidence.\"",
+        "content": "Building at the intersection of prediction markets,memecoins, and sports betting",
+        "url": "https://brkt.gg",
+        "github": "https://brkt-gg.gitbook.io/brkt.gg-whitepaper",
+        "discord": "",
+        "telegram": "https://t.co/Ik6E83rg27",
+        "twitter": "https://x.com/BRKTgg",
+        "contact": "admin@brkt.gg",
+        "slug": "BRKT",
+        "keywords": [
+            "Betting",
+            " Gamble",
+            " Gamblefi",
+            " Trading",
+            " Predictions"
         ],
-        [],
-        [
-          "Community",
-          "Marketing"
+        "categories": [
+            "DeFi",
+            "Gaming",
+            "Social",
+            "Other",
+            "Investor"
         ],
-        [
-          "Other"
+        "subcategories": [
+            [
+                "Payments",
+                "Other"
+            ],
+            [],
+            [
+                "Community",
+                "Marketing"
+            ],
+            [
+                "Other"
+            ],
+            [
+                "VC",
+                "Angel"
+            ]
         ],
-        [
-          "VC",
-          "Angel"
+        "languages": [
+            "Solidity"
+        ],
+        "tags": [
+            "Devnet"
         ]
-      ],
-      "languages": [
-        "Solidity"
-      ],
-      "tags": [
-        "Devnet"
-      ]
     },
     "Tender Merchant": {
-      "description": "Enabling Merchants to accept digital asset payment easily.",
-      "content": "Tender Merchant enables Merchants to accept digital payments easily and safely.",
-      "url": "https://tender.cash",
-      "github": "",
-      "discord": "",
-      "telegram": "",
-      "twitter": "https://x.com/Tender_Cash",
-      "contact": "https://t.me/flarcos",
-      "slug": "Tender-Merchant",
-      "keywords": [],
-      "categories": [
-        "Other"
-      ],
-      "subcategories": [
-        [
-          "Other"
+        "description": "Enabling Merchants to accept digital asset payment easily.",
+        "content": "Tender Merchant enables Merchants to accept digital payments easily and safely.",
+        "url": "https://tender.cash",
+        "github": "",
+        "discord": "",
+        "telegram": "",
+        "twitter": "https://x.com/Tender_Cash",
+        "contact": "https://t.me/flarcos",
+        "slug": "Tender-Merchant",
+        "keywords": [],
+        "categories": [
+            "Other"
+        ],
+        "subcategories": [
+            [
+                "Other"
+            ]
+        ],
+        "languages": [
+            "Aptos Move"
+        ],
+        "tags": [
+            "Testnet",
+            " Devnet"
         ]
-      ],
-      "languages": [
-        "Aptos Move"
-      ],
-      "tags": [
-        "Testnet",
-        " Devnet"
-      ]
     },
     "Bandit Network": {
-      "description": "Bandit Network: The Growth Toolkit for Web3",
-      "content": "Bandit is a Web3 native platform that brings businesses a core Web3 experience for creating, managing and integrating campaigns that drive user engagement. With an intuitive campaign builder at its core, Bandit empowers you to craft high-engagement campaigns in just minutes. Experience the future of user engagement with Bandit today!",
-      "url": "https://bandit.network/",
-      "github": "https://github.com/bandit-network",
-      "discord": "https://discord.com/invite/WxwAHPRyUA",
-      "telegram": "https://t.me/OnBndit",
-      "twitter": "https://x.com/OnBndit",
-      "contact": "https://t.me/jyotishwarsahani",
-      "slug": "bandit-network",
-      "keywords": [
-        "bandit",
-        " network",
-        " growth",
-        " toolkit"
-      ],
-      "categories": [
-        "Gaming",
-        "Infrastructure",
-        "Analytics",
-        "Social"
-      ],
-      "subcategories": [
-        [],
-        [
-          "Layer 1",
-          "Layer 2",
-          "Scalability",
-          "Privacy"
+        "description": "Bandit Network: The Growth Toolkit for Web3",
+        "content": "Bandit is a Web3 native platform that brings businesses a core Web3 experience for creating, managing and integrating campaigns that drive user engagement. With an intuitive campaign builder at its core, Bandit empowers you to craft high-engagement campaigns in just minutes. Experience the future of user engagement with Bandit today!",
+        "url": "https://bandit.network/",
+        "github": "https://github.com/bandit-network",
+        "discord": "https://discord.com/invite/WxwAHPRyUA",
+        "telegram": "https://t.me/OnBndit",
+        "twitter": "https://x.com/OnBndit",
+        "contact": "https://t.me/jyotishwarsahani",
+        "slug": "bandit-network",
+        "keywords": [
+            "bandit",
+            " network",
+            " growth",
+            " toolkit"
         ],
-        [
-          "Data"
+        "categories": [
+            "Gaming",
+            "Infrastructure",
+            "Analytics",
+            "Social"
         ],
-        [
-          "Marketing"
+        "subcategories": [
+            [],
+            [
+                "Layer 1",
+                "Layer 2",
+                "Scalability",
+                "Privacy"
+            ],
+            [
+                "Data"
+            ],
+            [
+                "Marketing"
+            ]
+        ],
+        "languages": [
+            "Solidity"
+        ],
+        "tags": [
+            "Mainnet",
+            " Testnet",
+            " Devnet",
+            " Bounty"
         ]
-      ],
-      "languages": [
-        "Solidity"
-      ],
-      "tags": [
-        "Mainnet",
-        " Testnet",
-        " Devnet",
-        " Bounty"
-      ]
     },
     "Magpie Protocol": {
-      "description": "Magpie is a state-of-the-art protocol that offers fast, easy, & secure cross-chain and on-chain token swaps.",
-      "content": "Magpie is a state-of-the-art protocol that offers fast, easy, & secure cross-chain and on-chain token swaps. The user experience and capability of Magpie Protocol makes it a valuable addition to the DeFi space. It's mission is that of building a cross-chain infrastructure and protocol that offers a simple, efficient, and secure way to trade and invest within DeFi, pushing forward a future in which DeFi will be the future of finance. As we help further the development of DeFi, that means fostering a workplace culture that encourages out-of-the-box thinking, great ideas, having a good time, hard work, self development, and sharing a love for all things DeFi.",
-      "url": "https://www.magpiefi.xyz/",
-      "github": "",
-      "discord": "https://discord.gg/Ud5FAQKw",
-      "telegram": "https://t.me/magpieprotocol",
-      "twitter": "https://x.com/magpieprotocol",
-      "contact": "https://t.me/franciskthomas",
-      "slug": "magpie",
-      "keywords": [],
-      "categories": [
-        "DeFi"
-      ],
-      "subcategories": [
-        [
-          "Swap Aggregator"
+        "description": "Magpie is a state-of-the-art protocol that offers fast, easy, & secure cross-chain and on-chain token swaps.",
+        "content": "Magpie is a state-of-the-art protocol that offers fast, easy, & secure cross-chain and on-chain token swaps. The user experience and capability of Magpie Protocol makes it a valuable addition to the DeFi space. It's mission is that of building a cross-chain infrastructure and protocol that offers a simple, efficient, and secure way to trade and invest within DeFi, pushing forward a future in which DeFi will be the future of finance. As we help further the development of DeFi, that means fostering a workplace culture that encourages out-of-the-box thinking, great ideas, having a good time, hard work, self development, and sharing a love for all things DeFi.",
+        "url": "https://www.magpiefi.xyz/",
+        "github": "",
+        "discord": "https://discord.gg/Ud5FAQKw",
+        "telegram": "https://t.me/magpieprotocol",
+        "twitter": "https://x.com/magpieprotocol",
+        "contact": "https://t.me/franciskthomas",
+        "slug": "magpie",
+        "keywords": [],
+        "categories": [
+            "DeFi"
+        ],
+        "subcategories": [
+            [
+                "Swap Aggregator"
+            ]
+        ],
+        "languages": [
+            "Solidity"
+        ],
+        "tags": [
+            "Mainnet"
         ]
-      ],
-      "languages": [
-        "Solidity"
-      ],
-      "tags": [
-        "Mainnet"
-      ]
     },
     "Sign Protocol": {
-      "description": "Sign Protocol is an omni-chain attestation protocol, enabling users to freely attest and verify any information on-chain.",
-      "content": "Every day, we are faced with a miscellany of claims and assertions made by various entities in the real world and on the web that we have to work with. Typically, we resort to the classic trust assumptions and relationships of the systems we operate in, such as an entity being honest, or an authority, to establish confirmation of such claims. In the rapidly evolving world, and web, it is becoming less efficient to simply trust and more crucial to verify everything.  Sign Protocol offers a suite of tools, infrastructure, and standards to create a future where all claims and assertions on the web and the world around us are driven by verifiable attestations. It does this by leveraging modern technologies, such as decentralized blockchains and data storage solutions, along with novel techniques such as the use of zero-knowledge cryptography and digital signatures.",
-      "url": "https://sign.global/",
-      "github": "https://github.com/EthSign",
-      "discord": "https://discord.gg/skA5fkqVwT",
-      "telegram": "signeverythingonchain",
-      "twitter": "https://twitter.com/ethsign",
-      "contact": "https://t.me/infinite_search",
-      "slug": "sign",
-      "keywords": [
-        "sign",
-        " sign protocol",
-        " ethsign",
-        " attestation"
-      ],
-      "categories": [
-        "Infrastructure",
-        "Other"
-      ],
-      "subcategories": [
-        [
-          "Layer 1",
-          "Layer 2",
-          "Other"
+        "description": "Sign Protocol is an omni-chain attestation protocol, enabling users to freely attest and verify any information on-chain.",
+        "content": "Every day, we are faced with a miscellany of claims and assertions made by various entities in the real world and on the web that we have to work with. Typically, we resort to the classic trust assumptions and relationships of the systems we operate in, such as an entity being honest, or an authority, to establish confirmation of such claims. In the rapidly evolving world, and web, it is becoming less efficient to simply trust and more crucial to verify everything.  Sign Protocol offers a suite of tools, infrastructure, and standards to create a future where all claims and assertions on the web and the world around us are driven by verifiable attestations. It does this by leveraging modern technologies, such as decentralized blockchains and data storage solutions, along with novel techniques such as the use of zero-knowledge cryptography and digital signatures.",
+        "url": "https://sign.global/",
+        "github": "https://github.com/EthSign",
+        "discord": "https://discord.gg/skA5fkqVwT",
+        "telegram": "signeverythingonchain",
+        "twitter": "https://twitter.com/ethsign",
+        "contact": "https://t.me/infinite_search",
+        "slug": "sign",
+        "keywords": [
+            "sign",
+            " sign protocol",
+            " ethsign",
+            " attestation"
         ],
-        [
-          "Other"
+        "categories": [
+            "Infrastructure",
+            "Other"
+        ],
+        "subcategories": [
+            [
+                "Layer 1",
+                "Layer 2",
+                "Other"
+            ],
+            [
+                "Other"
+            ]
+        ],
+        "languages": [
+            "Solidity"
+        ],
+        "tags": [
+            "Mainnet"
         ]
-      ],
-      "languages": [
-        "Solidity"
-      ],
-      "tags": [
-        "Mainnet"
-      ]
     },
     "Flipside": {
-      "description": "Flipside is a leading crypto analytics & growth partner trusted by +100,000 analysts and builders.",
-      "content": "Flipside Crypto is a leading on-chain data analytics provider. With the most reliable blockchain data in the market, our expertly-modeled datasets are trusted by +100,000 analysts, protocols and companies for their accuracy and accessibility. Our team of protocol experts work closely with chain foundations like Avalanche, Solana, Aptos, Sei, Near and more to provide the most comprehensive, curated blockchain data on the market and drive growth through a variety of programs.",
-      "url": "https://flipsidecrypto.xyz/",
-      "github": "",
-      "discord": "https://discord.com/invite/ZmU3jQuu6W",
-      "telegram": "",
-      "twitter": "https://x.com/flipsidecrypto",
-      "contact": "@avimeyers",
-      "slug": "flipside",
-      "keywords": [
-        "ecosystem",
-        " analytics",
-        " growth",
-        " quests",
-        " flipside"
-      ],
-      "categories": [
-        "Analytics",
-        "Infrastructure"
-      ],
-      "subcategories": [
-        [
-          "Data",
-          "Charts",
-          "Content Creator"
+        "description": "Flipside is a leading crypto analytics & growth partner trusted by +100,000 analysts and builders.",
+        "content": "Flipside Crypto is a leading on-chain data analytics provider. With the most reliable blockchain data in the market, our expertly-modeled datasets are trusted by +100,000 analysts, protocols and companies for their accuracy and accessibility. Our team of protocol experts work closely with chain foundations like Avalanche, Solana, Aptos, Sei, Near and more to provide the most comprehensive, curated blockchain data on the market and drive growth through a variety of programs.",
+        "url": "https://flipsidecrypto.xyz/",
+        "github": "",
+        "discord": "https://discord.com/invite/ZmU3jQuu6W",
+        "telegram": "",
+        "twitter": "https://x.com/flipsidecrypto",
+        "contact": "@avimeyers",
+        "slug": "flipside",
+        "keywords": [
+            "ecosystem",
+            " analytics",
+            " growth",
+            " quests",
+            " flipside"
         ],
-        [
-          "Other"
+        "categories": [
+            "Analytics",
+            "Infrastructure"
+        ],
+        "subcategories": [
+            [
+                "Data",
+                "Charts",
+                "Content Creator"
+            ],
+            [
+                "Other"
+            ]
+        ],
+        "languages": [
+            "Aptos Move",
+            "Solidity"
+        ],
+        "tags": [
+            "Bounty",
+            " Testnet",
+            " Mainnet"
         ]
-      ],
-      "languages": [
-        "Aptos Move",
-        "Solidity"
-      ],
-      "tags": [
-        "Bounty",
-        " Testnet",
-        " Mainnet"
-      ]
+    },
+    "NodeOps": {
+        "description": "A simplified infrastructure for Node Operations",
+        "content": "NodeOps redefines Web3 development and operations with its streamlined node orchestration layer, crafted for node operators. Revolutionizing the space, our platform offers one-click node deployment, simplifying complexities in node operations. Harness the power of our seamless infrastructure solution, helping you to focus on only driving Web3 innovation. Experience frictionless node management through our user-friendly platform, propelling your Web3 endeavors to new heights.",
+        "url": "https://nodeops.xyz/",
+        "github": "https://github.com/NodeOps-app",
+        "discord": "https://discord.com/channels/1199323224043950240/1199330861624078356",
+        "telegram": "",
+        "twitter": "https://x.com/NodeOps_App",
+        "contact": "hello@nodeops.xyz",
+        "slug": "NodeOps",
+        "keywords": [
+            "Node Orchestration Layer",
+            " Node Operations",
+            " One-click Deployment"
+        ],
+        "categories": [
+            "Infrastructure"
+        ],
+        "subcategories": [
+            [
+                "Layer 1",
+                "Layer 2",
+                "Oracles",
+                "Bridges",
+                "Scalability",
+                "Privacy",
+                "Other"
+            ]
+        ],
+        "languages": [
+            "Solidity"
+        ],
+        "tags": [
+            "Hiring Now",
+            " Mainnet"
+        ]
     },
     "Abel Finance": {
         "description": "The First Cross-Chain Lending Platform Build on Aptos & Sui & Movement  1. Coin and \"AMM LP Coin\" and NFT are supported for lending  2. Support cross-chain lending  3. Make awesome multi chain assets liquidity  4. Official Treasury insurance  5. Fully decentralized community autonomy  6. Referenced an implementation of CompoundV2 and was implemented using the MOVE language",
@@ -2828,22 +2871,22 @@
         "slug": "Abel Finance",
         "keywords": [],
         "categories": [
-          "DeFi"
+            "DeFi"
         ],
         "subcategories": [
-          [
-            "Lending"
-          ]
+            [
+                "Lending"
+            ]
         ],
         "languages": [
-          "Aptos Move",
-          "Sui Move"
+            "Aptos Move",
+            "Sui Move"
         ],
         "tags": [
-          "Devnet"
+            "Devnet"
         ]
-      },
-      "Babylon": {
+    },
+    "Babylon": {
         "description": "Unlocking 21 Million Bitcoins to Secure the Decentralized Economy",
         "content": "Babylon is a blockchain project that designs security sharing protocols for the decentralized world, founded in 2022 by Stanford Professor David Tse and Dr. Fisher Yu. Professor Tse is a member of the U.S. Academy of Engineering. He is renowned as the inventor of the legendary proportional-fair scheduling algorithm for wireless communications, and is the recipient of prestigious awards such as the IEEE Claude E. Shannon Award and the IEEE Richard W. Hamming Medal. The project is led by a team of consensus protocol researchers and experienced layer 1 engineers from around the world. Babylon's mission is to scale Bitcoin to secure the decentralized world. To achieve this, Babylon utilizes the three primary facets of Bitcoin: its asset, its reliable timestamping service, and its most censorship-resistant blockspace in the world. To leverage these facets, Babylon is developing three innovative security-sharing protocols: Bitcoin Staking Protocol, Bitcoin Timestamping Protocol, and Bitcoin Data Availability Protocol. Through these pioneering protocols, Babylon envisions a more secure and decentralized future.",
         "url": "https://babylonchain.io/",
@@ -2854,29 +2897,29 @@
         "contact": "https://t.me/btc_swood",
         "slug": "babylon",
         "keywords": [
-          "babylon",
-          " self custodial",
-          " bitcoin staking"
+            "babylon",
+            " self custodial",
+            " bitcoin staking"
         ],
         "categories": [
-          "Other"
+            "Other"
         ],
         "subcategories": [
-          [
-            "Other"
-          ]
+            [
+                "Other"
+            ]
         ],
         "languages": [
-          "Solidity"
+            "Solidity"
         ],
         "tags": [
-          "Testnet",
-          " Mainnet",
-          " Bounty",
-          " Hiring Now"
+            "Testnet",
+            " Mainnet",
+            " Bounty",
+            " Hiring Now"
         ]
-      },
-      "Lucia Protocol": {
+    },
+    "Lucia Protocol": {
         "description": "Lucia Protocol is a revolutionalry lending and borrowing platform that empowers individuals and startup enterprise to obtain credit quickly and easily.",
         "content": "Lucia Protocol is a non-custodial lending and borrowing protocol, with the primary goal of providing both individuals and startups with seamless access to credit within a framework built on trust. At its core, Lucia revolutionizes the lending landscape by offering borrowers an unparalleled chance to secure credit, all backed by a meticulous credit assessment process that spans both on-chain and off-chain data sources. This credit is designed to offer essential support for managing day-to-day and operational expenses, contributing to financial stability.",
         "url": "https://www.luciaprotocol.com/",
@@ -2888,32 +2931,32 @@
         "slug": "Transforming the Collateral Landscape with User-Centric Insights",
         "keywords": [],
         "categories": [
-          "DeFi",
-          "Analytics"
+            "DeFi",
+            "Analytics"
         ],
         "subcategories": [
-          [
-            "DEX",
-            "Lending",
-            "Other"
-          ],
-          [
-            "Data",
-            "Charts",
-            "Other"
-          ]
+            [
+                "DEX",
+                "Lending",
+                "Other"
+            ],
+            [
+                "Data",
+                "Charts",
+                "Other"
+            ]
         ],
         "languages": [
-          "Solidity",
-          "Aptos Move",
-          "Sui Move"
+            "Solidity",
+            "Aptos Move",
+            "Sui Move"
         ],
         "tags": [
-          "Devnet",
-          " Hiring Now"
+            "Devnet",
+            " Hiring Now"
         ]
-      },
-      "Jackal": {
+    },
+    "Jackal": {
         "description": "Actually Decentralized Storage ",
         "content": "Bring Jackal's actually decentralized storage to your blockchain or dApp, all with a simple smart contract call. No Big Cloud middleman. No central points of failure. No platform risk. No problems.",
         "url": "https://www.jackalprotocol.com/",
@@ -2924,30 +2967,30 @@
         "contact": "https://t.me/jaydondigenis",
         "slug": "JackalProtocol",
         "keywords": [
-          "Decentralized Storage",
-          " DePIN",
-          " IBC",
-          " L1",
-          " Jackal"
+            "Decentralized Storage",
+            " DePIN",
+            " IBC",
+            " L1",
+            " Jackal"
         ],
         "categories": [
-          "Infrastructure"
+            "Infrastructure"
         ],
         "subcategories": [
-          [
-            "Layer 1"
-          ]
+            [
+                "Layer 1"
+            ]
         ],
         "languages": [
-          "Solidity",
-          "Aptos Move",
-          "Sui Move"
+            "Solidity",
+            "Aptos Move",
+            "Sui Move"
         ],
         "tags": [
-          "Mainnet"
+            "Mainnet"
         ]
-      },
-      "Shuriken": {
+    },
+    "Shuriken": {
         "description": "Multichain trading suite designed to simplify and enhance your DeFi experience.",
         "content": "Shuriken is a comprehensive DeFi trading suite, offering a range of advanced trading applications. Users gain quick and seamless access to bridging, trading, sniping, and advanced orders from any device, providing a competitive edge in any Web3 market.",
         "url": "https://shuriken.trade/",
@@ -2958,34 +3001,34 @@
         "contact": "https://t.me/Daketh",
         "slug": "Shuriken",
         "keywords": [
-          "Trading bot",
-          " Trading Suite",
-          " Bridging",
-          " Bridge",
-          " Multichain"
+            "Trading bot",
+            " Trading Suite",
+            " Bridging",
+            " Bridge",
+            " Multichain"
         ],
         "categories": [
-          "DeFi",
-          "Analytics"
+            "DeFi",
+            "Analytics"
         ],
         "subcategories": [
-          [
-            "DEX",
-            "Other"
-          ],
-          [
-            "Data",
-            "Charts"
-          ]
+            [
+                "DEX",
+                "Other"
+            ],
+            [
+                "Data",
+                "Charts"
+            ]
         ],
         "languages": [
-          "Solidity"
+            "Solidity"
         ],
         "tags": [
-          "Mainnet"
+            "Mainnet"
         ]
-      },
-      "Movewiffrens": {
+    },
+    "Movewiffrens": {
         "description": "Connect, engage, and grow in the Movement ecosystem with our SocialFi platform.",
         "content": " Welcome to Movewiffrens, a pioneering SocialFi platform designed to enhance the Movement ecosystem. Our mission is to connect users and creators through secure, autonomous, and inclusive digital experiences. Movewiffrens offers diverse content, personalized profiles, and robust community engagement. By integrating a monetization model and seamless accessibility via Telegram mini-app, we empower a vibrant and interactive community. Join us and be part of a movement that values contribution and innovation!",
         "url": "https://www.movewiffrens.xyz/",
@@ -2996,27 +3039,26 @@
         "contact": "https://t.me/tobyle",
         "slug": "movewiffrens",
         "keywords": [
-          "movewiffrens",
-          " socialfi",
-          " buildwiffrens"
+            "movewiffrens",
+            " socialfi",
+            " buildwiffrens"
         ],
         "categories": [
-          "Social"
+            "Social"
         ],
         "subcategories": [
-          [
-            "Community",
-            "Content Creator",
-            "Marketing"
-          ]
+            [
+                "Community",
+                "Content Creator",
+                "Marketing"
+            ]
         ],
         "languages": [
-          "Solidity",
-          "Aptos Move"
+            "Solidity",
+            "Aptos Move"
         ],
         "tags": [
-          "Testnet"
+            "Testnet"
         ]
-      }
-    
-  }
+    }
+}
