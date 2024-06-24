@@ -1,7 +1,7 @@
 {
     "OmniBTC": {
-        "description": "OmniBTC is a decentralized cross-chain bridge and lending platform, aiming to connect and unify all the on-chain liquidity. ",
-        "content": "OmniBTC is the ultimate cross-chain bridge and lending platform that unifies all on-chain liquidity using interoperability protocols such as LayerZero, Wormhole, and Celer Network, etc. Allowing users to bridge and lend any token on any chain without interacting with multiple protocols, DEX, and bridges. ",
+        "description": "OmniBTC is a decentralized cross-chain bridge and lending platform, aiming to connect and unify all the on-chain liquidity.",
+        "content": "OmniBTC is the ultimate cross-chain bridge and lending platform that unifies all on-chain liquidity using interoperability protocols such as LayerZero, Wormhole, and Celer Network, etc. Allowing users to bridge and lend any token on any chain without interacting with multiple protocols, DEXs, and bridges. ",
         "url": "https://www.omnibtc.finance/",
         "github": "https://github.com/OmniBTC",
         "discord": "https://discord.gg/fz8ZkDJgPB",
@@ -32,9 +32,9 @@
         ]
     },
     "LYNC": {
-        "description": "Modular layer 2 on movement empowering move builders",
-        "content": "LYNC is modular layer 2 on movement with core developers modules to unlock scalability, accessibility and security in any distributive environment.",
-        "url": "lync.world",
+        "description": "Modular Layer 2 on Movement, empowering Move builders",
+        "content": "LYNC is a modular layer 2 on Movement with core developer modules to unlock scalability, accessibility and security in any distributive environment.",
+        "url": "https://lync.world/",
         "github": "https://github.com/LYNC-WORLD/",
         "discord": "https://discord.com/invite/lyncworld",
         "telegram": "https://t.me/+T9Nb2o5lvK4zYzhl",
@@ -82,7 +82,7 @@
     },
     "Razor Wallet": {
         "description": "Razor Wallet: Your Sleek Companion on Movement",
-        "content": "Building Native Solutions for DeFi and Infrastructure on Movementlabsxyz.",
+        "content": "Building native solutions for DeFi and Infrastructure on Movementlabsxyz.",
         "url": "https://razorwallet.xyz/",
         "github": "https://github.com/razorlabsorg",
         "discord": "https://discord.gg/wdv9sGTheX",
@@ -117,8 +117,8 @@
         ]
     },
     "Lexer Market": {
-        "description": "Long, Short, Swap Perpetual Everything ",
-        "content": "Decentralized perpetual exchange for Forex, Crypto, NFT & more.",
+        "description": "Long, Short, Swap Perpetual Everything",
+        "content": "Decentralized perpetual exchange for Forex, Crypto, NFT and more.",
         "url": "https://www.lexer.markets/",
         "github": "https://github.com/interest-protocol",
         "discord": "https://discord.com/invite/QUCRBYD6uc",
@@ -149,8 +149,8 @@
         ]
     },
     "Nightly Connect": {
-        "description": "Wallet Adapter & Set of ready-to-use tools for building mobile dApps",
-        "content": "Nightly Connect is a permissionless, open-source solution that serves as both a wallet adapter and a set of ready-to-use tools for building dApps, enabling connections through QR codes or deep links. Nightly Connect provides solutions to both wallets and dApps. It not only enables easier connections to extension and mobile dApps, but also integrates wallets into dApps.",
+        "description": "Wallet Adapter & a set of ready-to-use tools for building mobile dApps",
+        "content": "Nightly Connect is a permissionless, open-source solution that serves as both a wallet adapter and a set of ready-to-use tools for building dApps, enabling connections through QR codes or deep links. Nightly Connect provides solutions to both wallets and dApps. It not only enables easier connections to extension and mobile dApps, but also integrates wallets into dApps.",
         "url": "https://nightly.app/connect",
         "github": "https://github.com/nightly-labs/connect",
         "discord": "https://discord.com/invite/7nhFHA6yZq",
@@ -183,7 +183,7 @@
         ]
     },
     "Xebra Trade": {
-        "description": "Superfast perpetuals trading on-chain",
+        "description": "Superfast perpetual trading on-chain",
         "content": "",
         "url": "https://www.xebra.trade/",
         "github": "",
@@ -219,7 +219,7 @@
     },
     "Hyperlane": {
         "description": "Connecting modular expansion with permissionless interop ⏩",
-        "content": "Hyperlane is the first interoperability layer that enables you to permissionlessly connect any blockchain, out-of-the-box.",
+        "content": "Hyperlane is the first interoperability layer that enables you to connect any blockchain permissionlessly, out-of-the-box.",
         "url": "https://www.hyperlane.xyz/",
         "github": "https://github.com/hyperlane-xyz",
         "discord": "http://discord.gg/hyperlane",
@@ -276,7 +276,7 @@
         ]
     },
     "Flex Protocol": {
-        "description": "The First Liquidity DEX in Move Ecosystem, supporting Games and Fully-on-chain Game.",
+        "description": "The first liquidity DEX in the Move ecosystem, supporting games and fully-on-chain games.",
         "content": "Flex offers a unique mechanism for trading NFTs and SFTs via AMM, enabling immediate swaps of diversified portfolios. Its portfolio swap feature allows for efficient trading of gaming assets and characters within the Move ecosystem. Additionally, Flex provides a DEX as a Service (DaaS) via API, allowing for perpetual contracts on various assets, including gaming assets and memes.",
         "url": "https://www.flextech.xyz",
         "github": "https://github.com/flex-protocol",
@@ -303,7 +303,7 @@
         ]
     },
     "Desig": {
-        "description": "The First OmniChain Smart Multisig",
+        "description": "The First Omnichain Smart Multisig",
         "content": "Experience the first Omnichain Smart Multisig wallet that streamlines treasury ops. Watch your funds flourish with intuitive tracking, smart allocation & insightful cashflow reports. ",
         "url": "https://desig.io/",
         "github": "https://github.com/Desig-Labs",
@@ -539,7 +539,7 @@
         "keywords": [
             "Liquid Staking",
             "Avalanche",
-            "Sbunets",
+            "Subnets",
             "onchain",
             "LST"
         ],
@@ -561,7 +561,7 @@
     },
     "Gorillaz": {
         "description": "The most epic gorilla community on Movement.",
-        "content": "Gorilla moverz is an epic community of gorillas on Movement, and together WAGMI.",
+        "content": "Gorilla Moverz is an epic community of Gorillas on Movement, and together WAGMI.",
         "url": "https://www.gorillamoverz.xyz/",
         "github": "https://github.com/AltayDev",
         "discord": "https://discord.gg/yWNEcv8jxf",
@@ -593,7 +593,7 @@
     },
     "Avalanche": {
         "description": "Build anything you want, any way you want on the lightning fast, scalable blockchain that wont let you down.",
-        "content": "Avalanche is the future-proof blockchain built to scale. Build any thing you want, any way you want on the most developer-friendly Layer 1",
+        "content": "Avalanche is the future-proof blockchain built to scale. Build anything you want, any way you want on the most developer-friendly Layer 1",
         "url": "https://www.avax.network",
         "github": "https://github.com/ava-labs",
         "discord": "https://discord.com/invite/avax",
@@ -992,7 +992,7 @@
     },
     "Kado": {
         "description": "The easiest way to buy, sell or swap crypto.",
-        "content": "Onboard to Web3 in 5 minutes. Buy and sell cryptocurrency instantly with Kado using your card or bank transfer",
+        "content": "Onboard to Web3 in 5 minutes. Buy and sell cryptocurrency instantly with Kado using your card or bank transfer.",
         "url": "https://www.kado.money/",
         "github": "",
         "discord": "",
@@ -1025,7 +1025,7 @@
     },
     "Noble": {
         "description": "The new standard for digital asset issuance",
-        "content": "Noble is changing how stablecoins and other real world assets are issued on blockchains by combining minimalistic, high security architecture with the cross-chain efficiencies of the IBC protocol.",
+        "content": "Noble is changing how stablecoins and other real-world assets are issued on blockchains by combining minimalistic, high-security architecture with the cross-chain efficiencies of the IBC protocol.",
         "url": "https://nobleassets.xyz/",
         "github": "https://github.com/noble-assets",
         "discord": "",
@@ -1551,8 +1551,8 @@
         "slug": "dappad-launchpad",
         "keywords": [
             "Launchpad",
-            " Account Abstraction",
-            " Custom Paymaster"
+            "Account Abstraction",
+            "Custom Paymaster"
         ],
         "categories": [
             "Other",
@@ -1673,7 +1673,7 @@
     "Yodeswap": {
         "description": "Original meme DEX on Dogechain, coming soon to Movementlabsxyz",
         "content": "",
-        "url": "yodeswap.dog",
+        "url": "https://yodeswap.dog",
         "github": "https://github.com/interest-protocol",
         "discord": "",
         "telegram": "https://t.me/Yodeswap2",
@@ -1702,7 +1702,7 @@
         "content": "",
         "url": "",
         "github": "",
-        "discord": "discord.gg/grpcgyzVEd",
+        "discord": "https://discord.gg/grpcgyzVEd",
         "telegram": "",
         "twitter": "https://twitter.com/ngmi_art",
         "contact": "",
@@ -1930,7 +1930,7 @@
     "Versatus": {
         "description": "The Integrated Cloud AVS",
         "content": "Versatus is the Decentralized Cloud built on top of Eigenlayer for Unstoppable Applications enabling developers to launch, manage and scale censorship resistant, verifiable virtual private servers (VPS) & containers, and host web & mobile applications.",
-        "url": "versatus.io",
+        "url": "https://versatus.io",
         "github": "https://github.com/versatus/allegra",
         "discord": "discord.gg/versatus",
         "telegram": "https://t.me/+VwL2En_s8d43MWEx",
@@ -1995,7 +1995,7 @@
     "Nightly Wallet": {
         "description": "Multichain Crypto Wallet Supporting MOVEmenet",
         "content": "Nightly is a multichain crypto wallet, available on blockchains such as Movement, Aptos, Sui, Solana, NEAR, Aleph Zero, Polkadot, and Vara. It is designed for both desktop and mobile users, available as a browser extension compatible with Chrome, Firefox, Brave, and Edge, as well as a mobile application for Android and iOS platforms.",
-        "url": "https://nightly.app/",
+        "url": "https://nightly.app",
         "github": "",
         "discord": "https://discord.com/invite/7nhFHA6yZq",
         "telegram": "https://t.me/nightly_app",
@@ -2028,7 +2028,7 @@
     "Search on Dora": {
         "description": "Dora is the Unified Search Engine for the Multichain World",
         "content": " We believe that as applications leverage online and onchain infrastructure, unlocking search drives understandability. Embedding interactivity at the Discoverability Layer catalyzes mass adoption.  We are dedicated to enhancing the accessibility of on-chain data through innovative search capabilities. We collaborate with a multitude of blockchain networks and rollup teams to empower them with our comprehensive block explorer and search solutions.  We can best support chains with our:  • Natively multichain block explorer • Token/NFT APIs • Indexed data subgraphs • Bridge Aggregator/Swap/Mint  • Embedded Wallets",
-        "url": "ondora.xyz",
+        "url": "https://ondora.xyz",
         "github": "https://github.com/Search-On-Dora",
         "discord": "",
         "telegram": "@SearchOnDoraOfficial",
@@ -2082,7 +2082,7 @@
     "Hemera": {
         "description": "Hemera Protocol is a decentralized, omni-chain covering, modular indexing protocol powering open AI innovation.",
         "content": "We offer blockchain explorer services distinguished by exceptional performance, scalability, and cost efficiency—up to 2 orders of magnitude cheaper than alternatives. - AI-augmented UX for retail users Already trusted by leading L1 & L2’s Taiko, Linea, Manta Network, Story Protocol, Mantle Network, ZetaChain, Cyber, Polygon etc. You can refer to the following live explorers for key features listed above. We also welcome any additional feature request you want to have in the explorer. - https://manta.socialscan.io/ - https://linea.socialscan.io/ - https://mantle.socialscan.io/",
-        "url": "https://thehemera.xyz/ | socialscan.io",
+        "url": "https://thehemera.xyz | socialscan.io",
         "github": "n/a",
         "discord": "http://discord.gg/socialscan",
         "telegram": "n/a",
@@ -2225,7 +2225,7 @@
     "VCRED": {
         "description": "VCRED: AI Liquidity layer ",
         "content": "VCRED aims to be the AI liquidity layer for  all perp exchanges. Our agents provide access to complex market-making strategies which provide unique yield exposure to users. We are live with Hyperliquidx on Arbitrum , BSX on Base, generating 2M USD daily volume. We are  partnered with Ritual on the platform side.",
-        "url": "staging.vcred.trade",
+        "url": "https://staging.vcred.trade",
         "github": "",
         "discord": "https://discord.gg/vcred",
         "telegram": "",
