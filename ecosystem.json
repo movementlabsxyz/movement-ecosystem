@@ -148,6 +148,39 @@
             "Devnet"
         ]
     },
+    "Curvance": {
+        "description": "Modular Protocol for Optimized Liquidity Management",
+        "content": "Curvance is a modular protocol for optimized liquidity management, serving as the interoperability layer of DeFi. With integrations on multiple blockchains, Curvance simplifies the multichain experience through a unified interface, allowing users to identify and capitalize on opportunities across any chain. Secured by a dual oracle model and dynamic liquidation engine, Curvance unlocks the capital efficiency of yield-bearing assets and ERC-20 tokens.",
+        "url": "https://www.curvance.com",
+        "github": "https://github.com/curvance",
+        "discord": "https://discord.gg/curvance",
+        "telegram": "https://t.me/CurvanceChat",
+        "twitter": "https://x.com/curvance",
+        "contact": "https://x.com/0xmai",
+        "slug": "Curvance",
+        "keywords": [
+            "defi",
+            " lending",
+            " borrowing",
+            " yield",
+            " liquidity"
+        ],
+        "categories": [
+            "DeFi"
+        ],
+        "subcategories": [
+            [
+                "Lending",
+                "Yield Aggregator"
+            ]
+        ],
+        "languages": [
+            "Solidity"
+        ],
+        "tags": [
+            "Testnet"
+        ]
+    },
     "Nightly Connect": {
         "description": "Wallet Adapter & Set of ready-to-use tools for building mobile dApps",
         "content": "Nightly Connect is a permissionless, open-source solution that serves as both a wallet adapter and a set of ready-to-use tools for building dApps, enabling connections through QR codes or deep links. Nightly Connect provides solutions to both wallets and dApps. It not only enables easier connections to extension and mobile dApps, but also integrates wallets into dApps.",
